@@ -1,4 +1,7 @@
 from BinaryTree import Tree
+"""
+BinaryTree.py has been defined 
+"""
 
 p = Tree()
 q = Tree()
