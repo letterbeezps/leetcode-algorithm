@@ -38,3 +38,13 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+"""
+在控制台执行代码
+zp-MACdeMacBook-Pro:List zpmac$ python3 122maxProfit.py
+接着输入数组
+[7, 1, 5, 3, 6, 4]
+7
+[1, 2, 3, 4, 5]
+4
+"""
