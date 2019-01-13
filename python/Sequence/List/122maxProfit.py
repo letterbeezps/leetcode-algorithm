@@ -17,6 +17,8 @@ class Solution:
         #   解法二
         # 动态规划的角度来考虑问题
         l = len(prices)
+        if l == 0:
+            return 0
         dp = [0] * l
         dp[0] = 0
         for i in range(1, l):
