@@ -5,6 +5,7 @@ class Solution:
         :type prices: List[int]
         :rtype: int
         """
+        """ 解法一
         max = 0
         for i in range(len(prices) - 1):
             j = i + 1
@@ -12,6 +13,15 @@ class Solution:
             if d > 0:
                 max += d #有利润就卖
         return max
+        """
+        #   解法二
+        # 动态规划的角度来考虑问题
+        l = len(prices)
+        dp = [0] * l
+        dp[0] = 0
+        for i in range(1, l):
+            dp[i] = max(dp[i-1], dp[i-1] + prices[i] - prices[i-1])
+        return dp[l-1]
 
 def stringToIntegerList(input):
     return json.loads(input)
