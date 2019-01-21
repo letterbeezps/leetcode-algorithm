@@ -11,7 +11,7 @@ class Solution:
 
         index = 2
         for i in range(2, l):
-            if nums[i] != nums[index - 2]:  # 我们要组织三个连续相同的元素
+            if nums[i] != nums[index - 2]:  # 我们要阻止三个连续相同的元素
                 nums[index] = nums[i]
                 index = index + 1
             
