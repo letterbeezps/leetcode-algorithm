@@ -5,6 +5,8 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
+        """
+        # 解法一
         # 题目给的是一个已经排序的数组
         l = len(nums)
         i = 0
@@ -16,6 +18,20 @@ class Solution:
             else:
                 i += 1
         return l
+        """
+        # 解法2 效率提升max
+        l = len(nums)
+        if l == 0:
+            return 0
+        
+        index = 0  # index 用来记录新数组的索引
+        i = 1
+        while i < l:
+            if nums[index] != nums[i]:
+                nums[index+1] = nums[i]
+                index = index + 1
+            i += 1
+        return index + 1
 
 def stringToIntegerList(input):
     return json.loads(input)
