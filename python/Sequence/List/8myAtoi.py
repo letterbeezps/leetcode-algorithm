@@ -27,12 +27,9 @@ class Solution:
         while i < len_str:
             if str[i] < '0' or str[i] > '9':  # 碰到第一个非数字的字符，结束
                 break
-            if num > INT_MAX // 10:  # 判断是否溢出
-                if sign == -1:
-                    return INT_MIN
-                else:
-                    return INT_MAX
-            elif num == INT_MAX // 10 and int(str[i]) > INT_MAX % 10:
+            s1 = num > INT_MAX // 10
+            s2 = num == INT_MAX // 10 and int(str[i]) > INT_MAX % 10
+            if s1 or s2:  # 判断是否溢出
                 if sign == -1:
                     return INT_MIN
                 else:
@@ -42,3 +39,30 @@ class Solution:
             i = i + 1
             
         return num * sign
+
+def stringToString(input):
+    return input[1:-1]
+
+def main():
+    import sys
+    import io
+    def readlines():
+        for line in io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8'):
+            yield line.strip('\n')
+
+    lines = readlines()
+    while True:
+        try:
+            line = next(lines)
+            
+            str1 = stringToString(line)
+            
+            ret = Solution().myAtoi(str1)
+
+            out = str(ret)
+            print(out)
+        except StopIteration:
+            break
+
+if __name__ == '__main__':
+    main()
