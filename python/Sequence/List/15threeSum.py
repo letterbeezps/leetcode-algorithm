@@ -28,7 +28,7 @@ class Solution:
                         k = k - 1
                 else:
                     print([num[i], num[j], num[k]])
-                    result.append([num[i], num[j], num[k]])
+                    result.append([num[i], num[j], num[k]])  # 将所得结果加到结果集中
                     j = j + 1
                     k = k - 1
                     while num[j] == num[j-1] and num[k] == num[k+1] and j < k:
