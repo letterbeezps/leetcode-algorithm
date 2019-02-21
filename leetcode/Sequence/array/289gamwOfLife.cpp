@@ -1,0 +1,33 @@
+class Solution {
+public:
+    void gameOfLife(vector<vector<int>>& board) {
+        /* 每个细胞的更新状态如下
+        d --> d : 0
+        l --> l : 1
+        l --> d : 2
+        d --> l : 3
+        */
+        int m = board.size(), n = m ? board[0].size() : 0; //m是行数，n是列数
+        int dx[] = {-1, -1, -1, 0, 1, 1, 1, 0};
+        int dy[] = {-1, 0, 1, 1, 1, 0, -1, -1};  // 代表八个邻居坐标的相对值
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                int cnt = 0;
+                for (int k = 0; k < 8; ++k) {  // 寻找八个邻居
+                    int x = i + dx[k], y = j + dy[k];
+                    if (x >= 0 && x < m && y >= 0 && y < n && (board[x][y] == 1 || board[x][y] == 2)) {
+                        // 统计周围当前状态活着的细胞个数，这个不处理边界问题
+                        ++cnt;
+                    }
+                }
+                if (board[i][j] && (cnt < 2 || cnt > 3)) board[i][j] = 2; // 由live到dead
+                else if (!board[i][j] && cnt == 3) board[i][j] = 3;       // 由dead到live
+            }
+        }
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                board[i][j] %= 2;  // 通过更新状态做模2运算计算未来状态
+            }
+        }
+    }
+};
