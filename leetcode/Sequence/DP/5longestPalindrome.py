@@ -50,7 +50,7 @@ class Solution:
 
         return lastS
 
-                    
+
 
 
     # 预处理字符串，给每个字符之间添加 '#'
