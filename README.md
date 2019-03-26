@@ -17,6 +17,7 @@
 * [108 sortedArrayToBST将有序数组转换为二叉搜索树](leetcode/Tree/108sortedArrayToBST.py)
 * [112 pathSum路径总和](leetcode/Tree/112pathSum.py)
 * [125 isPalindrome验证回文串](leetcode/Sequence/List/125isPalindrome.py)
+* [559 maxDepth N叉树的最大深度](leetcode/Tree/559maxDepth.py)
 
 1 |2 |3
 --|--|--
