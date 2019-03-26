@@ -12,6 +12,7 @@
 * [8 myAtoi(字符串转换整数 (atoi))](leetcode/Sequence/List/8myAtoi.py)
 * [15 threeSum三数之和](leetcode/Sequence/array/15threeSum.py)
 * [36 isValidSudoku有效的数独](leetcode/Sequence/array/36isValidSudoku.py)
+* [42 trap接雨水](leetcode/Sequence/array/42Trapping.py)
 * [100 sametree相同的树](leetcode/Tree/100sametree.py)
 * [104 maxDepth二叉树的最大深度](leetcode/Tree/104maxDepth.py)
 * [108 sortedArrayToBST将有序数组转换为二叉搜索树](leetcode/Tree/108sortedArrayToBST.py)
