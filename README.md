@@ -11,6 +11,7 @@
 * [5 longestPalindrome(最长回文子串)](leetcode/Sequence/DP/5longestPalindrome.py)
 * [8 myAtoi(字符串转换整数 (atoi))](leetcode/Sequence/List/8myAtoi.py)
 * [15 threeSum三数之和](leetcode/Sequence/array/15threeSum.py)
+* [21 mergeTwoLists.py合并两个有序链表](leetcode/Sequence/List/21mergeTwoLists.py)
 * [36 isValidSudoku有效的数独](leetcode/Sequence/array/36isValidSudoku.py)
 * [42 trap接雨水](leetcode/Sequence/array/42Trapping.py)
 * [100 sametree相同的树](leetcode/Tree/100sametree.py)
