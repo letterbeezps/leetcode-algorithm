@@ -20,6 +20,7 @@
 * [111 minDepth](leetcode/Tree/111minDepth.py)
 * [112 pathSum路径总和](leetcode/Tree/112pathSum.py)
 * [125 isPalindrome验证回文串](leetcode/Sequence/List/125isPalindrome.py)
+* [279 Perfect Squares](leetcode/Graph/279numSquares.py)
 * [542 updateMatrix](leetcode/matrix/542updateMatrix.py)
 * [559 maxDepth N叉树的最大深度](leetcode/Tree/559maxDepth.py)
 
