@@ -15,6 +15,7 @@
 * [26 removeDuplicate I](leetcode/Sequence/array/26removeDuplicate.py)
 * [36 isValidSudoku有效的数独](leetcode/Sequence/array/36isValidSudoku.py)
 * [42 trap接雨水](leetcode/Sequence/array/42Trapping.py)
+* [63 uniquePaths II](leetcode/Sequence/DP/63uniquePaths.py)
 * [66 plusOne](leetcode/Sequence/array/66plusOne.py)
 * [73 setZeroes 矩阵置零](leetcode/Sequence/array/73setZeroes.py)
 * [80 removeDuplicate II](leetcode/Sequence/array/80removeDuplicate.py)
