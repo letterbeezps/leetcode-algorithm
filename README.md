@@ -34,6 +34,7 @@
 * [125 isPalindrome验证回文串](leetcode/Sequence/List/125isPalindrome.py)
 * [130 SurroundedRegions](leetcode/matrix/130SurroundedRegions.py)
 * [200 numIsLands](leetcode/matrix/200numIsLands.py)
+* [231 PowerOfTwo](leetcode/BitOperation/231PowerOf2.py)
 * [279 Perfect Squares](leetcode/Graph/279numSquares.py)
 * [289 gameOfLife](leetcode/Sequence/array/289gameOfLife.py)
 * [542 updateMatrix](leetcode/matrix/542updateMatrix.py)
