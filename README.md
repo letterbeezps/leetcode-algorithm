@@ -33,6 +33,7 @@
 * [123 maxProfit III](leetcode/Sequence/array/122maxProfit.py)
 * [125 isPalindrome验证回文串](leetcode/Sequence/List/125isPalindrome.py)
 * [130 SurroundedRegions](leetcode/matrix/130SurroundedRegions.py)
+* [136 SingleNumber](leetcode/BitOperation/136SingleNumber.py)
 * [200 numIsLands](leetcode/matrix/200numIsLands.py)
 * [231 PowerOfTwo](leetcode/BitOperation/231PowerOf2.py)
 * [279 Perfect Squares](leetcode/Graph/279numSquares.py)
