@@ -37,6 +37,7 @@
 * [137 SingleNumber](leetcode/BitOperation/137SingleNumber.cpp)
 * [200 numIsLands](leetcode/matrix/200numIsLands.py)
 * [231 PowerOfTwo](leetcode/BitOperation/231PowerOf2.py)
+* [260 SingleNumber III](leetcode/BitOperation/260SingleNumber.py)
 * [279 Perfect Squares](leetcode/Graph/279numSquares.py)
 * [289 gameOfLife](leetcode/Sequence/array/289gameOfLife.py)
 * [476 NumberComplement](leetcode/BitOperation/476NUmberComplement.py)
