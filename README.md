@@ -40,6 +40,7 @@
 * [260 SingleNumber III](leetcode/BitOperation/260SingleNumber.py)
 * [279 Perfect Squares](leetcode/Graph/279numSquares.py)
 * [289 gameOfLife](leetcode/Sequence/array/289gameOfLife.py)
+* [354 RussianDollEnvelopes](leetcode/Sequence/DP/354RussianDollEn.py)
 * [392 IsSubsequence](leetcode/Greedy/392IsSubsequence.py)
 * [476 NumberComplement](leetcode/BitOperation/476NUmberComplement.py)
 * [542 updateMatrix](leetcode/matrix/542updateMatrix.py)
