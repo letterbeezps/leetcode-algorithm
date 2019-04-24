@@ -50,6 +50,7 @@
 * [560 Subarray Sum Equals K](leetcode/Hash/560subarraySum.py)
 * [733 floodfill](leetcode/matrix/733floodFill.py)
 * [762 Prime NUmber of Set Bits in Binary Representation](leetcode/BitOPeration/762PrimeSetBits.py)
+* [784 LetterCasePermutation 字母大小写全排列](leetcode/STR/784LetterCasePermutation.py)
 * [860 LemonadeChange](leetcode/Greedy/860LemonadeChange.py)
 
 1 |2 |3
