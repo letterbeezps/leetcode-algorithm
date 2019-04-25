@@ -18,6 +18,7 @@
 * [63 uniquePaths II](leetcode/Sequence/DP/63uniquePaths.py)
 * [66 plusOne](leetcode/Sequence/array/66plusOne.py)
 * [73 setZeroes 矩阵置零](leetcode/Sequence/array/73setZeroes.py)
+* 
 * [80 removeDuplicate II](leetcode/Sequence/array/80removeDuplicate.py)
 * [100 sametree相同的树](leetcode/Tree/100sametree.py)
 * [101 SymmetricTree_Recur](leetcode/Tree/101SymmetricTree_Recu.py)
@@ -37,6 +38,7 @@
 * [137 SingleNumber](leetcode/BitOperation/137SingleNumber.cpp)
 * [200 numIsLands](leetcode/matrix/200numIsLands.py)
 * [231 PowerOfTwo](leetcode/BitOperation/231PowerOf2.py)
+* [257 BinaryTreePaths](leetcode/Tree/257BinaryTreePaths.py)
 * [260 SingleNumber III](leetcode/BitOperation/260SingleNumber.py)
 * [279 Perfect Squares](leetcode/Graph/279numSquares.py)
 * [289 gameOfLife](leetcode/Sequence/array/289gameOfLife.py)
