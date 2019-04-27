@@ -46,6 +46,7 @@
 * [289 gameOfLife](leetcode/Sequence/array/289gameOfLife.py)
 * [354 RussianDollEnvelopes](leetcode/Sequence/DP/354RussianDollEn.py)
 * [392 IsSubsequence](leetcode/Greedy/392IsSubsequence.py)
+* [394 DecodeString](leetcode/STR/394DecodeString.py)
 * [454 4Sum II](leetcode/Hash/454fourSumCount.py)
 * [476 NumberComplement](leetcode/BitOperation/476NUmberComplement.py)
 * [525 ContigousArray](leetcode/Hash/525ContigousArray.py)
