@@ -1,8 +1,24 @@
-/*
-python int是无限大
+'''
+python3
+'''
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        import ctypes
+        res = 0
+        for bit in range(32):  # 2^0  ~  2^31
+            counter = 0
+            for i in range(len(nums)):
+                counter += (nums[i]) >> bit & 1  # 处理每一位
+            res += (counter % 3) << bit
+        #end_for
+        return ctypes.c_int(res).value  # 最后一步，因为python的int默认到longlong
+
+
+'''
+python int是longlong
 C++    int 2^32
 从二进制的角度考虑问题
-*/
+'''
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
