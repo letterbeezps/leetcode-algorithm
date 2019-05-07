@@ -56,6 +56,7 @@
 * [454 4Sum II](leetcode/Hash/454fourSumCount.py)
 * [455 AssignCookies](leetcode/Greedy/455AssignCookies.py)
 * [476 NumberComplement](leetcode/BitOperation/476NUmberComplement.py)
+* [477 TotalHammingDistance](leetcode/BitOperation/477TotalHammingDistance.py)
 * [525 ContigousArray](leetcode/Hash/525ContigousArray.py)
 * [542 updateMatrix](leetcode/matrix/542updateMatrix.py)
 * [559 maxDepth N叉树的最大深度](leetcode/Tree/559maxDepth.py)
