@@ -28,6 +28,7 @@
 * [101 SymmetricTree_Recur](leetcode/Tree/101SymmetricTree_Recu.py)
 * [101 SymmetricTree_Itera](leetcode/Tree/101SymmetricTree_Itera.py)
 * [104 maxDepth二叉树的最大深度](leetcode/Tree/104maxDepth.py)
+* [105 buildTree](leetcode/Tree/105buildTree.py)
 * [108 sortedArrayToBST将有序数组转换为二叉搜索树](leetcode/Tree/108sortedArrayToBST.py)
 * [111 minDepth](leetcode/Tree/111minDepth.py)
 * [112 pathSum路径总和](leetcode/Tree/112pathSum.py)
