@@ -55,6 +55,7 @@
 * [376 WiggleSubsequence](leetcode/Greedy/376WiggleSubsequence.py)
 * [392 IsSubsequence](leetcode/Greedy/392IsSubsequence.py)
 * [394 DecodeString](leetcode/STR/394DecodeString.py)
+* [406 rconstructQueue](leetcode/Greedy/406rconstructQueue.py)
 * [421 findMaximumXOR](leetcode/BitOperation/421findMaximumXOR.py)
 * [454 4Sum II](leetcode/Hash/454fourSumCount.py)
 * [455 AssignCookies](leetcode/Greedy/455AssignCookies.py)
