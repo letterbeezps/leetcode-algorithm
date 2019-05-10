@@ -57,6 +57,7 @@
 * [394 DecodeString](leetcode/STR/394DecodeString.py)
 * [406 rconstructQueue](leetcode/Greedy/406rconstructQueue.py)
 * [421 findMaximumXOR](leetcode/BitOperation/421findMaximumXOR.py)
+* [452 findMinArrowShots](leetcode/Greedy/452findMinArrowShots.py)
 * [454 4Sum II](leetcode/Hash/454fourSumCount.py)
 * [455 AssignCookies](leetcode/Greedy/455AssignCookies.py)
 * [476 NumberComplement](leetcode/BitOperation/476NUmberComplement.py)
