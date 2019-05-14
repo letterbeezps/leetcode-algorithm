@@ -8,6 +8,7 @@
 
 * [1 twoSum(两数之和)](leetcode/Sequence/array/1twoSum.py)
 * [2 addTwoNumbers(两数相加)](leetcode/Sequence/array/2addTwoNumbers.py)
+* [3 LongestSubstringWithoutRepeat](leetcode/Hash/3LongestSubstringWithoutRepeat.py)
 * [5 longestPalindrome(最长回文子串)](leetcode/Sequence/DP/5longestPalindrome.py)
 * [8 myAtoi(字符串转换整数 (atoi))](leetcode/Sequence/List/8myAtoi.py)
 * [15 threeSum三数之和](leetcode/Sequence/array/15threeSum.py)
