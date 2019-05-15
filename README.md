@@ -13,6 +13,7 @@
 * [6 ZigZagConversion.py](leetcode/STR/6ZigZagConversion.py)
 * [7 ReverseInteger](leetcode/Math/7ReverseInteger.py)
 * [8 myAtoi(字符串转换整数 (atoi))](leetcode/Sequence/List/8myAtoi.py)
+* [9 PalindromeNumber](leetcode/Math/9PalindromeNumber.py)
 * [15 threeSum三数之和](leetcode/Sequence/array/15threeSum.py)
 * [21 mergeTwoLists.py合并两个有序链表](leetcode/Sequence/List/21mergeTwoLists.py)
 * [26 removeDuplicate I](leetcode/Sequence/array/26removeDuplicate.py)
