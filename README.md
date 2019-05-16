@@ -50,6 +50,7 @@
 * [134 GasStation](leetcode/Greedy/134GasStation.py)
 * [136 SingleNumber](leetcode/BitOperation/136SingleNumber.py)
 * [137 SingleNumber](leetcode/BitOperation/137SingleNumber.py)
+* [142 LinkedListCycleII](leetcode/Sequence/List/142LinkedListCycleII.py)
 * [200 numIsLands](leetcode/matrix/200numIsLands.py)
 * [201 rangeBitwiseAnd](leetcode/BitOperation/201rangeBitwiseAnd.py)
 * [217 ContainsDuplicate](leetcode/Hash/217ContainsDuplicate.py)
