@@ -53,6 +53,7 @@
 * [137 SingleNumber](leetcode/BitOperation/137SingleNumber.py)
 * [142 LinkedListCycleII](leetcode/Sequence/List/142LinkedListCycleII.py)
 * [148 SortList](leetcode/Sequence/List/148SortList.py)
+* [150 EvaluateRPN](leetcode/Stack/150EvaluateRPN.py)
 * [200 numIsLands](leetcode/matrix/200numIsLands.py)
 * [201 rangeBitwiseAnd](leetcode/BitOperation/201rangeBitwiseAnd.py)
 * [217 ContainsDuplicate](leetcode/Hash/217ContainsDuplicate.py)
