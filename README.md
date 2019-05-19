@@ -24,6 +24,7 @@
 * [45 JumpGame II](leetcode/Greedy/45JumpGame.py)
 * [46 Permutaion](leetcode/BackTrack/46Permutaion.py)
 * [51 N-Queens](leetcode/BackTrack/51N-Queens.py)
+* [52 N-Queens](leetcode/BackTrack/52N-Queens.py)
 * [55 JumpGame](leetcode/Greedy/55JumpGame.py)
 * [62 uniquePaths](leetcode/Sequence/DP/62uniquePaths.py)
 * [63 uniquePaths II](leetcode/Sequence/DP/63uniquePaths.py)
