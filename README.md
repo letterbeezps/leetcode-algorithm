@@ -22,6 +22,7 @@
 * [36 isValidSudoku有效的数独](leetcode/Sequence/array/36isValidSudoku.py)
 * [42 trap接雨水](leetcode/Sequence/array/42Trapping.py)
 * [45 JumpGame II](leetcode/Greedy/45JumpGame.py)
+* [46 Permutaion](leetcode/BackTrack/46Permutaion.py)
 * [55 JumpGame](leetcode/Greedy/55JumpGame.py)
 * [63 uniquePaths II](leetcode/Sequence/DP/63uniquePaths.py)
 * [66 plusOne](leetcode/Sequence/array/66plusOne.py)
