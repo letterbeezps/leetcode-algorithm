@@ -23,6 +23,7 @@
 * [19 RemoveNthFromEnd](leetcode/Sequence/List/19RemoveNthFromEnd.py)
 * [20 ValidParetheses](leetcode/STR/20ValidParetheses.py)
 * [21 mergeTwoLists.py合并两个有序链表](leetcode/Sequence/List/21mergeTwoLists.py)
+* [22 GenerateParentheses](leetcode/BackTrack/22GenerateParentheses.py)
 * [26 removeDuplicate I](leetcode/Sequence/array/26removeDuplicate.py)
 * [36 isValidSudoku有效的数独](leetcode/Sequence/array/36isValidSudoku.py)
 * [42 trap接雨水](leetcode/Sequence/array/42Trapping.py)
