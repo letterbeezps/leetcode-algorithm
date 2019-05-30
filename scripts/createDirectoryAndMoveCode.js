@@ -70,14 +70,40 @@ getAllFiles(resolve(rootPath, 'leetcode'))
                 return await getAllFiles(resolve(__dirname, path));
             })
         );
-        // console.log(nameList, '🧶');
         nameList.map((dir, idx) => {
             return dir.map(async fileName => {
-                console.log(fileName.split('.')[0]);
-                await mkDir(
-                    `leetcode/${pathList[idx]}/${fileName.split('.')[0]}`
-                );
-                // return await mkDir(fileName.split('.')[0])
+                const nameWithoutNum = fileName.replace(/\d+/, '');
+                const startNum = fileName.replace(nameWithoutNum, '');
+
+                // 创建同名新的目录
+                if (nameWithoutNum.split('.')[0] && startNum) {
+                    await mkDir(
+                        `${pathList[idx]}/${startNum}.${
+                            nameWithoutNum.split('.')[0]
+                        }`
+                    );
+                    // 创建读写流 将文件写入创建的目录
+                    fs.rename(
+                        `${pathList[idx]}/${fileName}`,
+                        `${pathList[idx]}/${startNum}.${
+                            nameWithoutNum.split('.')[0]
+                        }/${fileName}`,
+                        function(err) {
+                            if (err) throw err;
+                            fs.stat(
+                                `${pathList[idx]}/${startNum}.${
+                                    nameWithoutNum.split('.')[0]
+                                }`,
+                                function(err, stats) {
+                                    if (err) throw err;
+                                    console.log(
+                                        'stats: ' + JSON.stringify(stats)
+                                    );
+                                }
+                            );
+                        }
+                    );
+                }
             });
         });
     })
