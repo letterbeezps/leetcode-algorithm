@@ -82,6 +82,7 @@
 * [260 SingleNumber III](leetcode/BitOperation/260SingleNumber.py)
 * [279 Perfect Squares](leetcode/Graph/279numSquares.py)
 * [289 gameOfLife](leetcode/Sequence/array/289gameOfLife.py)
+* [337 House Robber III](leetcode/Tree/337HouseRobberIII/337python3.py)
 * [341 NestedList](leetcode/Sequence/array/341NestedList.py)
 * [354 RussianDollEnvelopes](leetcode/Sequence/DP/354RussianDollEn.py)
 * [371 SumOfTwoIntegers](leetcode/BitOperation/371SumOfTwoIntegers.py)
