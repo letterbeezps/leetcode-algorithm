@@ -73,7 +73,7 @@ const renderLine = str =>
 const renderHeader = pathObj => {
     const headerStr = Object.keys(pathObj).reduce(
         (acc, curr) => `${acc}  ${curr}  |`,
-        `|  题目  |`
+        `|  题号  |`
     );
     const headerBottom = Object.keys(pathObj).reduce(
         (acc, curr) => `${acc}  ${renderLine(curr)}  |`,
@@ -85,21 +85,17 @@ ${headerBottom}`;
 
 const renderTable = pathObj => {
     const header = renderHeader(pathObj);
-    // console.log(header);
-    // console.log(pathObj);
     const tableMatrix = {};
     // 遍历每一个数组 扔到一个对象的属性数组对应题号的位置
     // k: 语言名称 v: 路径数组
     Object.entries(pathObj).map(([k, v]) => {
         tableMatrix[k] = [];
         v.forEach(path => {
-            // console.log(getNumByPath(path));
             tableMatrix[k][getNumByPath(path)] = `[${
                 path.split('/')[path.split('/').length - 1]
             }](${path})`;
         });
     });
-    // console.log(tableMatrix);
     const matrixArr = Object.entries(tableMatrix);
     // 找到属性数组中最长的 遍历这个数组  如果对应的所有的属性数组中的对应index选项都不为空 渲染行
     const sortList = Object.entries(tableMatrix)
@@ -108,29 +104,20 @@ const renderTable = pathObj => {
             length: v.length
         }))
         .sort((a, b) => b.length - a.length);
-    // const sortList = Array.from(lengthList).sort((a, b) => b.length - a.length);
-    // console.log(lengthList, '🍎');
-    // console.log(sortList, '🍎');
-    // console.log(tableMatrix, '🍎');
-    // console.log(matrixArr, '🍎');
     let tableStr = ``;
     tableMatrix[sortList[0].lang].forEach((item, idx, arr) => {
         // 如果每门语言该题都为空
-        // let tableStr = `|    |`;
-
         if (matrixArr.every(([k, v]) => !v[idx])) {
         } else {
             const tableRow = matrixArr.reduce(
                 (acc, [k, v]) =>
                     v[idx] ? `${acc}${v[idx]}  |` : `${acc}    |`,
-                `|    |`
+                `|  ${idx}  |`
             );
             tableStr = `${tableStr}
 ${tableRow}`;
         }
-        // if(matrixArr)
     });
-    console.log(tableStr,'🍎')
     return `${header}${tableStr}`;
 };
 
@@ -142,11 +129,11 @@ const generateREADME = async () => {
 
 ## leetcode`;
 
-    // renderTable(pathObj);
-
-    await open('README.test1.md', 'w')
+    const dataToWrite = `${titleText}
+${renderTable(pathObj)}`;
+    await open('README.md', 'w')
         .then(fd => {
-            writeFile(fd, renderTable(pathObj), {
+            writeFile(fd, dataToWrite, {
                 flag: 'w'
             }).then(e => {
                 if (e) throw e;
