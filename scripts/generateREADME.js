@@ -83,6 +83,7 @@ const renderHeader = pathObj => {
 ${headerBottom}`;
 };
 
+// 渲染表格
 const renderTable = pathObj => {
     const header = renderHeader(pathObj);
     const tableMatrix = {};
@@ -101,7 +102,7 @@ const renderTable = pathObj => {
     const sortList = Object.entries(tableMatrix)
         .map(([k, v]) => ({
             lang: k,
-            length: v.length
+            length: v.filter(item => item).length
         }))
         .sort((a, b) => b.length - a.length);
     let tableStr = ``;
@@ -121,6 +122,7 @@ ${tableRow}`;
     return `${header}${tableStr}`;
 };
 
+// 生成新的readme
 const generateREADME = async () => {
     const pathObj = await classifyPath();
     const titleText = `# 算法
