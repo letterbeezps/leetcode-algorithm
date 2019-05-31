@@ -1,4 +1,4 @@
-const { readdir, stat } = require('fs').promises; // >= node 10.0.0
+const { readdir, stat, open, writeFile } = require('fs').promises; // >= node 10.0.0
 const { join, resolve } = require('path');
 const rootPath = join(__dirname, '../');
 
@@ -32,11 +32,20 @@ const flattenDeep = arr =>
         []
     );
 
+// 获取题号
+const getNumByPath = path => {
+    const fileName = path.split('/')[path.split('/').length - 1];
+    const nameWithoutNum = fileName.replace(/\d+/, '');
+    const startNum = fileName.replace(nameWithoutNum, '');
+    return startNum ? parseInt(startNum, 10) : '';
+};
 // 获取指定扩展名相对当前项目根目录的相对路径
 const getExtRelativePath = (extRegEx, list, rootPath) =>
     list
         .filter(path => path.match(extRegEx))
-        .map(path => path.split(rootPath)[1]);
+        .map(path => path.split(rootPath)[1])
+        .filter(path => getNumByPath(path))
+        .sort((a, b) => getNumByPath(a) - getNumByPath(b));
 
 const classifyPath = async () => {
     const list = flattenDeep(
@@ -45,15 +54,107 @@ const classifyPath = async () => {
     const allJs = getExtRelativePath(/\.js$/, list, rootPath);
     const allPy = getExtRelativePath(/\.py$/, list, rootPath);
     const allJava = getExtRelativePath(/\.java$/, list, rootPath);
+    const allC = getExtRelativePath(/\.c(pp)?$/, list, rootPath);
     const pathObj = {
-        javascript: allJs,
         python: allPy,
-        java: allJava
+        javascript: allJs,
+        java: allJava,
+        c: allC
     };
 
     return pathObj;
 };
 
-classifyPath();
+// 渲染表格边框
+const renderLine = str =>
+    str.replace(/[^\x00-\xff]/g, '--').replace(/[a-zA-Z]/g, '-');
 
-const generateREADME = () => {};
+// 渲染表头
+const renderHeader = pathObj => {
+    const headerStr = Object.keys(pathObj).reduce(
+        (acc, curr) => `${acc}  ${curr}  |`,
+        `|  题目  |`
+    );
+    const headerBottom = Object.keys(pathObj).reduce(
+        (acc, curr) => `${acc}  ${renderLine(curr)}  |`,
+        `|  ----  |`
+    );
+    return `${headerStr}
+${headerBottom}`;
+};
+
+const renderTable = pathObj => {
+    const header = renderHeader(pathObj);
+    // console.log(header);
+    // console.log(pathObj);
+    const tableMatrix = {};
+    // 遍历每一个数组 扔到一个对象的属性数组对应题号的位置
+    // k: 语言名称 v: 路径数组
+    Object.entries(pathObj).map(([k, v]) => {
+        tableMatrix[k] = [];
+        v.forEach(path => {
+            // console.log(getNumByPath(path));
+            tableMatrix[k][getNumByPath(path)] = `[${
+                path.split('/')[path.split('/').length - 1]
+            }](${path})`;
+        });
+    });
+    // console.log(tableMatrix);
+    const matrixArr = Object.entries(tableMatrix);
+    // 找到属性数组中最长的 遍历这个数组  如果对应的所有的属性数组中的对应index选项都不为空 渲染行
+    const sortList = Object.entries(tableMatrix)
+        .map(([k, v]) => ({
+            lang: k,
+            length: v.length
+        }))
+        .sort((a, b) => b.length - a.length);
+    // const sortList = Array.from(lengthList).sort((a, b) => b.length - a.length);
+    // console.log(lengthList, '🍎');
+    // console.log(sortList, '🍎');
+    // console.log(tableMatrix, '🍎');
+    // console.log(matrixArr, '🍎');
+    let tableStr = ``;
+    tableMatrix[sortList[0].lang].forEach((item, idx, arr) => {
+        // 如果每门语言该题都为空
+        // let tableStr = `|    |`;
+
+        if (matrixArr.every(([k, v]) => !v[idx])) {
+        } else {
+            const tableRow = matrixArr.reduce(
+                (acc, [k, v]) =>
+                    v[idx] ? `${acc}${v[idx]}  |` : `${acc}    |`,
+                `|    |`
+            );
+            tableStr = `${tableStr}
+${tableRow}`;
+        }
+        // if(matrixArr)
+    });
+    console.log(tableStr,'🍎')
+    return `${header}${tableStr}`;
+};
+
+const generateREADME = async () => {
+    const pathObj = await classifyPath();
+    const titleText = `# 算法
+
+![本地图片](Image/python1.jpg)
+
+## leetcode`;
+
+    // renderTable(pathObj);
+
+    await open('README.test1.md', 'w')
+        .then(fd => {
+            writeFile(fd, renderTable(pathObj), {
+                flag: 'w'
+            }).then(e => {
+                if (e) throw e;
+            });
+        })
+        .catch(e => {
+            throw e;
+        });
+};
+
+generateREADME();

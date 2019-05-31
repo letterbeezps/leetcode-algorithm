@@ -105,8 +105,10 @@
 * [860 LemonadeChange](leetcode/Greedy/860LemonadeChange.py)
 * [1029 TwoCityScheduling](leetcode/Greedy/1029TwoCityScheduling.py)
 
-1 |2 |3
---|--|--
-w |d |t
+
+|  表头   | 表头  |  表头   |
+|  ----  | ----  |  ----  |
+| 单元格  | 单元格 | 单元格  |
+| 单元格  | 单元格 | 单元格  |
 
 $E=mc^2$
