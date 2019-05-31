@@ -26,6 +26,7 @@
 * [22 GenerateParentheses](leetcode/BackTrack/22GenerateParentheses.py)
 * [23 MergeSortedLists](leetcode/Sequence/List/23MergeSortedLists.py)
 * [24 SwapPairs](leetcode/Sequence/List/24SwapPairs.py)
+* [25 ReverseNodesInk-Group](leetcode/Sequence/List/25ReverseNodesInk-Group/25ReverseNodesInk-Group.py)
 * [26 removeDuplicate I](leetcode/Sequence/array/26removeDuplicate.py)
 * [36 isValidSudoku有效的数独](leetcode/Sequence/array/36isValidSudoku.py)
 * [42 trap接雨水](leetcode/Sequence/array/42Trapping.py)
