@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-algorithm",
+  "version": "1.0.0",
+  "description": "![本地图片](Image/python1.jpg)",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelki/leetcode-algorithm.git"
+  },
+  "keywords": [
+    "leetcode",
+    "javascript",
+    "python",
+    "argorithm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Angelki/leetcode-algorithm/issues"
+  },
+  "homepage": "https://github.com/Angelki/leetcode-algorithm#readme"
+}
