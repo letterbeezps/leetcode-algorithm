@@ -25,6 +25,7 @@
 |  22  |[22GenerateParentheses.py](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |    |    |    |
 |  23  |[23MergeSortedLists.py](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |    |    |    |
 |  24  |[24SwapPairs.py](leetcode/List/24.SwapPairs/24SwapPairs.py)  |    |    |    |
+|  25  |[25ReverseNodesInk-Group.py](leetcode/Sequence/List/25ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |    |    |    |
 |  26  |[26removeDuplicate.py](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |    |    |    |
 |  36  |[36isValidSudoku.py](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |    |    |    |
 |  42  |[42Trapping.py](leetcode/array/42.Trapping/42Trapping.py)  |    |    |    |
@@ -41,10 +42,13 @@
 |  79  |[79WordSearch.py](leetcode/array/79.WordSearch/79WordSearch.py)  |    |    |    |
 |  80  |[80removeDuplicate.py](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |    |    |    |
 |  83  |[83deleteDuplicate.py](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |    |    |    |
+|  86  |[86PartitionList.py](leetcode/Sequence/List/86PartitionList.py)  |    |    |    |
+|  92  |[92ReverseLinkedList.py](leetcode/Sequence/List/92ReverseLinkedList.py)  |    |    |    |
 |  93  |[93RestoreIPAddress.py](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |    |    |    |
 |  95  |[95UniqueBinarySearchTrees.py](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |    |    |    |
 |  100  |[100sametree.py](leetcode/Tree/100.sametree/100sametree.py)  |    |    |    |
 |  101  |[101SymmetricTree_Recu.py](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |    |    |    |
+|  102  |[102python3.py](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py)  |    |    |[102cpp.cpp](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |
 |  104  |[104maxDepth.py](leetcode/Tree/104.maxDepth/104maxDepth.py)  |    |    |    |
 |  105  |[105buildTree.py](leetcode/Tree/105.buildTree/105buildTree.py)  |    |    |    |
 |  106  |[106buildTree.py](leetcode/Tree/106.buildTree/106buildTree.py)  |    |    |    |
@@ -68,12 +72,14 @@
 |  189  |[189rotate.py](leetcode/array/189.rotate/189rotate.py)  |    |    |    |
 |  200  |[200numIsLands.py](leetcode/matrix/200.numIsLands/200numIsLands.py)  |    |    |    |
 |  201  |[201rangeBitwiseAnd.py](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |    |    |    |
+|  206  |[206ReverseLinkedList.py](leetcode/Sequence/List/206ReverseLinkedList.py)  |    |    |    |
 |  217  |[217ContainsDuplicate.py](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |    |    |    |
 |  231  |[231PowerOf2.py](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |    |    |    |
 |  257  |[257BinaryTreePaths.py](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |    |    |    |
 |  260  |[260SingleNumber.py](leetcode/BitOperation/260.SingleNumber/260SingleNumber.py)  |    |    |    |
 |  279  |[279numSquares.py](leetcode/Graph/279.numSquares/279numSquares.py)  |    |    |    |
 |  289  |[289gameOfLife.py](leetcode/array/289.gameOfLife/289gameOfLife.py)  |    |    |    |
+|  337  |[337python3.py](leetcode/Tree/337HouseRobberIII/337python3.py)  |    |    |    |
 |  341  |[341NestedList.py](leetcode/array/341.NestedList/341NestedList.py)  |    |    |    |
 |  354  |[354RussianDollEn.py](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |    |    |    |
 |  371  |[371SumOfTwoIntegers.py](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |    |    |    |
@@ -87,6 +93,7 @@
 |  454  |[454fourSumCount.py](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |    |    |    |
 |  455  |[455AssignCookies.py](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |    |    |    |
 |  464  |[464CanIWin.py](leetcode/DP/464.CanIWin/464CanIWin.py)  |    |    |    |
+|  473  |[473MatchsticksToSquare.py](leetcode/BackTrack/473MatchsticksToSquare.py)  |    |    |    |
 |  475  |[475Heaters.py](leetcode/Greedy/475.Heaters/475Heaters.py)  |    |    |    |
 |  476  |[476NumberComplement.py](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |    |    |    |
 |  477  |[477TotalHammingDistance.py](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |    |    |    |
