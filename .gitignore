@@ -12,3 +12,6 @@
 *.pdb
 # JSON
 *.JSON
+.vscode
+.DS_Store
+
