@@ -23,7 +23,7 @@
 |  20  |[20ValidParetheses.py](leetcode/STR/20.ValidParetheses/20ValidParetheses.py)  |[20ValidParetheses.js](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |    |    |
 |  21  |[21mergeTwoLists.py](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |    |    |    |
 |  22  |[22GenerateParentheses.py](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |    |    |    |
-|  23  |[23MergeSortedLists.py](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |    |    |    |
+|  23  |[23LongestValidParentheses.py](leetcode/STR/23.LongestValidParenthese/23LongestValidParentheses.py)  |    |    |    |
 |  24  |[24SwapPairs.py](leetcode/List/24.SwapPairs/24SwapPairs.py)  |    |    |    |
 |  25  |[25ReverseNodesInk-Group.py](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |    |    |    |
 |  26  |[26removeDuplicate.py](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |    |    |    |
