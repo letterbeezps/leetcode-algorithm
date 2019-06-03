@@ -28,6 +28,7 @@
 |  25  |[25ReverseNodesInk-Group.py](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |    |    |    |
 |  26  |[26removeDuplicate.py](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |    |    |    |
 |  27  |[27RemoveElement.py](leetcode/array/27.RemoveElement/27RemoveElement.py)  |    |    |    |
+|  33  |[33SearchInRotatedSortedArray.py](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |    |    |    |
 |  36  |[36isValidSudoku.py](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |    |    |    |
 |  42  |[42Trapping.py](leetcode/array/42.Trapping/42Trapping.py)  |    |    |    |
 |  45  |[45JumpGame.py](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |    |    |    |
