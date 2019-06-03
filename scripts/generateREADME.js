@@ -1,12 +1,17 @@
 const { readdir, stat, open, writeFile } = require('fs').promises; // >= node 10.0.0
 const { join, resolve } = require('path');
+const allProblems = require('./utils/getProblems');
+
 const rootPath = join(__dirname, '../');
+const domain = `https://leetcode.com/problems/`;
 
 /**
  * 递归遍历所有的文件 获取所有文件名称 以及相对根目录的路径
  * 扁平化后按照文件名前面的数字排序 （没有数字的不管） 按照扩展名分类
  * 写入readme
  */
+
+// 递归获取所有文件路径
 const readDirRecursive = async path => {
     return await readdir(path).then(async dirList => {
         // 获取path下所有的文件的状态
@@ -110,10 +115,13 @@ const renderTable = pathObj => {
         // 如果每门语言该题都为空
         if (matrixArr.every(([k, v]) => !v[idx])) {
         } else {
+            // 否则 拼接表格的行
             const tableRow = matrixArr.reduce(
                 (acc, [k, v]) =>
                     v[idx] ? `${acc}${v[idx]}  |` : `${acc}    |`,
-                `|  ${idx}  |`
+                `|  [${idx}. ${allProblems[idx - 1].title}](${domain}${
+                    allProblems[idx - 1].path
+                })  |`
             );
             tableStr = `${tableStr}
 ${tableRow}`;
@@ -126,8 +134,6 @@ ${tableRow}`;
 const generateREADME = async () => {
     const pathObj = await classifyPath();
     const titleText = `# 算法
-
-![本地图片](Image/python1.jpg)
 
 ## leetcode`;
 
