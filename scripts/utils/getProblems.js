@@ -9,5 +9,4 @@ const questionList = all.stat_status_pairs
     }))
     .sort((a, b) => a.id - b.id);
 
-console.log(questionList);
 module.exports = questionList;

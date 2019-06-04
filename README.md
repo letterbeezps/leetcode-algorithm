@@ -1,9 +1,9 @@
-# 算法
+# LeetCode多语言算法手册
 
-![本地图片](Image/python1.jpg)
+![本地图片](images/logo.png)
 
 ## leetcode
-|  题号  |  python  |  javascript  |  java  |  c  |
+|  题目链接  |  python  |  javascript  |  java  |  c  |
 |  ----  |  ------  |  ----------  |  ----  |  -  |
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  |[1twoSum.py](leetcode/array/1.twoSum/1twoSum.py)  |    |    |    |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  |[2addTwoNumbers.py](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py)  |    |    |    |

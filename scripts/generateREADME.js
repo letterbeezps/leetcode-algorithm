@@ -78,7 +78,7 @@ const renderLine = str =>
 const renderHeader = pathObj => {
     const headerStr = Object.keys(pathObj).reduce(
         (acc, curr) => `${acc}  ${curr}  |`,
-        `|  题号  |`
+        `|  题目链接  |`
     );
     const headerBottom = Object.keys(pathObj).reduce(
         (acc, curr) => `${acc}  ${renderLine(curr)}  |`,
@@ -133,7 +133,9 @@ ${tableRow}`;
 // 生成新的readme
 const generateREADME = async () => {
     const pathObj = await classifyPath();
-    const titleText = `# 算法
+    const titleText = `# LeetCode多语言算法手册
+
+![本地图片](images/logo.png)
 
 ## leetcode`;
 
