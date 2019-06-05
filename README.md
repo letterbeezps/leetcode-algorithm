@@ -48,6 +48,7 @@
 |  86  |[86PartitionList.py](leetcode/List/86.PartitionList/86PartitionList.py)  |    |    |    |
 |  92  |[92ReverseLinkedList.py](leetcode/List/92.ReverseLinkedList/92ReverseLinkedList.py)  |    |    |    |
 |  93  |[93RestoreIPAddress.py](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |    |    |    |
+|  94  |[94python3.py](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |    |    |    |
 |  95  |[95UniqueBinarySearchTrees.py](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |    |    |    |
 |  100  |[100sametree.py](leetcode/Tree/100.sametree/100sametree.py)  |    |    |    |
 |  101  |[101SymmetricTree_Recu.py](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |    |    |    |
