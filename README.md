@@ -28,6 +28,7 @@
 |  25  |[25ReverseNodesInk-Group.py](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |    |    |    |
 |  26  |[26removeDuplicate.py](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |    |    |    |
 |  27  |[27RemoveElement.py](leetcode/array/27.RemoveElement/27RemoveElement.py)  |    |    |    |
+|  31  |[31NextPermutation.py](leetcode/array/31.NextPermutation/31NextPermutation.py)  |    |    |    |
 |  33  |[33SearchInRotatedSortedArray.py](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |    |    |    |
 |  34  |[34python3.py](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |    |    |    |
 |  35  |[35SearchInsertPosition.py](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |    |    |    |
