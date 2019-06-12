@@ -29,6 +29,7 @@
 |  26  |[26removeDuplicate.py](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |    |    |    |
 |  27  |[27RemoveElement.py](leetcode/array/27.RemoveElement/27RemoveElement.py)  |    |    |    |
 |  28  |[28python3.py](leetcode/STR/28.ImplementstrStr()/28python3.py)  |    |    |    |
+|  29  |[29python3.py](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |    |    |    |
 |  31  |[31NextPermutation.py](leetcode/array/31.NextPermutation/31NextPermutation.py)  |    |    |    |
 |  33  |[33SearchInRotatedSortedArray.py](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |    |    |    |
 |  34  |[34python3.py](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |    |    |    |
