@@ -104,7 +104,7 @@
 |  454  |[454fourSumCount.py](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |    |    |    |
 |  455  |[455AssignCookies.py](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |    |    |    |
 |  464  |[464CanIWin.py](leetcode/DP/464.CanIWin/464CanIWin.py)  |    |    |    |
-|  473  |[473MatchsticksToSquare.py](leetcode/BackTrack/473MatchsticksToSquare.py)  |    |    |    |
+|  473  |[473MatchsticksToSquare.py](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)  |    |    |    |
 |  475  |[475Heaters.py](leetcode/Greedy/475.Heaters/475Heaters.py)  |    |    |    |
 |  476  |[476NumberComplement.py](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |    |    |    |
 |  477  |[477TotalHammingDistance.py](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |    |    |    |
