@@ -35,6 +35,7 @@
 |  34  |[34python3.py](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |    |    |    |
 |  35  |[35SearchInsertPosition.py](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |    |    |    |
 |  36  |[36isValidSudoku.py](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |    |    |    |
+|  37  |[37SudokuSovler.py](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py)  |    |[37SudokuSolver.java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |    |
 |  38  |[38CountAndSay.py](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |    |    |    |
 |  39  |[39CombinationSum.py](leetcode/array/39.ComninationSum/39CombinationSum.py)  |    |    |    |
 |  42  |[42Trapping.py](leetcode/array/42.Trapping/42Trapping.py)  |    |    |    |
