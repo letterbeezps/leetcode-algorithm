@@ -13,7 +13,8 @@ public:
     void Union(int a, int b){
         int fa = getFather(a);
         int fb = getFather(b);
-        father[fb] = fa;
+        if (fa != fb)
+            father[fb] = fa;
     }
 };
 

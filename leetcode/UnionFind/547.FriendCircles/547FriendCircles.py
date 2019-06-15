@@ -12,7 +12,8 @@ class UniFind:
     def Union(self, a: int, b: int):
         fa = self.getFather(a)
         fb = self.getFather(b)
-        self.father[fb] = fa
+        if fa != fb:
+            self.father[fb] = fa
 
 class Solution:
     def findCircleNum(self, M: List[List[int]]) -> int:
