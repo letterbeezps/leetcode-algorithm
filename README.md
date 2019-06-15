@@ -116,6 +116,7 @@
 |  547  |[547FriendCircles.py](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py)  |    |    |[547FriendCircles.cpp](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |
 |  559  |[559maxDepth.py](leetcode/Tree/559.maxDepth/559maxDepth.py)  |    |    |    |
 |  560  |[560subarraySum.py](leetcode/Hash/560.subarraySum/560subarraySum.py)  |    |    |    |
+|  648  |[648RedundantConnection.py](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |    |    |    |
 |  703  |[703python3.py](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |    |    |    |
 |  717  |[717isOneBitCharacter.py](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |    |    |    |
 |  733  |[733floodFill.py](leetcode/matrix/733.floodFill/733floodFill.py)  |    |    |    |
