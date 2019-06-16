@@ -118,6 +118,7 @@
 |  560  |[560subarraySum.py](leetcode/Hash/560.subarraySum/560subarraySum.py)  |    |    |    |
 |  648  |[648RedundantConnection.py](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |    |    |    |
 |  703  |[703python3.py](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |    |    |    |
+|  704  |[704BinarySearch.py](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |    |    |    |
 |  717  |[717isOneBitCharacter.py](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |    |    |    |
 |  733  |[733floodFill.py](leetcode/matrix/733.floodFill/733floodFill.py)  |    |    |    |
 |  756  |[756PyramidTransition.py](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |    |    |    |
