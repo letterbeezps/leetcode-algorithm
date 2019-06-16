@@ -38,6 +38,7 @@
 |  37  |[37SudokuSovler.py](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py)  |    |[37SudokuSolver.java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |    |
 |  38  |[38CountAndSay.py](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |    |    |    |
 |  39  |[39CombinationSum.py](leetcode/array/39.ComninationSum/39CombinationSum.py)  |    |    |    |
+|  41  |[41FirstMissingPositive.py](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |    |    |    |
 |  42  |[42Trapping.py](leetcode/array/42.Trapping/42Trapping.py)  |    |    |    |
 |  45  |[45JumpGame.py](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |    |    |    |
 |  46  |[46Permutaion.py](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |    |    |    |
