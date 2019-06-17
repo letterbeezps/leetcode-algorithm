@@ -74,6 +74,7 @@
 |  122  |[122maxProfit.py](leetcode/array/122.maxProfit/122maxProfit.py)  |    |    |    |
 |  123  |[123maxProfit.py](leetcode/array/123.maxProfit/123maxProfit.py)  |    |    |    |
 |  125  |[125isPalindrome.py](leetcode/List/125.isPalindrome/125isPalindrome.py)  |    |    |    |
+|  128  |[128python3.py](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |    |    |    |
 |  130  |[130SurroundedRegions.py](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |    |    |    |
 |  134  |[134GasStation.py](leetcode/Greedy/134.GasStation/134GasStation.py)  |    |    |    |
 |  136  |[136SingleNumber.py](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |    |    |    |
