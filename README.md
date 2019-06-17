@@ -131,3 +131,4 @@
 |  965  |[965python3.py](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |    |    |    |
 |  1029  |[1029TwoCityScheduling.py](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |    |    |    |
 |  1046  |[1046python3.py](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |    |    |    |
+|  1092  |[1092python3.py](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |    |    |    |
