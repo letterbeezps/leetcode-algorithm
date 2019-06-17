@@ -42,6 +42,7 @@
 |  42  |[42Trapping.py](leetcode/array/42.Trapping/42Trapping.py)  |    |    |    |
 |  45  |[45JumpGame.py](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |    |    |    |
 |  46  |[46Permutaion.py](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |    |    |    |
+|  48  |[48RotateImage.py](leetcode/array/48.RotateImage/48RotateImage.py)  |    |    |    |
 |  51  |[51N-Queens.py](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |    |    |    |
 |  52  |[52N-Queens.py](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |    |    |    |
 |  55  |[55JumpGame.py](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |    |    |    |
