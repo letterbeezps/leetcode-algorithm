@@ -107,6 +107,7 @@
 |  392  |[392IsSubsequence.py](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |    |    |    |
 |  394  |[394DecodeString.py](leetcode/STR/394.DecodeString/394DecodeString.py)  |    |    |    |
 |  402  |[402RemoveDigits.py](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |    |    |    |
+|  405  |[405ConvertNumberTpHexadecimal.py](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)  |    |    |    |
 |  406  |[406rconstructQueue.py](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |    |    |    |
 |  421  |[421findMaximumXOR.py](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |    |    |    |
 |  452  |[452findMinArrowShots.py](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |    |    |    |
