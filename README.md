@@ -136,6 +136,7 @@
 |  762  |[762PrimeSetBits.py](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |    |    |    |
 |  784  |[784LetterCasePermutation.py](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |    |    |    |
 |  860  |[860LemonadeChange.py](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |    |    |    |
+|  872  |[872Leaf_SimilarTrees.py](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |    |    |    |
 |  879  |[879python3.py](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |    |    |    |
 |  965  |[965python3.py](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |    |    |    |
 |  1029  |[1029TwoCityScheduling.py](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |    |    |    |
