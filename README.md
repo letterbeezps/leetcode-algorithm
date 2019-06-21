@@ -54,7 +54,7 @@
 |  77  |[77Combination.py](leetcode/STR/77.Combination/77Combination.py)  |    |    |    |
 |  79  |[79WordSearch.py](leetcode/array/79.WordSearch/79WordSearch.py)  |    |    |    |
 |  80  |[80removeDuplicate.py](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |    |    |    |
-|  81  |[81SearchRotatedSortedArray.py](leetcode/BinarySearch/81.SearchRotatedSortedArray||/81SearchRotatedSortedArray.py)  |    |    |    |
+|  81  |[81SearchRotatedSortedArray.py](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |    |    |    |
 |  83  |[83deleteDuplicate.py](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |    |    |    |
 |  86  |[86PartitionList.py](leetcode/List/86.PartitionList/86PartitionList.py)  |    |    |    |
 |  92  |[92ReverseLinkedList.py](leetcode/List/92.ReverseLinkedList/92ReverseLinkedList.py)  |    |    |    |
