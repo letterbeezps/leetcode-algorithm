@@ -49,6 +49,7 @@
 |  62  |[62uniquePaths.py](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |    |    |    |
 |  63  |[63uniquePaths.py](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |    |    |    |
 |  66  |[66plusOne.py](leetcode/array/66.plusOne/66plusOne.py)  |    |    |    |
+|  69  |[69Sqrt(x).py](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |    |    |    |
 |  73  |[73setZeroes.py](leetcode/array/73.setZeroes/73setZeroes.py)  |    |    |    |
 |  74  |[74Searcha2DMatrix.py](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |    |    |    |
 |  77  |[77Combination.py](leetcode/STR/77.Combination/77Combination.py)  |    |    |    |
