@@ -109,6 +109,7 @@
 |  354  |[354RussianDollEn.py](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |    |    |    |
 |  371  |[371SumOfTwoIntegers.py](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |    |    |    |
 |  376  |[376WiggleSubsequence.py](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |    |    |    |
+|  378  |[378python3.py](leetcode/BinarySearch/378.KthSmallestElementInASortedMatrix/378python3.py)  |    |    |    |
 |  392  |[392IsSubsequence.py](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |    |    |    |
 |  394  |[394DecodeString.py](leetcode/STR/394.DecodeString/394DecodeString.py)  |    |    |    |
 |  402  |[402RemoveDigits.py](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |    |    |    |
