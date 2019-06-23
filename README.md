@@ -102,6 +102,7 @@
 |  257  |[257BinaryTreePaths.py](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |    |    |    |
 |  260  |[260SingleNumber.py](leetcode/BitOperation/260.SingleNumber/260SingleNumber.py)  |    |    |    |
 |  279  |[279numSquares.py](leetcode/Graph/279.numSquares/279numSquares.py)  |    |    |    |
+|  287  |[287FindTheDuplicateNumber.py](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |    |    |    |
 |  289  |[289gameOfLife.py](leetcode/array/289.gameOfLife/289gameOfLife.py)  |    |    |    |
 |  305  |[305NumsOfIsland.py](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |    |    |    |
 |  337  |[337python3.py](leetcode/Tree/337HouseRobberIII/337python3.py)  |    |    |    |
