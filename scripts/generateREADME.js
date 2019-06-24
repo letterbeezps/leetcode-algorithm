@@ -129,7 +129,7 @@ const renderNewTable = pathObj => {
             );
 
             tableRow =
-                `${tableRow}  ${difficultyMap[allProblems[idx].difficulty]}  |`;
+                `${tableRow}  |  ${difficultyMap[allProblems[idx].difficulty]}  |`;
 
             tableStr = `${tableStr}
 ${tableRow}`;
