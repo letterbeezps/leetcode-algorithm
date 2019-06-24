@@ -1,10 +1,11 @@
 const { readdir, stat, open, writeFile } = require('fs').promises; // >= node 10.0.0
 const { join, resolve } = require('path');
 const allProblems = require('./utils/getProblems');
+const difficultyMap = require('./utils/difficultyMap');
 
 const rootPath = join(__dirname, '../');
 const domain = `https://leetcode.com/problems/`;
-
+const headerFields = ['Title', 'Solutions', 'Difficulty'];
 /**
  * 递归遍历所有的文件 获取所有文件名称 以及相对根目录的路径
  * 扁平化后按照文件名前面的数字排序 （没有数字的不管） 按照扩展名分类
@@ -74,23 +75,23 @@ const classifyPath = async () => {
 const renderLine = str =>
     str.replace(/[^\x00-\xff]/g, '--').replace(/[a-zA-Z]/g, '-');
 
-// 渲染表头
-const renderHeader = pathObj => {
-    const headerStr = Object.keys(pathObj).reduce(
+// 将整个列表的表头修改成 title solutions difficulty solutions里面写每种语言的超链接
+const renderSolutionHeader = _ => {
+    const headerStr = headerFields.reduce(
         (acc, curr) => `${acc}  ${curr}  |`,
-        `|  题目链接  |`
+        `|  `
     );
-    const headerBottom = Object.keys(pathObj).reduce(
+    const headerBottom = headerFields.reduce(
         (acc, curr) => `${acc}  ${renderLine(curr)}  |`,
-        `|  ----  |`
+        `|  `
     );
+
     return `${headerStr}
 ${headerBottom}`;
 };
 
-// 渲染表格
-const renderTable = pathObj => {
-    const header = renderHeader(pathObj);
+const renderNewTable = pathObj => {
+    const header = renderSolutionHeader();
     const tableMatrix = {};
     // 遍历每一个数组 扔到一个对象的属性数组对应题号的位置
     // k: 语言名称 v: 路径数组
@@ -98,7 +99,8 @@ const renderTable = pathObj => {
         tableMatrix[k] = [];
         v.forEach(path => {
             tableMatrix[k][getNumByPath(path)] = `[${
-                path.split('/')[path.split('/').length - 1]
+                k
+                // path.split('/')[path.split('/').length - 1]
             }](${path})`;
         });
     });
@@ -116,31 +118,36 @@ const renderTable = pathObj => {
         if (matrixArr.every(([k, v]) => !v[idx])) {
         } else {
             // 否则 拼接表格的行
-            const tableRow = matrixArr.reduce(
-                (acc, [k, v]) =>
-                    v[idx] ? `${acc}${v[idx]}  |` : `${acc}    |`,
+            let tableRow = matrixArr.reduce(
+                (acc, [k, v], index, srcArr) =>
+                    v[idx]
+                        ? `  ${acc}${index === 0 ? '' : ','} ${v[idx]}`
+                        : `${acc}`,
                 `|  [${idx}. ${allProblems[idx - 1].title}](${domain}${
                     allProblems[idx - 1].path
                 })  |`
             );
+
+            tableRow =
+                tableRow +
+                `|  ${difficultyMap[allProblems[idx - 1].difficulty]}  |`;
             tableStr = `${tableStr}
 ${tableRow}`;
         }
     });
+
     return `${header}${tableStr}`;
 };
 
 // 生成新的readme
 const generateREADME = async () => {
     const pathObj = await classifyPath();
-    const titleText = `# LeetCode多语言算法手册
-
-![本地图片](images/logo.png)
-
-## leetcode`;
+    const titleText = `# LeetCode
+`;
+    renderNewTable(pathObj);
 
     const dataToWrite = `${titleText}
-${renderTable(pathObj)}`;
+${renderNewTable(pathObj)}`;
     await open('README.md', 'w')
         .then(fd => {
             writeFile(fd, dataToWrite, {
