@@ -87,3 +87,43 @@ def Shell_sort(arr: List[int]):
             arr[j + gap] = tmp
         gap = gap // 3
 ```
+
+## 归并排序
+
+>核心思想：分治法，将一个数组分成两部分，递归分，知道分成单个元素，然后重新组装和合并
+
+---
+
+>**code**
+
+```python
+def merge_sort(arr: List[int]):
+
+    def merge(arr, tempArr, start, mid, end):
+        tempArr[start:end+1] = arr[start:end+1]
+        left, right = start, mid+1
+        for k in range(start, end+1):
+            if left > mid:
+                arr[k] = tempArr[right]
+                right += 1
+            elif right > end:
+                arr[k] = tempArr[left]
+                left += 1
+            elif tempArr[right] < tempArr[left]:
+                arr[k] = tempArr[right]
+                right += 1
+            else:
+                arr[k] = tempArr[left]
+                left += 1
+
+    def sort(arr, tempArr, start, end):
+        if start > end:
+            return
+        mid = start + (end - start) // 2
+        sort(arr, tempArr, start, mid)
+        sort(arr, tempArr, mid+1, end)
+        merge(arr, tempArr, start, mid, end)
+    # start sort()
+    tempArr = [0] * len(arr)
+    sort(arr, tempArr, 0, len(arr)-1)
+```
