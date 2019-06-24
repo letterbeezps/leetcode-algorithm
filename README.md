@@ -114,32 +114,32 @@
   |  [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  | [python](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)|  easy  |
   |  [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)  | [python](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)|  medium  |
   |  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)|  medium  |
-  |  [452. Poor Pigs](https://leetcode.com/problems/poor-pigs)  | [python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)|  hard  |
-  |  [454. LFU Cache](https://leetcode.com/problems/lfu-cache)  | [python](leetcode/Hash/454.fourSumCount/454fourSumCount.py)|  hard  |
-  |  [455. Hamming Distance](https://leetcode.com/problems/hamming-distance)  | [python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)|  easy  |
-  |  [464. Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length)  | [python](leetcode/DP/464.CanIWin/464CanIWin.py)|  hard  |
-  |  [473. Magical String](https://leetcode.com/problems/magical-string)  | [python](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)|  medium  |
-  |  [475. Smallest Good Base](https://leetcode.com/problems/smallest-good-base)  | [python](leetcode/Greedy/475.Heaters/475Heaters.py)|  hard  |
-  |  [476. Find Permutation](https://leetcode.com/problems/find-permutation)  | [python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)|  medium  |
-  |  [477. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)  | [python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)|  easy  |
-  |  [504. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)  | [python](leetcode/Other/504.Base7/504Base7.py)|  medium  |
-  |  [525. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)  | [python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)|  medium  |
-  |  [542. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)|  medium  |
-    |  [547. Array Nesting](https://leetcode.com/problems/array-nesting)  | [python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [c](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)|  medium  |
-  |  [559. Employee Bonus](https://leetcode.com/problems/employee-bonus)  | [python](leetcode/Tree/559.maxDepth/559maxDepth.py)|  easy  |
-  |  [560. Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question)  | [python](leetcode/Hash/560.subarraySum/560subarraySum.py)|  medium  |
-  |  [648. Maximum Swap](https://leetcode.com/problems/maximum-swap)  | [python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)|  medium  |
-  |  [703. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression)  | [python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)|  hard  |
-  |  [704. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)  | [python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)|  medium  |
-  |  [717. Contain Virus](https://leetcode.com/problems/contain-virus)  | [python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)|  hard  |
-  |  [733. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)  | [python](leetcode/matrix/733.floodFill/733floodFill.py)|  medium  |
-  |  [756. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)|  easy  |
-  |  [762. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)  | [python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)|  medium  |
-  |  [784. Design HashMap](https://leetcode.com/problems/design-hashmap)  | [python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)|  easy  |
-  |  [860. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2)  | [python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)|  medium  |
-  |  [872. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)  | [python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)|  medium  |
-  |  [879. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)  | [python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)|  easy  |
-  |  [965. Pancake Sorting](https://leetcode.com/problems/pancake-sorting)  | [python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)|  medium  |
-  |  [1029. High Five](https://leetcode.com/problems/high-five)  | [python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)|  easy  |
-  |  [1046. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)  | [python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)|  easy  |
-  |  [1092. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)  | [python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)|  medium  |
+  |  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)|  medium  |
+  |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [python](leetcode/Hash/454.fourSumCount/454fourSumCount.py)|  medium  |
+  |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)|  easy  |
+  |  [464. Can I Win](https://leetcode.com/problems/can-i-win)  | [python](leetcode/DP/464.CanIWin/464CanIWin.py)|  medium  |
+  |  [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)  | [python](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)|  medium  |
+  |  [475. Heaters](https://leetcode.com/problems/heaters)  | [python](leetcode/Greedy/475.Heaters/475Heaters.py)|  easy  |
+  |  [476. Number Complement](https://leetcode.com/problems/number-complement)  | [python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)|  easy  |
+  |  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)|  medium  |
+  |  [504. Base 7](https://leetcode.com/problems/base-7)  | [python](leetcode/Other/504.Base7/504Base7.py)|  easy  |
+  |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)|  medium  |
+  |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)|  medium  |
+    |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [c](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)|  medium  |
+  |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [python](leetcode/Tree/559.maxDepth/559maxDepth.py)|  easy  |
+  |  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [python](leetcode/Hash/560.subarraySum/560subarraySum.py)|  medium  |
+  |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)|  medium  |
+  |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)|  easy  |
+  |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)|  easy  |
+  |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)|  easy  |
+  |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [python](leetcode/matrix/733.floodFill/733floodFill.py)|  easy  |
+  |  [756. Pour Water](https://leetcode.com/problems/pour-water)  | [python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)|  medium  |
+  |  [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)  | [python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)|  easy  |
+  |  [784. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)|  medium  |
+  |  [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue)  | [python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)|  medium  |
+  |  [872. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)  | [python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)|  medium  |
+  |  [879. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)  | [python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)|  easy  |
+  |  [965. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)  | [python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)|  easy  |
+  |  [1029. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)|  medium  |
+  |  [1046. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)  | [python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)|  medium  |
+  |  [1092. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)  | [python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)|  medium  |

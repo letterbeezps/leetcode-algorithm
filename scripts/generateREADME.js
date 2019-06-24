@@ -123,14 +123,14 @@ const renderNewTable = pathObj => {
                     v[idx]
                         ? `  ${acc}${index === 0 ? '' : ','} ${v[idx]}`
                         : `${acc}`,
-                `|  [${idx}. ${allProblems[idx - 1].title}](${domain}${
-                    allProblems[idx - 1].path
+                `|  [${idx}. ${allProblems[idx].title}](${domain}${
+                    allProblems[idx].path
                 })  |`
             );
 
             tableRow =
                 tableRow +
-                `|  ${difficultyMap[allProblems[idx - 1].difficulty]}  |`;
+                `|  ${difficultyMap[allProblems[idx].difficulty]}  |`;
 
             tableStr = `${tableStr}
 ${tableRow}`;
