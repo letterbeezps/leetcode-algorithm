@@ -37,6 +37,7 @@
 |  [39. Combination Sum](https://leetcode.com/problems/combination-sum)  | [python](leetcode/array/39.ComninationSum/39CombinationSum.py)  |  medium  |
 |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)  | [python](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |  hard  |
 |  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [python](leetcode/array/42.Trapping/42Trapping.py)  |  hard  |
+|  [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)  | [python](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.py)  |  medium  |
 |  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  hard  |
 |  [46. Permutations](https://leetcode.com/problems/permutations)  | [python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  medium  |
 |  [48. Rotate Image](https://leetcode.com/problems/rotate-image)  | [python](leetcode/array/48.RotateImage/48RotateImage.py)  |  medium  |
