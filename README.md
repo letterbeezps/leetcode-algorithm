@@ -1,148 +1,145 @@
-# 算法
+# LeetCode
 
-![本地图片](Image/python1.jpg)
-
-## leetcode
-|  题号  |  python  |  javascript  |  java  |  c  |
-|  ----  |  ------  |  ----------  |  ----  |  -  |
-|  1  |[1twoSum.py](leetcode/array/1.twoSum/1twoSum.py)  |    |    |    |
-|  2  |[2addTwoNumbers.py](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py)  |    |    |    |
-|  3  |[3LongestSubstringWithoutRepeat.py](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py)  |    |    |    |
-|  5  |[5longestPalindrome.py](leetcode/DP/5.longestPalindrome/5longestPalindrome.py)  |    |    |    |
-|  6  |[6ZigZagConversion.py](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |    |    |    |
-|  7  |[7ReverseInteger.py](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |    |    |    |
-|  8  |[8myAtoi.py](leetcode/List/8.myAtoi/8myAtoi.py)  |    |    |    |
-|  9  |[9PalindromeNumber.py](leetcode/Math/9.PalindromeNumber/9PalindromeNumber.py)  |    |    |    |
-|  10  |[10RegularExpressionMatching.py](leetcode/DP/10.RegularExpressionMatching/10RegularExpressionMatching.py)  |    |    |    |
-|  11  |[11ContainerWithMostWater.py](leetcode/array/11.ContainerWithMostWater/11ContainerWithMostWater.py)  |    |    |    |
-|  13  |[13RomanToInteger.py](leetcode/STR/13.RomanToInteger/13RomanToInteger.py)  |[13RomanToInteger.js](leetcode/STR/13.RomanToInteger/13RomanToInteger.js)  |    |    |
-|  15  |[15threeSum.py](leetcode/array/15.threeSum/15threeSum.py)  |    |    |    |
-|  16  |[16ThreeSumClosest.py](leetcode/array/16.ThreeSumClosest/16ThreeSumClosest.py)  |    |    |    |
-|  17  |[17letterCombinations.py](leetcode/STR/17.letterCombinations/17letterCombinations.py)  |    |    |    |
-|  19  |[19RemoveNthFromEnd.py](leetcode/List/19.RemoveNthFromEnd/19RemoveNthFromEnd.py)  |    |    |    |
-|  20  |[20ValidParetheses.py](leetcode/STR/20.ValidParetheses/20ValidParetheses.py)  |[20ValidParetheses.js](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |    |    |
-|  21  |[21mergeTwoLists.py](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |    |    |    |
-|  22  |[22GenerateParentheses.py](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |    |    |    |
-|  23  |[23LongestValidParentheses.py](leetcode/STR/23.LongestValidParenthese/23LongestValidParentheses.py)  |    |    |    |
-|  24  |[24SwapPairs.py](leetcode/List/24.SwapPairs/24SwapPairs.py)  |    |    |    |
-|  25  |[25ReverseNodesInk-Group.py](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |    |    |    |
-|  26  |[26removeDuplicate.py](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |    |    |    |
-|  27  |[27RemoveElement.py](leetcode/array/27.RemoveElement/27RemoveElement.py)  |    |    |    |
-|  28  |[28python3.py](leetcode/STR/28.ImplementstrStr()/28python3.py)  |    |    |    |
-|  29  |[29python3.py](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |    |    |    |
-|  31  |[31NextPermutation.py](leetcode/array/31.NextPermutation/31NextPermutation.py)  |    |    |    |
-|  33  |[33SearchInRotatedSortedArray.py](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |    |    |    |
-|  34  |[34python3.py](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |    |    |    |
-|  35  |[35SearchInsertPosition.py](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |    |    |    |
-|  36  |[36isValidSudoku.py](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |    |    |    |
-|  37  |[37SudokuSovler.py](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py)  |    |[37SudokuSolver.java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |    |
-|  38  |[38CountAndSay.py](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |    |    |    |
-|  39  |[39CombinationSum.py](leetcode/array/39.ComninationSum/39CombinationSum.py)  |    |    |    |
-|  41  |[41FirstMissingPositive.py](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |    |    |    |
-|  42  |[42Trapping.py](leetcode/array/42.Trapping/42Trapping.py)  |    |    |    |
-|  45  |[45JumpGame.py](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |    |    |    |
-|  46  |[46Permutaion.py](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |    |    |    |
-|  48  |[48RotateImage.py](leetcode/array/48.RotateImage/48RotateImage.py)  |    |    |    |
-|  51  |[51N-Queens.py](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |    |    |    |
-|  52  |[52N-Queens.py](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |    |    |    |
-|  55  |[55JumpGame.py](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |    |    |    |
-|  62  |[62uniquePaths.py](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |    |    |    |
-|  63  |[63uniquePaths.py](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |    |    |    |
-|  66  |[66plusOne.py](leetcode/array/66.plusOne/66plusOne.py)  |    |    |    |
-|  69  |[69Sqrt(x).py](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |    |    |    |
-|  73  |[73setZeroes.py](leetcode/array/73.setZeroes/73setZeroes.py)  |    |    |    |
-|  74  |[74Searcha2DMatrix.py](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |    |    |    |
-|  77  |[77Combination.py](leetcode/STR/77.Combination/77Combination.py)  |    |    |    |
-|  79  |[79WordSearch.py](leetcode/array/79.WordSearch/79WordSearch.py)  |    |    |    |
-|  80  |[80removeDuplicate.py](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |    |    |    |
-|  81  |[81SearchRotatedSortedArray.py](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |    |    |    |
-|  83  |[83deleteDuplicate.py](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |    |    |    |
-|  86  |[86PartitionList.py](leetcode/List/86.PartitionList/86PartitionList.py)  |    |    |    |
-|  92  |[92ReverseLinkedList.py](leetcode/List/92.ReverseLinkedList/92ReverseLinkedList.py)  |    |    |    |
-|  93  |[93RestoreIPAddress.py](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |    |    |    |
-|  94  |[94python3.py](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |    |    |    |
-|  95  |[95UniqueBinarySearchTrees.py](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |    |    |    |
-|  100  |[100sametree.py](leetcode/Tree/100.sametree/100sametree.py)  |    |    |    |
-|  101  |[101SymmetricTree_Recu.py](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |    |    |    |
-|  102  |[102python3.py](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py)  |    |    |[102cpp.cpp](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |
-|  103  |[103python3.py](leetcode/Tree/103BinaryTreeZigZagLevelOrderTraversal/103python3.py)  |    |    |    |
-|  104  |[104maxDepth.py](leetcode/Tree/104.maxDepth/104maxDepth.py)  |    |    |    |
-|  105  |[105buildTree.py](leetcode/Tree/105.buildTree/105buildTree.py)  |    |    |    |
-|  106  |[106buildTree.py](leetcode/Tree/106.buildTree/106buildTree.py)  |    |    |    |
-|  107  |[107python3.py](leetcode/Tree/107.BinaryTreeLevelOrderTraversal-II/107python3.py)  |    |    |    |
-|  108  |[108sortedArrayToBST.py](leetcode/Tree/108.sortedArrayToBST/108sortedArrayToBST.py)  |    |    |    |
-|  109  |[109ConvertSortedListToBinarySearchTree.py](leetcode/List/109.ConvertSortedListtoBinarySearchTree/109ConvertSortedListToBinarySearchTree.py)  |    |    |    |
-|  110  |[110BalancedBinaryTree.py](leetcode/Tree/110.BalancedBinaryTree/110BalancedBinaryTree.py)  |    |    |    |
-|  111  |[111minDepth.py](leetcode/Tree/111.minDepth/111minDepth.py)  |    |    |    |
-|  112  |[112pathSum.py](leetcode/Tree/112.pathSum/112pathSum.py)  |    |    |    |
-|  115  |[115numDistinct.py](leetcode/DP/115.numDistinct/115numDistinct.py)  |    |    |    |
-|  120  |[120minimumTotal.py](leetcode/array/120.minimumTotal/120minimumTotal.py)  |    |    |    |
-|  121  |[121maxProfit.py](leetcode/array/121.maxProfit/121maxProfit.py)  |    |    |    |
-|  122  |[122maxProfit.py](leetcode/array/122.maxProfit/122maxProfit.py)  |    |    |    |
-|  123  |[123maxProfit.py](leetcode/array/123.maxProfit/123maxProfit.py)  |    |    |    |
-|  125  |[125isPalindrome.py](leetcode/List/125.isPalindrome/125isPalindrome.py)  |    |    |    |
-|  128  |[128python3.py](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |    |    |    |
-|  130  |[130SurroundedRegions.py](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |    |    |    |
-|  134  |[134GasStation.py](leetcode/Greedy/134.GasStation/134GasStation.py)  |    |    |    |
-|  136  |[136SingleNumber.py](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |    |    |    |
-|  137  |[137SingleNumber.py](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |    |    |    |
-|  142  |[142LinkedListCycleII.py](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |    |    |    |
-|  148  |[148SortList.py](leetcode/List/148.SortList/148SortList.py)  |    |    |    |
-|  150  |[150EvaluateRPN.py](leetcode/Stack/150.EvaluateRPN/150EvaluateRPN.py)  |    |    |    |
-|  153  |[153FindMinimunInRotatedSortedArray.py](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |    |    |    |
-|  154  |[154python3.py](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |    |    |    |
-|  155  |[155MinStack.py](leetcode/Stack/155.MinStack/155MinStack.py)  |    |    |    |
-|  189  |[189rotate.py](leetcode/array/189.rotate/189rotate.py)  |    |    |    |
-|  200  |[200numIsLands.py](leetcode/matrix/200.numIsLands/200numIsLands.py)  |    |    |    |
-|  201  |[201rangeBitwiseAnd.py](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |    |    |    |
-|  206  |[206ReverseLinkedList.py](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |    |    |    |
-|  217  |[217ContainsDuplicate.py](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |    |    |    |
-|  231  |[231PowerOf2.py](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |    |    |    |
-|  240  |[240SearchA2DMatrix.py](leetcode/array/240.SearchA2DMatrixII/240SearchA2DMatrix.py)  |    |    |    |
-|  257  |[257BinaryTreePaths.py](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |    |    |    |
-|  260  |[260SingleNumber.py](leetcode/BitOperation/260.SingleNumber/260SingleNumber.py)  |    |    |    |
-|  279  |[279numSquares.py](leetcode/Graph/279.numSquares/279numSquares.py)  |    |    |    |
-|  287  |[287FindTheDuplicateNumber.py](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |    |    |    |
-|  289  |[289gameOfLife.py](leetcode/array/289.gameOfLife/289gameOfLife.py)  |    |    |    |
-|  305  |[305NumsOfIsland.py](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |    |    |    |
-|  337  |[337python3.py](leetcode/Tree/337HouseRobberIII/337python3.py)  |    |    |    |
-|  341  |[341NestedList.py](leetcode/array/341.NestedList/341NestedList.py)  |    |    |    |
-|  354  |[354RussianDollEn.py](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |    |    |    |
-|  371  |[371SumOfTwoIntegers.py](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |    |    |    |
-|  376  |[376WiggleSubsequence.py](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |    |    |    |
-|  378  |[378python3.py](leetcode/BinarySearch/378.KthSmallestElementInASortedMatrix/378python3.py)  |    |    |    |
-|  392  |[392IsSubsequence.py](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |    |    |    |
-|  394  |[394DecodeString.py](leetcode/STR/394.DecodeString/394DecodeString.py)  |    |    |    |
-|  402  |[402RemoveDigits.py](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |    |    |    |
-|  405  |[405ConvertNumberTpHexadecimal.py](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)  |    |    |    |
-|  406  |[406rconstructQueue.py](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |    |    |    |
-|  421  |[421findMaximumXOR.py](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |    |    |    |
-|  452  |[452findMinArrowShots.py](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |    |    |    |
-|  454  |[454fourSumCount.py](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |    |    |    |
-|  455  |[455AssignCookies.py](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |    |    |    |
-|  464  |[464CanIWin.py](leetcode/DP/464.CanIWin/464CanIWin.py)  |    |    |    |
-|  473  |[473MatchsticksToSquare.py](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)  |    |    |    |
-|  475  |[475Heaters.py](leetcode/Greedy/475.Heaters/475Heaters.py)  |    |    |    |
-|  476  |[476NumberComplement.py](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |    |    |    |
-|  477  |[477TotalHammingDistance.py](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |    |    |    |
-|  504  |[504Base7.py](leetcode/Other/504.Base7/504Base7.py)  |    |    |    |
-|  525  |[525ContigousArray.py](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |    |    |    |
-|  542  |[542updateMatrix.py](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |    |    |    |
-|  547  |[547FriendCircles.py](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py)  |    |    |[547FriendCircles.cpp](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |
-|  559  |[559maxDepth.py](leetcode/Tree/559.maxDepth/559maxDepth.py)  |    |    |    |
-|  560  |[560subarraySum.py](leetcode/Hash/560.subarraySum/560subarraySum.py)  |    |    |    |
-|  648  |[648RedundantConnection.py](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |    |    |    |
-|  703  |[703python3.py](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |    |    |    |
-|  704  |[704BinarySearch.py](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |    |    |    |
-|  717  |[717isOneBitCharacter.py](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |    |    |    |
-|  733  |[733floodFill.py](leetcode/matrix/733.floodFill/733floodFill.py)  |    |    |    |
-|  756  |[756PyramidTransition.py](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |    |    |    |
-|  762  |[762PrimeSetBits.py](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |    |    |    |
-|  784  |[784LetterCasePermutation.py](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |    |    |    |
-|  860  |[860LemonadeChange.py](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |    |    |    |
-|  872  |[872Leaf_SimilarTrees.py](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |    |    |    |
-|  879  |[879python3.py](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |    |    |    |
-|  965  |[965python3.py](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |    |    |    |
-|  1029  |[1029TwoCityScheduling.py](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |    |    |    |
-|  1046  |[1046python3.py](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |    |    |    |
-|  1092  |[1092python3.py](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |    |    |    |
+|    Title  |  Solutions  |  Difficulty  |
+|    -----  |  ---------  |  ----------  |
+|  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [python](leetcode/array/1.twoSum/1twoSum.py), [javascript](leetcode/array/1.twoSum/1twoSum.js)  |  easy  |
+|  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py)  |  medium  |
+|  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py)  |  medium  |
+|  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py)  |  medium  |
+|  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  medium  |
+|  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  easy  |
+|  [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)  | [python](leetcode/List/8.myAtoi/8myAtoi.py)  |  medium  |
+|  [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)  | [python](leetcode/Math/9.PalindromeNumber/9PalindromeNumber.py)  |  easy  |
+|  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)  | [python](leetcode/DP/10.RegularExpressionMatching/10RegularExpressionMatching.py)  |  hard  |
+|  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)  | [python](leetcode/array/11.ContainerWithMostWater/11ContainerWithMostWater.py)  |  medium  |
+|  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)  | [python](leetcode/STR/13.RomanToInteger/13RomanToInteger.py), [javascript](leetcode/STR/13.RomanToInteger/13RomanToInteger.js)  |  easy  |
+|  [15. 3Sum](https://leetcode.com/problems/3sum)  | [python](leetcode/array/15.threeSum/15threeSum.py)  |  medium  |
+|  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)  | [python](leetcode/array/16.ThreeSumClosest/16ThreeSumClosest.py)  |  medium  |
+|  [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  | [python](leetcode/STR/17.letterCombinations/17letterCombinations.py)  |  medium  |
+|  [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)  | [python](leetcode/List/19.RemoveNthFromEnd/19RemoveNthFromEnd.py)  |  medium  |
+|  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | [python](leetcode/STR/20.ValidParetheses/20ValidParetheses.py), [javascript](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |  easy  |
+|  [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | [python](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |  easy  |
+|  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  | [python](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |  medium  |
+|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [python](leetcode/STR/23.LongestValidParenthese/23LongestValidParentheses.py)  |  hard  |
+|  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  | [python](leetcode/List/24.SwapPairs/24SwapPairs.py)  |  medium  |
+|  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |  hard  |
+|  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [python](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |  easy  |
+|  [27. Remove Element](https://leetcode.com/problems/remove-element)  | [python](leetcode/array/27.RemoveElement/27RemoveElement.py)  |  easy  |
+|  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  easy  |
+|  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  medium  |
+|  [31. Next Permutation](https://leetcode.com/problems/next-permutation)  | [python](leetcode/array/31.NextPermutation/31NextPermutation.py)  |  medium  |
+|  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |  medium  |
+|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [python](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |  medium  |
+|  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  | [python](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |  easy  |
+|  [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)  | [python](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |  medium  |
+|  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  hard  |
+|  [38. Count and Say](https://leetcode.com/problems/count-and-say)  | [python](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |  easy  |
+|  [39. Combination Sum](https://leetcode.com/problems/combination-sum)  | [python](leetcode/array/39.ComninationSum/39CombinationSum.py)  |  medium  |
+|  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)  | [python](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |  hard  |
+|  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [python](leetcode/array/42.Trapping/42Trapping.py)  |  hard  |
+|  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  hard  |
+|  [46. Permutations](https://leetcode.com/problems/permutations)  | [python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  medium  |
+|  [48. Rotate Image](https://leetcode.com/problems/rotate-image)  | [python](leetcode/array/48.RotateImage/48RotateImage.py)  |  medium  |
+|  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  hard  |
+|  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  hard  |
+|  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  medium  |
+|  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  medium  |
+|  [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  | [python](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |  medium  |
+|  [66. Plus One](https://leetcode.com/problems/plus-one)  | [python](leetcode/array/66.plusOne/66plusOne.py)  |  easy  |
+|  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  easy  |
+|  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [python](leetcode/array/73.setZeroes/73setZeroes.py)  |  medium  |
+|  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  medium  |
+|  [77. Combinations](https://leetcode.com/problems/combinations)  | [python](leetcode/STR/77.Combination/77Combination.py)  |  medium  |
+|  [79. Word Search](https://leetcode.com/problems/word-search)  | [python](leetcode/array/79.WordSearch/79WordSearch.py)  |  medium  |
+|  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  | [python](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |  medium  |
+|  [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)  | [python](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |  medium  |
+|  [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)  | [python](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |  easy  |
+|  [86. Partition List](https://leetcode.com/problems/partition-list)  | [python](leetcode/List/86.PartitionList/86PartitionList.py)  |  medium  |
+|  [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)  | [python](leetcode/List/92.ReverseLinkedList/92ReverseLinkedList.py)  |  medium  |
+|  [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)  | [python](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |  medium  |
+|  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  medium  |
+|  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  medium  |
+|  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [python](leetcode/Tree/100.sametree/100sametree.py)  |  easy  |
+|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [python](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |  easy  |
+|  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  | [python](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py), [c](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |  medium  |
+|  [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  | [python](leetcode/Tree/103BinaryTreeZigZagLevelOrderTraversal/103python3.py)  |  medium  |
+|  [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)  | [python](leetcode/Tree/104.maxDepth/104maxDepth.py)  |  easy  |
+|  [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)  | [python](leetcode/Tree/105.buildTree/105buildTree.py)  |  medium  |
+|  [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)  | [python](leetcode/Tree/106.buildTree/106buildTree.py)  |  medium  |
+|  [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)  | [python](leetcode/Tree/107.BinaryTreeLevelOrderTraversal-II/107python3.py)  |  easy  |
+|  [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)  | [python](leetcode/Tree/108.sortedArrayToBST/108sortedArrayToBST.py)  |  easy  |
+|  [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)  | [python](leetcode/List/109.ConvertSortedListtoBinarySearchTree/109ConvertSortedListToBinarySearchTree.py)  |  medium  |
+|  [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)  | [python](leetcode/Tree/110.BalancedBinaryTree/110BalancedBinaryTree.py)  |  easy  |
+|  [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)  | [python](leetcode/Tree/111.minDepth/111minDepth.py)  |  easy  |
+|  [112. Path Sum](https://leetcode.com/problems/path-sum)  | [python](leetcode/Tree/112.pathSum/112pathSum.py)  |  easy  |
+|  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)  | [python](leetcode/DP/115.numDistinct/115numDistinct.py)  |  hard  |
+|  [120. Triangle](https://leetcode.com/problems/triangle)  | [python](leetcode/array/120.minimumTotal/120minimumTotal.py)  |  medium  |
+|  [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | [python](leetcode/array/121.maxProfit/121maxProfit.py)  |  easy  |
+|  [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)  | [python](leetcode/array/122.maxProfit/122maxProfit.py)  |  easy  |
+|  [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)  | [python](leetcode/array/123.maxProfit/123maxProfit.py)  |  hard  |
+|  [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | [python](leetcode/List/125.isPalindrome/125isPalindrome.py)  |  easy  |
+|  [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)  | [python](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |  hard  |
+|  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | [python](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |  medium  |
+|  [134. Gas Station](https://leetcode.com/problems/gas-station)  | [python](leetcode/Greedy/134.GasStation/134GasStation.py)  |  medium  |
+|  [136. Single Number](https://leetcode.com/problems/single-number)  | [python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  easy  |
+|  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  medium  |
+|  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  medium  |
+|  [148. Sort List](https://leetcode.com/problems/sort-list)  | [python](leetcode/List/148.SortList/148SortList.py)  |  medium  |
+|  [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  | [python](leetcode/Stack/150.EvaluateRPN/150EvaluateRPN.py)  |  medium  |
+|  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  medium  |
+|  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  hard  |
+|  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [python](leetcode/Stack/155.MinStack/155MinStack.py)  |  easy  |
+|  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [python](leetcode/array/189.rotate/189rotate.py)  |  easy  |
+|  [200. Number of Islands](https://leetcode.com/problems/number-of-islands)  | [python](leetcode/matrix/200.numIsLands/200numIsLands.py)  |  medium  |
+|  [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)  | [python](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |  medium  |
+|  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [python](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |  easy  |
+|  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  easy  |
+|  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  easy  |
+|  [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  | [python](leetcode/array/240.SearchA2DMatrixII/240SearchA2DMatrix.py)  |  medium  |
+|  [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)  | [python](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |  easy  |
+|  [260. Single Number III](https://leetcode.com/problems/single-number-iii)  | [python](leetcode/BitOperation/260.SingleNumber/260SingleNumber.py)  |  medium  |
+|  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [python](leetcode/Graph/279.numSquares/279numSquares.py)  |  medium  |
+|  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  medium  |
+|  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  medium  |
+|  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  hard  |
+|  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [python](leetcode/Tree/337HouseRobberIII/337python3.py)  |  medium  |
+|  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [python](leetcode/array/341.NestedList/341NestedList.py)  |  medium  |
+|  [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  | [python](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |  hard  |
+|  [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)  | [python](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |  easy  |
+|  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)  | [python](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |  medium  |
+|  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  | [python](leetcode/BinarySearch/378.KthSmallestElementInASortedMatrix/378python3.py)  |  medium  |
+|  [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)  | [python](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |  medium  |
+|  [394. Decode String](https://leetcode.com/problems/decode-string)  | [python](leetcode/STR/394.DecodeString/394DecodeString.py)  |  medium  |
+|  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits)  | [python](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |  medium  |
+|  [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  | [python](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)  |  easy  |
+|  [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)  | [python](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |  medium  |
+|  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |  medium  |
+|  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |  medium  |
+|  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [python](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |  medium  |
+|  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  easy  |
+|  [464. Can I Win](https://leetcode.com/problems/can-i-win)  | [python](leetcode/DP/464.CanIWin/464CanIWin.py)  |  medium  |
+|  [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)  | [python](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)  |  medium  |
+|  [475. Heaters](https://leetcode.com/problems/heaters)  | [python](leetcode/Greedy/475.Heaters/475Heaters.py)  |  easy  |
+|  [476. Number Complement](https://leetcode.com/problems/number-complement)  | [python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |  easy  |
+|  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |  medium  |
+|  [504. Base 7](https://leetcode.com/problems/base-7)  | [python](leetcode/Other/504.Base7/504Base7.py)  |  easy  |
+|  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  medium  |
+|  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  medium  |
+|  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [c](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  medium  |
+|  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  easy  |
+|  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [python](leetcode/Hash/560.subarraySum/560subarraySum.py)  |  medium  |
+|  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  medium  |
+|  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  easy  |
+|  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  easy  |
+|  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  easy  |
+|  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [python](leetcode/matrix/733.floodFill/733floodFill.py)  |  easy  |
+|  [756. Pour Water](https://leetcode.com/problems/pour-water)  | [python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  medium  |
+|  [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)  | [python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  easy  |
+|  [784. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  medium  |
+|  [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue)  | [python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  medium  |
+|  [872. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)  | [python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  medium  |
+|  [879. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)  | [python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |  easy  |
+|  [965. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)  | [python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  easy  |
+|  [1029. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  medium  |
+|  [1046. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)  | [python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  medium  |
+|  [1092. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)  | [python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  medium  |
