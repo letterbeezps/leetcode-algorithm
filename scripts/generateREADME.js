@@ -131,6 +131,7 @@ const renderNewTable = pathObj => {
             tableRow =
                 tableRow +
                 `|  ${difficultyMap[allProblems[idx - 1].difficulty]}  |`;
+
             tableStr = `${tableStr}
 ${tableRow}`;
         }
