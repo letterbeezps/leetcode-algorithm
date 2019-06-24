@@ -121,7 +121,7 @@ const renderNewTable = pathObj => {
             let tableRow = matrixArr.reduce(
                 (acc, [k, v], index, srcArr) =>
                     v[idx]
-                        ? `  ${acc}${index === 0 ? '' : ','} ${v[idx]}`
+                        ? `${acc}${index === 0 ? '' : ','} ${v[idx]}`
                         : `${acc}`,
                 `|  [${idx}. ${allProblems[idx].title}](${domain}${
                     allProblems[idx].path
@@ -129,8 +129,7 @@ const renderNewTable = pathObj => {
             );
 
             tableRow =
-                tableRow +
-                `|  ${difficultyMap[allProblems[idx].difficulty]}  |`;
+                `${tableRow}  ${difficultyMap[allProblems[idx].difficulty]}  |`;
 
             tableStr = `${tableStr}
 ${tableRow}`;
