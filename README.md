@@ -125,6 +125,7 @@
 |  [476. Number Complement](https://leetcode.com/problems/number-complement)  | [python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |  easy  |
 |  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |  medium  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [python](leetcode/Other/504.Base7/504Base7.py)  |  easy  |
+|  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  easy  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  medium  |
 |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  medium  |
 |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [c](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  medium  |
