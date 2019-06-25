@@ -35,6 +35,7 @@
 |  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  hard  |
 |  [38. Count and Say](https://leetcode.com/problems/count-and-say)  | [python](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |  easy  |
 |  [39. Combination Sum](https://leetcode.com/problems/combination-sum)  | [python](leetcode/array/39.ComninationSum/39CombinationSum.py)  |  medium  |
+|  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)  | [python](leetcode/BackTrack/40.CombinationSumII/40CombinationSum.py)  |  medium  |
 |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)  | [python](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |  hard  |
 |  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [python](leetcode/array/42.Trapping/42Trapping.py)  |  hard  |
 |  [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)  | [python](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.py)  |  medium  |
