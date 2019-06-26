@@ -44,6 +44,7 @@
 |  [46. Permutations](https://leetcode.com/problems/permutations)  | [python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  medium  |
 |  [48. Rotate Image](https://leetcode.com/problems/rotate-image)  | [python](leetcode/array/48.RotateImage/48RotateImage.py)  |  medium  |
 |  [49. Group Anagrams](https://leetcode.com/problems/group-anagrams)  | [python](leetcode/Hash/49.GroupAnagrams/49GroupAnagrams.py), [java](leetcode/Hash/49.GroupAnagrams/49java.java)  |  medium  |
+|  [50. Pow(x, n)](https://leetcode.com/problems/powx-n)  | [python](leetcode/BinarySearch/50.Pow(x,n)/50Pow(x,n).py)  |  medium  |
 |  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  hard  |
 |  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  hard  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  medium  |
