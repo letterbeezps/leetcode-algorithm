@@ -3,8 +3,9 @@
 |    Title  |  Solutions  |  Difficulty  |
 |    -----  |  ---------  |  ----------  |
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [python](leetcode/array/1.twoSum/1twoSum.py), [javascript](leetcode/array/1.twoSum/1twoSum.js)  |  easy  |
-|  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py)  |  medium  |
-|  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py)  |  medium  |
+|  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [javascript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  medium  |
+|  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [javascript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  medium  |
+|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [javascript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js)  |  hard  |
 |  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py)  |  medium  |
 |  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  easy  |

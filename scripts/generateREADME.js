@@ -113,23 +113,25 @@ const renderNewTable = pathObj => {
         }))
         .sort((a, b) => b.length - a.length);
     let tableStr = ``;
-    tableMatrix[sortList[0].lang].forEach((item, idx, arr) => {
+    Object.entries(allProblems).forEach((item, idx) => {
         // 如果每门语言该题都为空
         if (matrixArr.every(([k, v]) => !v[idx])) {
         } else {
             // 否则 拼接表格的行
-            let tableRow = matrixArr.reduce(
-                (acc, [k, v], index, srcArr) =>
-                    v[idx]
-                        ? `${acc}${index === 0 ? '' : ','} ${v[idx]}`
-                        : `${acc}`,
-                `|  [${idx}. ${allProblems[idx].title}](${domain}${
-                    allProblems[idx].path
-                })  |`
-            );
+            let comma = '';
+            let tableRow = matrixArr.reduce((acc, [k, v]) => {
+                if (v[idx]) {
+                    let newAcc = `${acc}${comma} ${v[idx]}`;
+                    comma = ',';
+                    return newAcc;
+                } else {
+                    return `${acc}`;
+                }
+            }, `|  [${idx}. ${allProblems[idx].title}](${domain}${allProblems[idx].path})  |`);
 
-            tableRow =
-                `${tableRow}  |  ${difficultyMap[allProblems[idx].difficulty]}  |`;
+            tableRow = `${tableRow}  |  ${
+                difficultyMap[allProblems[idx].difficulty]
+            }  |`;
 
             tableStr = `${tableStr}
 ${tableRow}`;
