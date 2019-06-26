@@ -117,7 +117,7 @@ def merge_sort(arr: List[int]):
                 left += 1
 
     def sort(arr, tempArr, start, end):
-        if start > end:
+        if start >= end:
             return
         mid = start + (end - start) // 2
         sort(arr, tempArr, start, mid)
