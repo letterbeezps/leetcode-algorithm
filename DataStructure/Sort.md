@@ -23,3 +23,67 @@ def Bubble_Sort(arr: list[int]):
 ```
 
 ## 选择排序
+
+>先找到列表中最小的元素，将它和列表的第一个元素交换位置，第二步，在剩下的元素中继续寻找最小的元素，依次下去$o(n^2)$
+
+---
+
+>**code**
+
+```python
+def Select_sort(arr: List[int]):
+    for i in range(len(arr)):
+        min = i  # 最小元素的坐标
+        for j in range(i+1, len(arr)):
+            if arr[j] < arr[min]:
+                min = j
+        arr[min], arr[i] = arr[i], arr[min]  # 和待排序数组的第一个元素交换
+```
+
+## 插入排序
+
+>把待排序列表分成，“已排序”和“未排序”两部分，初始状态就是已排序为空，为排序为整个列表，然后从未排序部分抽出一个数，有序的插入已排序部分（找到待插入的位置），直到全部排序，时间复杂度$O(n^2)$
+
+---
+
+>**code**
+
+```python
+def Insert_sort(arr: List[int]):
+    n = len(arr)
+    for i in range(1, n):
+        value = arr[i]
+        j = i-1  # 待插入的位置
+        while j >= 0:
+            if arr[j] > value:
+                a[j+1] = arr[j]  # 移动数组，也就是在寻找插入位置
+            else:
+                break
+            j -= 1
+        arr[j+1] = value
+```
+
+## 希尔排序
+
+>又名 “缩小增量排序”，是插入排序的一种改进版本，因为插入排序对大规模的乱序数组的效率比较慢，因为每次只移动一个位置，希尔排序加快了插入的速度。让数据可以跳跃移动
+
+---
+
+>**code**
+
+```python
+def Shell_sort(arr: List[int]):
+    int length = len(arr)
+    gap = 1  # 区间，可以自己决定
+    while gap < length:
+        gap = gap * 3 + 1
+    while gap > 0:  # 插入排序是一种特殊的希尔排序
+        for i in range(gap, length):
+            tmp = arr[i]
+            j = i - gap
+            while j >= 0 and arr[j] > tmp:
+                arr[j+gap] = arr[j]
+                j -= gap
+            arr[j + gap] = tmp
+        gap = gap // 3
+```
