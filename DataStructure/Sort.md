@@ -127,3 +127,96 @@ def merge_sort(arr: List[int]):
     tempArr = [0] * len(arr)
     sort(arr, tempArr, 0, len(arr)-1)
 ```
+
+## 快速排序
+
+>核心思想：依然是分治法，每次从序列中选出一个基准值，一次和其它基准值做比较，大于基准值放右边，小的放左边
+
+---
+
+>**code**
+递归
+
+```python
+def quicksort(array: list[int]):
+    if len(array) < 2:
+        return array  # 结束
+    else:
+        pivot = array[0]
+        less = [i for i i array[1:] if i <= pivot]
+        greater = [i for i in array[1:] if i > pivot]
+        return quickosrt(less) + [pivot] + quicksort(greater)
+```
+
+---
+
+>**code**
+单边扫描
+
+```python
+def quick_sort(array):
+
+    def partition(array, startIndex, endIndex):
+        # 对这部分修改可以写双边扫描
+        pivot = array[startIndex]  # 取基准值
+        mark = startIndex  # 初始化下标
+        for i in range(startIndex+1, endIndex+1):
+            if array[i] < pivot:
+                mark += 1
+                array[i], array[mark] = array[mark], array[i]
+        # 基准值与mark对应的元素调换位置
+        array[startIndex] = array[mark]
+        array[mark] = pivot
+
+    def sort():
+        if endIndex <= startIndex:
+            return
+        pivotIndex = partition(array, startIndex, endIndex)
+        sort(array, startIndex, pviotIndex-1)
+        sort(array, pviotIndex+1, endIndex)
+
+    # 虽然依然使用了递归，但是都是在原数组上的操作
+    sort(array, 0, len(array)-1)
+```
+
+>**code**
+非递归+双边扫描
+
+```python
+def quick_sort(array):
+
+    def partition(array, left, right):
+        if not array or right <= 0 or left >= right:
+            return
+        pivot = array[left]
+        i, j = left, right
+        while i < j:
+            while i < j and array[j] >= pivot:
+                j -= 1
+            a[i] = a[j]
+
+            while i < j and a[i] <= pivot:
+                i += 1
+            a[j] = a[i]
+        a[i] = pivot
+        return i
+
+    def sort(array, left, right):
+        if not array or right <= 0 or left >= right:
+            return
+        temp = []  # stack
+        i, j = 0, 0
+        temp.append(right)
+        temp.append(left)
+        while temp:
+            i = temp.pop()
+            j = temp.pop()
+            if i < j:
+                k = partition(array, i, j)
+                if k > i:
+                    temp.append(k-1)
+                    temp.append(i)
+                if j > k:
+                    temp.append(j)
+                    temo.append(k+1)
+```
