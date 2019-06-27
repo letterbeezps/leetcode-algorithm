@@ -43,6 +43,7 @@
 |  [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching)  | [python](leetcode/DP/44.WildcardMatching/44WildcardMatching.py)  |  hard  |
 |  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  hard  |
 |  [46. Permutations](https://leetcode.com/problems/permutations)  | [python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  medium  |
+|  [47. Permutations II](https://leetcode.com/problems/permutations-ii)  | [python](leetcode/BackTrack/47.PermutationsII/47PermutationsII.py)  |  medium  |
 |  [48. Rotate Image](https://leetcode.com/problems/rotate-image)  | [python](leetcode/array/48.RotateImage/48RotateImage.py)  |  medium  |
 |  [49. Group Anagrams](https://leetcode.com/problems/group-anagrams)  | [python](leetcode/Hash/49.GroupAnagrams/49GroupAnagrams.py), [java](leetcode/Hash/49.GroupAnagrams/49java.java)  |  medium  |
 |  [50. Pow(x, n)](https://leetcode.com/problems/powx-n)  | [python](leetcode/BinarySearch/50.Pow(x,n)/50Pow(x,n).py)  |  medium  |
