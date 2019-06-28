@@ -36,11 +36,16 @@
 |  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  hard  |
 |  [38. Count and Say](https://leetcode.com/problems/count-and-say)  | [python](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |  easy  |
 |  [39. Combination Sum](https://leetcode.com/problems/combination-sum)  | [python](leetcode/array/39.ComninationSum/39CombinationSum.py)  |  medium  |
+|  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)  | [python](leetcode/BackTrack/40.CombinationSumII/40CombinationSum.py)  |  medium  |
 |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)  | [python](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |  hard  |
 |  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [python](leetcode/array/42.Trapping/42Trapping.py)  |  hard  |
+|  [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)  | [python](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.py)  |  medium  |
+|  [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching)  | [python](leetcode/DP/44.WildcardMatching/44WildcardMatching.py)  |  hard  |
 |  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  hard  |
 |  [46. Permutations](https://leetcode.com/problems/permutations)  | [python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  medium  |
 |  [48. Rotate Image](https://leetcode.com/problems/rotate-image)  | [python](leetcode/array/48.RotateImage/48RotateImage.py)  |  medium  |
+|  [49. Group Anagrams](https://leetcode.com/problems/group-anagrams)  | [python](leetcode/Hash/49.GroupAnagrams/49GroupAnagrams.py), [java](leetcode/Hash/49.GroupAnagrams/49java.java)  |  medium  |
+|  [50. Pow(x, n)](https://leetcode.com/problems/powx-n)  | [python](leetcode/BinarySearch/50.Pow(x,n)/50Pow(x,n).py)  |  medium  |
 |  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  hard  |
 |  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  hard  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  medium  |
@@ -124,6 +129,7 @@
 |  [476. Number Complement](https://leetcode.com/problems/number-complement)  | [python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |  easy  |
 |  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |  medium  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [python](leetcode/Other/504.Base7/504Base7.py)  |  easy  |
+|  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  easy  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  medium  |
 |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  medium  |
 |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [c](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  medium  |
