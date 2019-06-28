@@ -71,10 +71,10 @@ const classifyPath = async () => {
     const allJava = getExtRelativePath(/\.java$/, list, rootPath);
     const allC = getExtRelativePath(/\.c(pp)?$/, list, rootPath);
     const pathObj = {
-        python: allPy,
-        javascript: allJs,
-        java: allJava,
-        c: allC
+        Python: allPy,
+        JavaScript: allJs,
+        Java: allJava,
+        'C(++)': allC
     };
 
     return pathObj;
