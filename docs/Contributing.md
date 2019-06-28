@@ -8,7 +8,6 @@ Fork, then clone the repo:
 
 ```
 git clone https://github.com/your-username/leetcode-algorithm.git
-
 ```
 
 Enter the `leetcode` directory, create a new folder named after the first related topic of your problem, like: `Array, Hash Table`, `Graph` (Ignore this step if the folder already exists).
@@ -30,9 +29,9 @@ For example:
 │   ├── SomePublicDataStructure.py
 ```
 
-### Generate A New README
+### Generate A New Table
 
-**DON'T** modify the table in the `readme.md` manually at any time.
+**DON'T** modify the table in the `README.md` manually at any time.
 
 We can generate a new table by using script:
 

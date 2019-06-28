@@ -6,6 +6,10 @@ const difficultyMap = require('./utils/difficultyMap');
 const rootPath = join(__dirname, '../');
 const domain = `https://leetcode.com/problems/`;
 const headerFields = ['Title', 'Solutions', 'Difficulty'];
+const contributingLink =   `
+
+- [Contributing](./docs/Contributing.md)
+`
 /**
  * 递归遍历所有的文件 获取所有文件名称 以及相对根目录的路径
  * 扁平化后按照文件名前面的数字排序 （没有数字的不管） 按照扩展名分类
@@ -149,7 +153,7 @@ const generateREADME = async () => {
     renderNewTable(pathObj);
 
     const dataToWrite = `${titleText}
-${renderNewTable(pathObj)}`;
+${renderNewTable(pathObj)}${contributingLink}`;
     await open('README.md', 'w')
         .then(fd => {
             writeFile(fd, dataToWrite, {
