@@ -1,5 +1,6 @@
 # LeetCode
 
+## Solutions
 |  Title  |  Solutions  |  Difficulty  |
 |  -----  |  ---------  |  ----------  |
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [python](leetcode/array/1.twoSum/1twoSum.py), [javascript](leetcode/array/1.twoSum/1twoSum.js)  |  easy  |
@@ -150,5 +151,10 @@
 |  [1029. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  medium  |
 |  [1046. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)  | [python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  medium  |
 |  [1092. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)  | [python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  medium  |
+## Contribution
 
-- [Contributing](./docs/Contributing.md)
+This repo is build to collect leetcode algorithms we write.
+
+Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
+
+We actively welcome pull requests, learn how to [contribute](./docs/Contributing.md).
