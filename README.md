@@ -1,7 +1,7 @@
 # LeetCode
 
-|    Title  |  Solutions  |  Difficulty  |
-|    -----  |  ---------  |  ----------  |
+|  Title  |  Solutions  |  Difficulty  |
+|  -----  |  ---------  |  ----------  |
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [python](leetcode/array/1.twoSum/1twoSum.py), [javascript](leetcode/array/1.twoSum/1twoSum.js)  |  easy  |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [javascript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  medium  |
 |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [javascript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  medium  |
@@ -21,7 +21,7 @@
 |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | [python](leetcode/STR/20.ValidParetheses/20ValidParetheses.py), [javascript](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |  easy  |
 |  [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | [python](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |  easy  |
 |  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  | [python](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |  medium  |
-|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [python](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |  hard  |
+|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [python](leetcode/STR/23.LongestValidParenthese/23LongestValidParentheses.py)  |  hard  |
 |  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  | [python](leetcode/List/24.SwapPairs/24SwapPairs.py)  |  medium  |
 |  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |  hard  |
 |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [python](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |  easy  |
@@ -66,7 +66,7 @@
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  medium  |
 |  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  medium  |
 |  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [python](leetcode/Tree/100.sametree/100sametree.py)  |  easy  |
-|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [python](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |  easy  |
+|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [python](leetcode/Tree/101.SymmetricTree_Itera/101SymmetricTree_Itera.py)  |  easy  |
 |  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  | [python](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py), [c](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |  medium  |
 |  [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  | [python](leetcode/Tree/103BinaryTreeZigZagLevelOrderTraversal/103python3.py)  |  medium  |
 |  [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)  | [python](leetcode/Tree/104.maxDepth/104maxDepth.py)  |  easy  |

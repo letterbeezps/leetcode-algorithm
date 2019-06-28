@@ -79,11 +79,11 @@ const renderLine = str =>
 const renderSolutionHeader = _ => {
     const headerStr = headerFields.reduce(
         (acc, curr) => `${acc}  ${curr}  |`,
-        `|  `
+        `|`
     );
     const headerBottom = headerFields.reduce(
         (acc, curr) => `${acc}  ${renderLine(curr)}  |`,
-        `|  `
+        `|`
     );
 
     return `${headerStr}
