@@ -6,7 +6,7 @@
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [javascript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  medium  |
 |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [javascript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  medium  |
 |  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [javascript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js)  |  hard  |
-|  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py)  |  medium  |
+|  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [javascript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js)  |  medium  |
 |  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  easy  |
 |  [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)  | [python](leetcode/List/8.myAtoi/8myAtoi.py)  |  medium  |
@@ -21,7 +21,7 @@
 |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | [python](leetcode/STR/20.ValidParetheses/20ValidParetheses.py), [javascript](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |  easy  |
 |  [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | [python](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |  easy  |
 |  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  | [python](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |  medium  |
-|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [python](leetcode/STR/23.LongestValidParenthese/23LongestValidParentheses.py)  |  hard  |
+|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [python](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |  hard  |
 |  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  | [python](leetcode/List/24.SwapPairs/24SwapPairs.py)  |  medium  |
 |  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |  hard  |
 |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [python](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |  easy  |
