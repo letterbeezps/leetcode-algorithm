@@ -6,17 +6,20 @@ Find a problem and complete your solution on [leetcode](https://leetcode.com).
 
 Fork, then clone the repo:
 
-`git clone https://github.com/your-username/leetcode-algorithm.git`
+```
+git clone https://github.com/your-username/leetcode-algorithm.git
+
+```
 
 Enter the `leetcode` directory, create a new folder named after the first related topic of your problem, like: `Array, Hash Table`, `Graph` (Ignore this step if the folder already exists).
 
-Create a folder inside the folder we create last step, The naming rules are like this(Ignore this step if the folder already exists).:
+Create a folder inside the folder we create last step(Ignore this step if the folder already exists), The naming rules are like this:
 
-`question-number.littleCamelCaseTitle`
+    question-number.littleCamelCaseTitle
 
 Add your solution inside the folder. The naming rules of your code file should be like this:
 
-`question-numberlittleCamelCaseTitle.ext`
+    question-numberlittleCamelCaseTitle.ext
 
 For example:
 
@@ -29,12 +32,10 @@ For example:
 
 ### Generate A New README
 
-**DON'T modify the Table in the readme manually at any time.**
+**DON'T** modify the table in the `readme.md` manually at any time.
 
-We can generate a new Table by using script.
+We can generate a new table by using script:
 
-Run:
-
-`npm run g`
+    npm run g
 
 **Make sure that you have already installed `node.js` and the version is greater than 10.0.0**
