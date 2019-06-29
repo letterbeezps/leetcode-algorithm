@@ -4,7 +4,7 @@
   "description": "leetcode argorithms code",
   "main": "scripts/index.js",
   "scripts": {
-    "g": "node scripts/generateREADME.js"
+    "readme": "node scripts/readme.js"
   },
   "repository": {
     "type": "git",
