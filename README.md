@@ -49,6 +49,7 @@
 |  [50. Pow(x, n)](https://leetcode.com/problems/powx-n)  | [python](leetcode/BinarySearch/50.Pow(x,n)/50Pow(x,n).py)  |  medium  |
 |  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  hard  |
 |  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  hard  |
+|  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | [python](leetcode/array/53.MaximumSubarray/53MaximumSubarray.py)  |  easy  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  medium  |
 |  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  medium  |
 |  [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  | [python](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |  medium  |
