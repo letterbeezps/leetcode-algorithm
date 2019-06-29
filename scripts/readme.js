@@ -6,6 +6,15 @@ const difficultyMap = require('./utils/difficultyMap');
 const rootPath = join(__dirname, '../');
 const domain = `https://leetcode.com/problems/`;
 const headerFields = ['Title', 'Solutions', 'Difficulty'];
+const contributingLink = `
+## Contribution
+
+This repo is build to collect leetcode algorithms we write.
+
+Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
+
+We actively welcome pull requests, learn how to [contribute](./docs/Contributing.md).
+`;
 /**
  * 递归遍历所有的文件 获取所有文件名称 以及相对根目录的路径
  * 扁平化后按照文件名前面的数字排序 （没有数字的不管） 按照扩展名分类
@@ -62,10 +71,10 @@ const classifyPath = async () => {
     const allJava = getExtRelativePath(/\.java$/, list, rootPath);
     const allC = getExtRelativePath(/\.c(pp)?$/, list, rootPath);
     const pathObj = {
-        python: allPy,
-        javascript: allJs,
-        java: allJava,
-        c: allC
+        Python: allPy,
+        JavaScript: allJs,
+        Java: allJava,
+        'C(++)': allC
     };
 
     return pathObj;
@@ -79,11 +88,11 @@ const renderLine = str =>
 const renderSolutionHeader = _ => {
     const headerStr = headerFields.reduce(
         (acc, curr) => `${acc}  ${curr}  |`,
-        `|  `
+        `|`
     );
     const headerBottom = headerFields.reduce(
         (acc, curr) => `${acc}  ${renderLine(curr)}  |`,
-        `|  `
+        `|`
     );
 
     return `${headerStr}
@@ -149,7 +158,8 @@ const generateREADME = async () => {
     renderNewTable(pathObj);
 
     const dataToWrite = `${titleText}
-${renderNewTable(pathObj)}`;
+## Solutions
+${renderNewTable(pathObj)}${contributingLink}`;
     await open('README.md', 'w')
         .then(fd => {
             writeFile(fd, dataToWrite, {
