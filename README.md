@@ -53,6 +53,7 @@
 |  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | [Python](leetcode/array/53.MaximumSubarray/53MaximumSubarray.py)  |  Easy  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [Python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  Medium  |
 |  [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)  | [Python](leetcode/Math/60.PermutationSequence/60PermutationSequence.py)  |  Medium  |
+|  [61. Rotate List](https://leetcode.com/problems/rotate-list)  | [Python](leetcode/List/61.RotateList/61RotateList.py)  |  Medium  |
 |  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [Python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  Medium  |
 |  [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  | [Python](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |  Medium  |
 |  [66. Plus One](https://leetcode.com/problems/plus-one)  | [Python](leetcode/array/66.plusOne/66plusOne.py)  |  Easy  |
