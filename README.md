@@ -31,7 +31,7 @@
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |
 |  [31. Next Permutation](https://leetcode.com/problems/next-permutation)  | [Python](leetcode/array/31.NextPermutation/31NextPermutation.py)  |  Medium  |
 |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [Python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py), [JavaScript](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.js)  |  Medium  |
-|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [Python](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |  Medium  |
+|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [Python](leetcode/array/34.FindRangeInSortedArray/34python3.py), [JavaScript](leetcode/array/34.FindRangeInSortedArray/34.FindRangeInSortedArray.js)  |  Medium  |
 |  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  | [Python](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |  Easy  |
 |  [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)  | [Python](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |  Medium  |
 |  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [Python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [Java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  Hard  |
