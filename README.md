@@ -30,8 +30,8 @@
 |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [Python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  Easy  |
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |
 |  [31. Next Permutation](https://leetcode.com/problems/next-permutation)  | [Python](leetcode/array/31.NextPermutation/31NextPermutation.py)  |  Medium  |
-|  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [Python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |  Medium  |
-|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [Python](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |  Medium  |
+|  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [Python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py), [JavaScript](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.js)  |  Medium  |
+|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [Python](leetcode/array/34.FindRangeInSortedArray/34python3.py), [JavaScript](leetcode/array/34.FindRangeInSortedArray/34.FindRangeInSortedArray.js)  |  Medium  |
 |  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  | [Python](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |  Easy  |
 |  [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)  | [Python](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |  Medium  |
 |  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [Python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [Java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  Hard  |
@@ -71,7 +71,7 @@
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [Python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  Medium  |
 |  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [Python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  Medium  |
 |  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [Python](leetcode/Tree/100.sametree/100sametree.py)  |  Easy  |
-|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |  Easy  |
+|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Itera/101SymmetricTree_Itera.py)  |  Easy  |
 |  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  | [Python](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py), [C(++)](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |  Medium  |
 |  [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  | [Python](leetcode/Tree/103BinaryTreeZigZagLevelOrderTraversal/103python3.py)  |  Medium  |
 |  [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)  | [Python](leetcode/Tree/104.maxDepth/104maxDepth.py)  |  Easy  |
