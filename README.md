@@ -152,6 +152,7 @@
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
 |  [756. Pour Water](https://leetcode.com/problems/pour-water)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
 |  [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
+|  [771. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Hard  |
 |  [784. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Medium  |
 |  [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Medium  |
 |  [872. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Medium  |
