@@ -61,6 +61,7 @@
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
 |  [77. Combinations](https://leetcode.com/problems/combinations)  | [Python](leetcode/STR/77.Combination/77Combination.py)  |  Medium  |
+|  [78. Subsets](https://leetcode.com/problems/subsets)  | [Python](leetcode/array/78.SubSets/78Subset.py)  |  Medium  |
 |  [79. Word Search](https://leetcode.com/problems/word-search)  | [Python](leetcode/array/79.WordSearch/79WordSearch.py)  |  Medium  |
 |  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  | [Python](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |  Medium  |
 |  [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |  Medium  |
