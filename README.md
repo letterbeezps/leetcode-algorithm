@@ -71,7 +71,7 @@
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [Python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  Medium  |
 |  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [Python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  Medium  |
 |  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [Python](leetcode/Tree/100.sametree/100sametree.py)  |  Easy  |
-|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Itera/101SymmetricTree_Itera.py)  |  Easy  |
+|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |  Easy  |
 |  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  | [Python](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py), [C(++)](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |  Medium  |
 |  [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  | [Python](leetcode/Tree/103BinaryTreeZigZagLevelOrderTraversal/103python3.py)  |  Medium  |
 |  [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)  | [Python](leetcode/Tree/104.maxDepth/104maxDepth.py)  |  Easy  |
@@ -96,6 +96,7 @@
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
 |  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [Python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  Medium  |
+|  [146. LRU Cache](https://leetcode.com/problems/lru-cache)  | [Python](leetcode/Design/146.LRUCache/146LRUCache.py)  |  Medium  |
 |  [148. Sort List](https://leetcode.com/problems/sort-list)  | [Python](leetcode/List/148.SortList/148SortList.py)  |  Medium  |
 |  [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  | [Python](leetcode/Stack/150.EvaluateRPN/150EvaluateRPN.py)  |  Medium  |
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
