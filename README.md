@@ -56,6 +56,7 @@
 |  [61. Rotate List](https://leetcode.com/problems/rotate-list)  | [Python](leetcode/List/61.RotateList/61RotateList.py)  |  Medium  |
 |  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [Python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  Medium  |
 |  [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  | [Python](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |  Medium  |
+|  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)  | [Python](leetcode/array/64.MinimumPathSum/64MinimumPathSum.py)  |  Medium  |
 |  [66. Plus One](https://leetcode.com/problems/plus-one)  | [Python](leetcode/array/66.plusOne/66plusOne.py)  |  Easy  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
