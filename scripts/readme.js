@@ -9,12 +9,11 @@ const headerFields = ['Title', 'Solutions', 'Difficulty'];
 const contributingLink = `
 ## Contribution
 
-This repo is build to collect leetcode algorithms we write.
-
 Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
 
 We actively welcome pull requests, learn how to [contribute](./docs/Contributing.md).
 `;
+let statistic = {};
 /**
  * 递归遍历所有的文件 获取所有文件名称 以及相对根目录的路径
  * 扁平化后按照文件名前面的数字排序 （没有数字的不管） 按照扩展名分类
@@ -50,7 +49,7 @@ const flattenDeep = arr =>
 // 获取题号
 const getNumByPath = path => {
     const fileName = path.split('/')[path.split('/').length - 1];
-    const nameWithoutNum = fileName.replace(/\d+/, '');
+    const nameWithoutNum = fileName.replace(/^\d+/, '');
     const startNum = fileName.replace(nameWithoutNum, '');
     return startNum ? parseInt(startNum, 10) : '';
 };
@@ -60,6 +59,7 @@ const getExtRelativePath = (extRegEx, list, rootPath) =>
         .filter(path => path.match(extRegEx))
         .map(path => path.split(rootPath)[1])
         .filter(path => getNumByPath(path))
+        
         .sort((a, b) => getNumByPath(a) - getNumByPath(b));
 
 const classifyPath = async () => {
@@ -75,6 +75,14 @@ const classifyPath = async () => {
         JavaScript: allJs,
         Java: allJava,
         'C(++)': allC
+    };
+
+    statistic = {
+        ...statistic,
+        py: allPy.length,
+        js: allJs.length,
+        java: allJava.length,
+        cpp: allC.length
     };
 
     return pathObj;
@@ -121,12 +129,17 @@ const renderNewTable = pathObj => {
             length: v.filter(item => item).length
         }))
         .sort((a, b) => b.length - a.length);
-    let tableStr = ``;
+    let tableStr = ``,
+        totalCompleted = 0;
     Object.entries(allProblems).forEach((item, idx) => {
         // 如果每门语言该题都为空
         if (matrixArr.every(([k, v]) => !v[idx])) {
         } else {
             // 否则 拼接表格的行
+            // 计数器
+            totalCompleted += 1;
+
+            statistic.total = totalCompleted;
             let comma = '';
             let tableRow = matrixArr.reduce((acc, [k, v]) => {
                 if (v[idx]) {
@@ -154,10 +167,23 @@ ${tableRow}`;
 const generateREADME = async () => {
     const pathObj = await classifyPath();
     const titleText = `# LeetCode
+This repo is build to collect leetcode algorithms we write.
 `;
+
     renderNewTable(pathObj);
+    const statisticText = `## Completion Statistic:
+
+- Python: **${statistic.py}**
+- JavaScript: **${statistic.js}**
+- Java: **${statistic.java}**
+- C(++): **${statistic.cpp}**
+
+**Total completed: ${statistic.total}**
+
+`;
 
     const dataToWrite = `${titleText}
+${statisticText}
 ## Solutions
 ${renderNewTable(pathObj)}${contributingLink}`;
     await open('README.md', 'w')
