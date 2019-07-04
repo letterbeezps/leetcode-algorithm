@@ -30,8 +30,8 @@
 |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [Python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  Easy  |
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |
 |  [31. Next Permutation](https://leetcode.com/problems/next-permutation)  | [Python](leetcode/array/31.NextPermutation/31NextPermutation.py)  |  Medium  |
-|  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [Python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py)  |  Medium  |
-|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [Python](leetcode/array/34.FindRangeInSortedArray/34python3.py)  |  Medium  |
+|  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [Python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py), [JavaScript](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.js)  |  Medium  |
+|  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  | [Python](leetcode/array/34.FindRangeInSortedArray/34python3.py), [JavaScript](leetcode/array/34.FindRangeInSortedArray/34.FindRangeInSortedArray.js)  |  Medium  |
 |  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)  | [Python](leetcode/array/35.SearchInsertPosition/35SearchInsertPosition.py)  |  Easy  |
 |  [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)  | [Python](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |  Medium  |
 |  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [Python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [Java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  Hard  |
@@ -44,19 +44,25 @@
 |  [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching)  | [Python](leetcode/DP/44.WildcardMatching/44WildcardMatching.py)  |  Hard  |
 |  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [Python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  Hard  |
 |  [46. Permutations](https://leetcode.com/problems/permutations)  | [Python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  Medium  |
+|  [47. Permutations II](https://leetcode.com/problems/permutations-ii)  | [Python](leetcode/BackTrack/47.PermutationsII/47PermutationsII.py)  |  Medium  |
 |  [48. Rotate Image](https://leetcode.com/problems/rotate-image)  | [Python](leetcode/array/48.RotateImage/48RotateImage.py)  |  Medium  |
 |  [49. Group Anagrams](https://leetcode.com/problems/group-anagrams)  | [Python](leetcode/Hash/49.GroupAnagrams/49GroupAnagrams.py), [Java](leetcode/Hash/49.GroupAnagrams/49java.java)  |  Medium  |
 |  [50. Pow(x, n)](https://leetcode.com/problems/powx-n)  | [Python](leetcode/BinarySearch/50.Pow(x,n)/50Pow(x,n).py)  |  Medium  |
 |  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [Python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  Hard  |
 |  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [Python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  Hard  |
+|  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | [Python](leetcode/array/53.MaximumSubarray/53MaximumSubarray.py)  |  Easy  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [Python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  Medium  |
+|  [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)  | [Python](leetcode/Math/60.PermutationSequence/60PermutationSequence.py)  |  Medium  |
+|  [61. Rotate List](https://leetcode.com/problems/rotate-list)  | [Python](leetcode/List/61.RotateList/61RotateList.py)  |  Medium  |
 |  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [Python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  Medium  |
 |  [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  | [Python](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |  Medium  |
+|  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)  | [Python](leetcode/array/64.MinimumPathSum/64MinimumPathSum.py)  |  Medium  |
 |  [66. Plus One](https://leetcode.com/problems/plus-one)  | [Python](leetcode/array/66.plusOne/66plusOne.py)  |  Easy  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
 |  [77. Combinations](https://leetcode.com/problems/combinations)  | [Python](leetcode/STR/77.Combination/77Combination.py)  |  Medium  |
+|  [78. Subsets](https://leetcode.com/problems/subsets)  | [Python](leetcode/array/78.SubSets/78Subset.py)  |  Medium  |
 |  [79. Word Search](https://leetcode.com/problems/word-search)  | [Python](leetcode/array/79.WordSearch/79WordSearch.py)  |  Medium  |
 |  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  | [Python](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |  Medium  |
 |  [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |  Medium  |
@@ -66,8 +72,9 @@
 |  [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)  | [Python](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |  Medium  |
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [Python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  Medium  |
 |  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [Python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  Medium  |
+|  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)  | [Python](leetcode/Tree/98.ValidateBinarySearchTree/98ValidateBinarySearchTree.py)  |  Medium  |
 |  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [Python](leetcode/Tree/100.sametree/100sametree.py)  |  Easy  |
-|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Itera/101SymmetricTree_Itera.py)  |  Easy  |
+|  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |  Easy  |
 |  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  | [Python](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py), [C(++)](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |  Medium  |
 |  [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  | [Python](leetcode/Tree/103BinaryTreeZigZagLevelOrderTraversal/103python3.py)  |  Medium  |
 |  [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)  | [Python](leetcode/Tree/104.maxDepth/104maxDepth.py)  |  Easy  |
@@ -79,6 +86,7 @@
 |  [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)  | [Python](leetcode/Tree/110.BalancedBinaryTree/110BalancedBinaryTree.py)  |  Easy  |
 |  [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)  | [Python](leetcode/Tree/111.minDepth/111minDepth.py)  |  Easy  |
 |  [112. Path Sum](https://leetcode.com/problems/path-sum)  | [Python](leetcode/Tree/112.pathSum/112pathSum.py)  |  Easy  |
+|  [113. Path Sum II](https://leetcode.com/problems/path-sum-ii)  | [Python](leetcode/Tree/113.PathSumII/113PathSumII.py)  |  Medium  |
 |  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)  | [Python](leetcode/DP/115.numDistinct/115numDistinct.py)  |  Hard  |
 |  [120. Triangle](https://leetcode.com/problems/triangle)  | [Python](leetcode/array/120.minimumTotal/120minimumTotal.py)  |  Medium  |
 |  [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | [Python](leetcode/array/121.maxProfit/121maxProfit.py)  |  Easy  |
@@ -91,6 +99,7 @@
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
 |  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [Python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  Medium  |
+|  [146. LRU Cache](https://leetcode.com/problems/lru-cache)  | [Python](leetcode/Design/146.LRUCache/146LRUCache.py)  |  Medium  |
 |  [148. Sort List](https://leetcode.com/problems/sort-list)  | [Python](leetcode/List/148.SortList/148SortList.py)  |  Medium  |
 |  [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  | [Python](leetcode/Stack/150.EvaluateRPN/150EvaluateRPN.py)  |  Medium  |
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
@@ -111,6 +120,7 @@
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337HouseRobberIII/337python3.py)  |  Medium  |
 |  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [Python](leetcode/array/341.NestedList/341NestedList.py)  |  Medium  |
+|  [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  | [Python](leetcode/Hash/347.TopKFrequentElements/347python3.py)  |  Medium  |
 |  [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  | [Python](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |  Hard  |
 |  [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)  | [Python](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |  Easy  |
 |  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)  | [Python](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |  Medium  |
@@ -121,6 +131,7 @@
 |  [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  | [Python](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)  |  Easy  |
 |  [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)  | [Python](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |  Medium  |
 |  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [Python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |  Medium  |
+|  [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)  | [Python](leetcode/Tree/437.PathSumIII/437PathSumIII.py)  |  Easy  |
 |  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [Python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |  Medium  |
 |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
@@ -137,16 +148,20 @@
 |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [Python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  Easy  |
 |  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [Python](leetcode/Hash/560.subarraySum/560subarraySum.py)  |  Medium  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
+|  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
 |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [Python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
 |  [756. Pour Water](https://leetcode.com/problems/pour-water)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
 |  [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
+|  [771. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Hard  |
 |  [784. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Medium  |
+|  [811. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Medium  |
 |  [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Medium  |
 |  [872. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Medium  |
 |  [879. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |  Easy  |
+|  [905. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Medium  |
 |  [965. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
 |  [1029. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [Python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  Medium  |
 |  [1046. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)  | [Python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  Medium  |
