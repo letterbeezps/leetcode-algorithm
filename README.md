@@ -155,6 +155,7 @@
 |  [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
 |  [771. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Hard  |
 |  [784. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Medium  |
+|  [811. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Medium  |
 |  [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Medium  |
 |  [872. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Medium  |
 |  [879. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |  Easy  |
