@@ -148,6 +148,7 @@
 |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [Python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  Easy  |
 |  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [Python](leetcode/Hash/560.subarraySum/560subarraySum.py)  |  Medium  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
+|  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
 |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [Python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
