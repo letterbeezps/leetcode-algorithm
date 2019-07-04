@@ -72,6 +72,7 @@
 |  [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)  | [Python](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |  Medium  |
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [Python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  Medium  |
 |  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [Python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  Medium  |
+|  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)  | [Python](leetcode/Tree/98.ValidateBinarySearchTree/98ValidateBinarySearchTree.py)  |  Medium  |
 |  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [Python](leetcode/Tree/100.sametree/100sametree.py)  |  Easy  |
 |  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree_Recu/101SymmetricTree_Recu.py)  |  Easy  |
 |  [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  | [Python](leetcode/Tree/102BinaryTreeLevelOrder/102python3.py), [C(++)](leetcode/Tree/102BinaryTreeLevelOrder/102cpp.cpp)  |  Medium  |
