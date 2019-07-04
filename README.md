@@ -153,19 +153,19 @@
 |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [Python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
-|  [756. Pour Water](https://leetcode.com/problems/pour-water)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
-|  [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
-|  [771. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Hard  |
-|  [784. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Medium  |
-|  [811. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Medium  |
-|  [860. Design Circular Queue](https://leetcode.com/problems/design-circular-queue)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Medium  |
-|  [872. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Medium  |
-|  [879. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |  Easy  |
-|  [905. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Medium  |
-|  [965. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
-|  [1029. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [Python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  Medium  |
-|  [1046. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)  | [Python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  Medium  |
-|  [1092. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)  | [Python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  Medium  |
+|  [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
+|  [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
+|  [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Easy  |
+|  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
+|  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
+|  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
+|  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
+|  [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/879python3.py)  |  Hard  |
+|  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
+|  [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
+|  [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | [Python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  Easy  |
+|  [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)  | [Python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  Easy  |
+|  [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)  | [Python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  Hard  |
 ## Contribution
 
 This repo is build to collect leetcode algorithms we write.
