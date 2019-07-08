@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **166**
+- Python: **169**
 - JavaScript: **9**
 - Java: **2**
-- C(++): **2**
+- C(++): **3**
 
-**Total completed: 167**
+**Total completed: 170**
 
 
 ## Solutions
@@ -17,7 +17,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [Python](leetcode/array/1.twoSum/1twoSum.py), [JavaScript](leetcode/array/1.twoSum/1twoSum.js)  |  Easy  |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [JavaScript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  Medium  |
 |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [Python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [JavaScript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  Medium  |
-|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js)  |  Hard  |
+|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js), [C(++)](leetcode/array/4.medianOfTwoSortedArrays/4CPP.cpp)  |  Hard  |
 |  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [Python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [JavaScript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js)  |  Medium  |
 |  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [Python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  Medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [Python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  Easy  |
@@ -74,6 +74,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
+|  [75. Sort Colors](https://leetcode.com/problems/sort-colors)  | [Python](leetcode/array/75.SortColors/75SortColors.py)  |  Medium  |
 |  [77. Combinations](https://leetcode.com/problems/combinations)  | [Python](leetcode/STR/77.Combination/77Combination.py)  |  Medium  |
 |  [78. Subsets](https://leetcode.com/problems/subsets)  | [Python](leetcode/array/78.SubSets/78Subset.py)  |  Medium  |
 |  [79. Word Search](https://leetcode.com/problems/word-search)  | [Python](leetcode/array/79.WordSearch/79WordSearch.py)  |  Medium  |
@@ -119,10 +120,12 @@ This repo is build to collect leetcode algorithms we write.
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
 |  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  Hard  |
 |  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [Python](leetcode/Stack/155.MinStack/155MinStack.py)  |  Easy  |
+|  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum||/167TwoSum||.py)  |  Easy  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
 |  [200. Number of Islands](https://leetcode.com/problems/number-of-islands)  | [Python](leetcode/matrix/200.numIsLands/200numIsLands.py)  |  Medium  |
 |  [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)  | [Python](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |  Medium  |
 |  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [Python](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |  Easy  |
+|  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
 |  [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  | [Python](leetcode/array/240.SearchA2DMatrixII/240SearchA2DMatrix.py)  |  Medium  |
