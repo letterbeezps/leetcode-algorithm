@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **169**
+- Python: **171**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 170**
+**Total completed: 172**
 
 
 ## Solutions
@@ -71,6 +71,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)  | [Python](leetcode/DP/63.uniquePaths/63uniquePaths.py)  |  Medium  |
 |  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)  | [Python](leetcode/array/64.MinimumPathSum/64MinimumPathSum.py)  |  Medium  |
 |  [66. Plus One](https://leetcode.com/problems/plus-one)  | [Python](leetcode/array/66.plusOne/66plusOne.py)  |  Easy  |
+|  [67. Add Binary](https://leetcode.com/problems/add-binary)  | [Python](leetcode/Math/67.AddBinary/67AddBinary.py)  |  Easy  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
@@ -120,7 +121,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
 |  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  Hard  |
 |  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [Python](leetcode/Stack/155.MinStack/155MinStack.py)  |  Easy  |
-|  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum||/167TwoSum||.py)  |  Easy  |
+|  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
 |  [200. Number of Islands](https://leetcode.com/problems/number-of-islands)  | [Python](leetcode/matrix/200.numIsLands/200numIsLands.py)  |  Medium  |
 |  [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)  | [Python](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |  Medium  |
@@ -131,6 +132,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  | [Python](leetcode/array/240.SearchA2DMatrixII/240SearchA2DMatrix.py)  |  Medium  |
 |  [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)  | [Python](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |  Easy  |
 |  [260. Single Number III](https://leetcode.com/problems/single-number-iii)  | [Python](leetcode/BitOperation/260.SingleNumber/260SingleNumber.py)  |  Medium  |
+|  [263. Ugly Number](https://leetcode.com/problems/ugly-number)  | [Python](leetcode/Math/263.UglyNumber/263UglyNumber.py)  |  Easy  |
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
