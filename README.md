@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **174**
+- Python: **176**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 175**
+**Total completed: 177**
 
 
 ## Solutions
@@ -139,6 +139,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
+|  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337HouseRobberIII/337python3.py)  |  Medium  |
 |  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [Python](leetcode/array/341.NestedList/341NestedList.py)  |  Medium  |
@@ -163,6 +164,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [475. Heaters](https://leetcode.com/problems/heaters)  | [Python](leetcode/Greedy/475.Heaters/475Heaters.py)  |  Easy  |
 |  [476. Number Complement](https://leetcode.com/problems/number-complement)  | [Python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |  Easy  |
 |  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [Python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |  Medium  |
+|  [481. Magical String](https://leetcode.com/problems/magical-string)  | [Python](leetcode/Other/481.MagicalString/481MagicalString.py)  |  Medium  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [Python](leetcode/Other/504.Base7/504Base7.py)  |  Easy  |
 |  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [Python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  Easy  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [Python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  Medium  |
