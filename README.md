@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **171**
+- Python: **174**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 172**
+**Total completed: 175**
 
 
 ## Solutions
@@ -63,6 +63,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [Python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  Hard  |
 |  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [Python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  Hard  |
 |  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | [Python](leetcode/array/53.MaximumSubarray/53MaximumSubarray.py)  |  Easy  |
+|  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)  | [Python](leetcode/array/54.SpiralMatrix/54SpiralMatrix.py)  |  Medium  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [Python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  Medium  |
 |  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)  | [Python](leetcode/array/56.MergeIntervals/56MergeIntervals.py)  |  Medium  |
 |  [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)  | [Python](leetcode/Math/60.PermutationSequence/60PermutationSequence.py)  |  Medium  |
@@ -116,7 +117,9 @@ This repo is build to collect leetcode algorithms we write.
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
 |  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [Python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  Medium  |
 |  [146. LRU Cache](https://leetcode.com/problems/lru-cache)  | [Python](leetcode/Design/146.LRUCache/146LRUCache.py)  |  Medium  |
+|  [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)  | [Python](leetcode/List/147.InsertionSortList/147InsertionSortList.py)  |  Medium  |
 |  [148. Sort List](https://leetcode.com/problems/sort-list)  | [Python](leetcode/List/148.SortList/148SortList.py)  |  Medium  |
+|  [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)  | [Python](leetcode/Hash/149.MaxPointsOnALine/149python3.py)  |  Hard  |
 |  [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  | [Python](leetcode/Stack/150.EvaluateRPN/150EvaluateRPN.py)  |  Medium  |
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
 |  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  Hard  |
