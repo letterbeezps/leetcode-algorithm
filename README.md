@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **176**
+- Python: **179**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 177**
+**Total completed: 180**
 
 
 ## Solutions
@@ -25,6 +25,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)  | [Python](leetcode/Math/9.PalindromeNumber/9PalindromeNumber.py)  |  Easy  |
 |  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)  | [Python](leetcode/DP/10.RegularExpressionMatching/10RegularExpressionMatching.py)  |  Hard  |
 |  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)  | [Python](leetcode/array/11.ContainerWithMostWater/11ContainerWithMostWater.py)  |  Medium  |
+|  [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)  | [Python](leetcode/Math/12.IntegerToRoman/12IntegertoRoman.py)  |  Medium  |
 |  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)  | [Python](leetcode/STR/13.RomanToInteger/13RomanToInteger.py), [JavaScript](leetcode/STR/13.RomanToInteger/13RomanToInteger.js)  |  Easy  |
 |  [15. 3Sum](https://leetcode.com/problems/3sum)  | [Python](leetcode/array/15.threeSum/15threeSum.py)  |  Medium  |
 |  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)  | [Python](leetcode/array/16.ThreeSumClosest/16ThreeSumClosest.py)  |  Medium  |
@@ -74,6 +75,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [66. Plus One](https://leetcode.com/problems/plus-one)  | [Python](leetcode/array/66.plusOne/66plusOne.py)  |  Easy  |
 |  [67. Add Binary](https://leetcode.com/problems/add-binary)  | [Python](leetcode/Math/67.AddBinary/67AddBinary.py)  |  Easy  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
+|  [71. Simplify Path](https://leetcode.com/problems/simplify-path)  | [Python](leetcode/STR/71.SimplifyPath/71SimplifyPath.py)  |  Medium  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
 |  [75. Sort Colors](https://leetcode.com/problems/sort-colors)  | [Python](leetcode/array/75.SortColors/75SortColors.py)  |  Medium  |
@@ -153,6 +155,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits)  | [Python](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |  Medium  |
 |  [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  | [Python](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)  |  Easy  |
 |  [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)  | [Python](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |  Medium  |
+|  [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)  | [Python](leetcode/Hash/409.LongestPalindrome/409LongestPalidrome.py)  |  Easy  |
 |  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [Python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |  Medium  |
 |  [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)  | [Python](leetcode/Tree/437.PathSumIII/437PathSumIII.py)  |  Easy  |
 |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  | [Python](leetcode/array/442.FindAllDuplicatesInAnArray/442python3.py)  |  Medium  |
