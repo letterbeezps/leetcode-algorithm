@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **180**
+- Python: **181**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 181**
+**Total completed: 182**
 
 
 ## Solutions
@@ -139,6 +139,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)  | [Python](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |  Easy  |
 |  [260. Single Number III](https://leetcode.com/problems/single-number-iii)  | [Python](leetcode/BitOperation/260.SingleNumber/260SingleNumber.py)  |  Medium  |
 |  [263. Ugly Number](https://leetcode.com/problems/ugly-number)  | [Python](leetcode/Math/263.UglyNumber/263UglyNumber.py)  |  Easy  |
+|  [268. Missing Number](https://leetcode.com/problems/missing-number)  | [Python](leetcode/array/268.MissingNumber/268MissingNumber.py)  |  Easy  |
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
