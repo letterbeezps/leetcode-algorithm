@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **179**
+- Python: **180**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 180**
+**Total completed: 181**
 
 
 ## Solutions
@@ -74,6 +74,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)  | [Python](leetcode/array/64.MinimumPathSum/64MinimumPathSum.py)  |  Medium  |
 |  [66. Plus One](https://leetcode.com/problems/plus-one)  | [Python](leetcode/array/66.plusOne/66plusOne.py)  |  Easy  |
 |  [67. Add Binary](https://leetcode.com/problems/add-binary)  | [Python](leetcode/Math/67.AddBinary/67AddBinary.py)  |  Easy  |
+|  [68. Text Justification](https://leetcode.com/problems/text-justification)  | [Python](leetcode/STR/68.TextJustification/68TextJustification.py)  |  Hard  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
 |  [71. Simplify Path](https://leetcode.com/problems/simplify-path)  | [Python](leetcode/STR/71.SimplifyPath/71SimplifyPath.py)  |  Medium  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
