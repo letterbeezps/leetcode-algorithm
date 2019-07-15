@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **181**
+- Python: **183**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 182**
+**Total completed: 184**
 
 
 ## Solutions
@@ -145,7 +145,9 @@ This repo is build to collect leetcode algorithms we write.
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
+|  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  | [Python](leetcode/BackTrack/329.LongestIncreasingPathInAMatrix/329python3.py)  |  Hard  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337HouseRobberIII/337python3.py)  |  Medium  |
+|  [338. Counting Bits](https://leetcode.com/problems/counting-bits)  | [Python](leetcode/DP/338.CountingBits/338CountingBits.py)  |  Medium  |
 |  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [Python](leetcode/array/341.NestedList/341NestedList.py)  |  Medium  |
 |  [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  | [Python](leetcode/Hash/347.TopKFrequentElements/347python3.py)  |  Medium  |
 |  [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  | [Python](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |  Hard  |
