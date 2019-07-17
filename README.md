@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **183**
+- Python: **186**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 184**
+**Total completed: 187**
 
 
 ## Solutions
@@ -145,6 +145,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
+|  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
 |  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  | [Python](leetcode/BackTrack/329.LongestIncreasingPathInAMatrix/329python3.py)  |  Hard  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337HouseRobberIII/337python3.py)  |  Medium  |
 |  [338. Counting Bits](https://leetcode.com/problems/counting-bits)  | [Python](leetcode/DP/338.CountingBits/338CountingBits.py)  |  Medium  |
@@ -154,6 +155,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)  | [Python](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |  Easy  |
 |  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)  | [Python](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |  Medium  |
 |  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  | [Python](leetcode/BinarySearch/378.KthSmallestElementInASortedMatrix/378python3.py)  |  Medium  |
+|  [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)  | [Python](leetcode/Hash/387.FirstUniqueCharacter/387python3.py)  |  Easy  |
 |  [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)  | [Python](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |  Medium  |
 |  [394. Decode String](https://leetcode.com/problems/decode-string)  | [Python](leetcode/STR/394.DecodeString/394DecodeString.py)  |  Medium  |
 |  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits)  | [Python](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |  Medium  |
@@ -163,6 +165,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [Python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |  Medium  |
 |  [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)  | [Python](leetcode/Tree/437.PathSumIII/437PathSumIII.py)  |  Easy  |
 |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  | [Python](leetcode/array/442.FindAllDuplicatesInAnArray/442python3.py)  |  Medium  |
+|  [443. String Compression](https://leetcode.com/problems/string-compression)  | [Python](leetcode/STR/443.StringCompression/443StringCompression.py)  |  Easy  |
 |  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [Python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |  Medium  |
 |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
