@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **200**
+- Python: **201**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **4**
 
-**Total completed: 201**
+**Total completed: 202**
 
 
 ## Solutions
@@ -140,6 +140,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
+|  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
 |  [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  | [Python](leetcode/array/240.SearchA2DMatrixII/240SearchA2DMatrix.py)  |  Medium  |
 |  [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)  | [Python](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |  Easy  |
