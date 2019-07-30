@@ -34,3 +34,32 @@ class Solution:
             return right
         else:
             return left
+
+
+
+##############solution 2 heap###########
+class Solution:
+    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        heap = [(row[0], i, 0) for i, row in enumerate(matrix)]
+        heapq.heapify(heap)
+        
+        for _ in range(k):
+            ret, i, j = heapq.heappop(heap)
+            if j+1 < len(matrix[0]):
+                heapq.heappush(heap, (matrix[i][j+1], i, j+1))
+        return ret
+
+################solution 3
+
+from bisect import bisect
+class Solution:
+    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        lo, hi = matrix[0][0], matrix[-1][-1]
+        while lo < hi:
+            mid = lo + (hi - lo) // 2
+            if sum(bisect(row, mid) for row in matrix) < k:
+                lo = mid + 1
+            else:
+                hi = mid
+                
+        return lo

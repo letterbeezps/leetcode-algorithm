@@ -27,7 +27,7 @@ class Solution:
                     else:
                         l = mid + 1
                 #end_while
-                q[l] = min(q[l], y)  # 在找到的位置用y替换
+                q[l] = y  # 在找到的位置用y替换
             #end_for
         return len(q)
 

@@ -41,3 +41,15 @@ if __name__ == '__main__':
                 [4, 1, 8, 3]]
     
     nimimumTotal(triangle)
+
+
+############solution 2 ###############
+class Solution:
+    def minimumTotal(self, triangle: List[List[int]]) -> int:
+        n = len(triangle)
+        g, f = [0] * n, triangle[-1]
+        for i in range(n-2, -1, -1):
+            for j in range(i+1):
+                g[j] = min(f[j], f[j+1]) + triangle[i][j]
+            f = g
+        return f[0]
