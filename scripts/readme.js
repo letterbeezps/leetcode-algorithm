@@ -115,6 +115,8 @@ const renderNewTable = pathObj => {
     Object.entries(pathObj).map(([k, v]) => {
         tableMatrix[k] = [];
         v.forEach(path => {
+            // 转义
+            path = encodeURI(path);
             tableMatrix[k][getNumByPath(path)] = `[${
                 k
                 // path.split('/')[path.split('/').length - 1]
