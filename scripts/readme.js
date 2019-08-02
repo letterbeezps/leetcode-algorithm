@@ -66,10 +66,10 @@ const classifyPath = async () => {
     const list = flattenDeep(
         await readDirRecursive(resolve(rootPath, 'leetcode'))
     );
-    const allJs = getExtRelativePath(/\.js$/, list, rootPath);
-    const allPy = getExtRelativePath(/\.py$/, list, rootPath);
-    const allJava = getExtRelativePath(/\.java$/, list, rootPath);
-    const allC = getExtRelativePath(/\.c(pp)?$/, list, rootPath);
+    const allJs = getExtRelativePath(/\.js$/i, list, rootPath);
+    const allPy = getExtRelativePath(/\.py$/i, list, rootPath);
+    const allJava = getExtRelativePath(/\.java$/i, list, rootPath);
+    const allC = getExtRelativePath(/\.c(pp)?$/i, list, rootPath);
     const pathObj = {
         Python: allPy,
         JavaScript: allJs,
