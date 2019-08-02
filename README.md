@@ -4,9 +4,9 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **203**
-- JavaScript: **9**
+- JavaScript: **10**
 - Java: **2**
-- C(++): **4**
+- C(++): **3**
 
 **Total completed: 204**
 
@@ -23,7 +23,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [Python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  Easy  |
 |  [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)  | [Python](leetcode/List/8.myAtoi/8myAtoi.py)  |  Medium  |
 |  [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)  | [Python](leetcode/Math/9.PalindromeNumber/9PalindromeNumber.py)  |  Easy  |
-|  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)  | [Python](leetcode/DP/10.RegularExpressionMatching/10RegularExpressionMatching.py)  |  Hard  |
+|  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)  | [Python](leetcode/DP/10.RegularExpressionMatching/10RegularExpressionMatching.py), [JavaScript](leetcode/DP/10.RegularExpressionMatching/10RegularExpressionMatching.js)  |  Hard  |
 |  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)  | [Python](leetcode/array/11.ContainerWithMostWater/11ContainerWithMostWater.py)  |  Medium  |
 |  [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)  | [Python](leetcode/Math/12.IntegerToRoman/12IntegertoRoman.py)  |  Medium  |
 |  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)  | [Python](leetcode/STR/13.RomanToInteger/13RomanToInteger.py), [JavaScript](leetcode/STR/13.RomanToInteger/13RomanToInteger.js)  |  Easy  |
