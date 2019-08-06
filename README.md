@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **203**
+- Python: **206**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **4**
 
-**Total completed: 204**
+**Total completed: 207**
 
 
 ## Solutions
@@ -89,6 +89,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)  | [Python](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |  Easy  |
 |  [86. Partition List](https://leetcode.com/problems/partition-list)  | [Python](leetcode/List/86.PartitionList/86PartitionList.py)  |  Medium  |
 |  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)  | [Python](leetcode/array/88.MergeSortedArray/88MergeSortedArray.py)  |  Easy  |
+|  [91. Decode Ways](https://leetcode.com/problems/decode-ways)  | [Python](leetcode/STR/91.DecodeWays/91DecodeWays.py)  |  Medium  |
 |  [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)  | [Python](leetcode/List/92.ReverseLinkedList/92ReverseLinkedList.py)  |  Medium  |
 |  [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)  | [Python](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |  Medium  |
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [Python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  Medium  |
@@ -116,6 +117,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | [Python](leetcode/List/125.isPalindrome/125isPalindrome.py)  |  Easy  |
 |  [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)  | [Python](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |  Hard  |
 |  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | [Python](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |  Medium  |
+|  [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  | [Python](leetcode/DP/132.PalindromePartitioning/132python3.py)  |  Hard  |
 |  [134. Gas Station](https://leetcode.com/problems/gas-station)  | [Python](leetcode/Greedy/134.GasStation/134GasStation.py)  |  Medium  |
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
@@ -200,6 +202,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
+|  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
 |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [Python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  Easy  |
