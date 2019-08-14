@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **206**
+- Python: **209**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **4**
 
-**Total completed: 207**
+**Total completed: 210**
 
 
 ## Solutions
@@ -27,6 +27,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)  | [Python](leetcode/array/11.ContainerWithMostWater/11ContainerWithMostWater.py)  |  Medium  |
 |  [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)  | [Python](leetcode/Math/12.IntegerToRoman/12IntegertoRoman.py)  |  Medium  |
 |  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)  | [Python](leetcode/STR/13.RomanToInteger/13RomanToInteger.py), [JavaScript](leetcode/STR/13.RomanToInteger/13RomanToInteger.js)  |  Easy  |
+|  [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)  | [Python](leetcode/STR/14.LongestCommonPrefix/14python3.py)  |  Easy  |
 |  [15. 3Sum](https://leetcode.com/problems/3sum)  | [Python](leetcode/array/15.threeSum/15threeSum.py)  |  Medium  |
 |  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)  | [Python](leetcode/array/16.ThreeSumClosest/16ThreeSumClosest.py)  |  Medium  |
 |  [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  | [Python](leetcode/STR/17.letterCombinations/17letterCombinations.py)  |  Medium  |
@@ -190,10 +191,12 @@ This repo is build to collect leetcode algorithms we write.
 |  [476. Number Complement](https://leetcode.com/problems/number-complement)  | [Python](leetcode/BitOperation/476.NumberComplement/476NumberComplement.py)  |  Easy  |
 |  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [Python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |  Medium  |
 |  [481. Magical String](https://leetcode.com/problems/magical-string)  | [Python](leetcode/Other/481.MagicalString/481MagicalString.py)  |  Medium  |
+|  [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner)  | [Python](leetcode/DP/486.PredictTheWinner/486python3.py)  |  Medium  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [Python](leetcode/Other/504.Base7/504Base7.py)  |  Easy  |
 |  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [Python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  Easy  |
 |  [518. Coin Change 2](https://leetcode.com/problems/coin-change-2)  | [Python](leetcode/DP/518.CoinChange2/518CoinChange2.py)  |  Medium  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [Python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  Medium  |
+|  [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)  | [Python](leetcode/BackTrack/526.BeautofulArrangment/526python3.py)  |  Medium  |
 |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [Python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  Medium  |
 |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [Python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [C(++)](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  Medium  |
 |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [Python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  Easy  |
