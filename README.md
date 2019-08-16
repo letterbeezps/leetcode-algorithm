@@ -234,3 +234,5 @@ We actively welcome pull requests, learn how to [contribute](./docs/Contributing
 
 
 I'm adding a developer branch which will be deleted at next commit
+
+another notes
