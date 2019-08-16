@@ -6,7 +6,7 @@ This repo is build to collect leetcode algorithms we write.
 - Python: **211**
 - JavaScript: **9**
 - Java: **2**
-- C(++): **4**
+- C(++): **3**
 
 **Total completed: 212**
 
@@ -17,7 +17,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [Python](leetcode/array/1.twoSum/1twoSum.py), [JavaScript](leetcode/array/1.twoSum/1twoSum.js)  |  Easy  |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [JavaScript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  Medium  |
 |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [Python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [JavaScript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  Medium  |
-|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js), [C(++)](leetcode/array/4.medianOfTwoSortedArrays/4CPP.cpp)  |  Hard  |
+|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js)  |  Hard  |
 |  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [Python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [JavaScript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js)  |  Medium  |
 |  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [Python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  Medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [Python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  Easy  |
@@ -231,9 +231,3 @@ This repo is build to collect leetcode algorithms we write.
 Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
 
 We actively welcome pull requests, learn how to [contribute](./docs/Contributing.md).
-
-
-I'm adding a developer branch which will be deleted at next commit
-
-another notes
-this is deveploer1
