@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **211**
+- Python: **213**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 212**
+**Total completed: 214**
 
 
 ## Solutions
@@ -115,6 +115,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | [Python](leetcode/array/121.maxProfit/121maxProfit.py)  |  Easy  |
 |  [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)  | [Python](leetcode/array/122.maxProfit/122maxProfit.py)  |  Easy  |
 |  [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)  | [Python](leetcode/array/123.maxProfit/123maxProfit.py)  |  Hard  |
+|  [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)  | [Python](leetcode/Tree/124.BinaryTreeMaximumPathSum/124python3.py)  |  Hard  |
 |  [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | [Python](leetcode/List/125.isPalindrome/125isPalindrome.py)  |  Easy  |
 |  [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)  | [Python](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |  Hard  |
 |  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | [Python](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |  Medium  |
@@ -143,6 +144,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [Python](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |  Easy  |
 |  [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)  | [Python](leetcode/Design/208.ImplementTrie/208ImplementTrie.py)  |  Medium  |
 |  [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design)  | [Python](leetcode/BackTrack/211.AddAndSearch/211.python3.py)  |  Medium  |
+|  [212. Word Search II](https://leetcode.com/problems/word-search-ii)  | [Python](leetcode/BackTrack/212.WordSearch/212WordSearch.py)  |  Hard  |
 |  [213. House Robber II](https://leetcode.com/problems/house-robber-ii)  | [Python](leetcode/DP/213.HouseRobber/213HouserRoober.py)  |  Medium  |
 |  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
