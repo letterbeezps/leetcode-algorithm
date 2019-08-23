@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **213**
+- Python: **216**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 214**
+**Total completed: 217**
 
 
 ## Solutions
@@ -133,6 +133,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
 |  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  Hard  |
 |  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [Python](leetcode/Stack/155.MinStack/155MinStack.py)  |  Easy  |
+|  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)  | [Python](leetcode/array/162.FindPeakElement/162FindPeakElement.py)  |  Medium  |
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
@@ -213,6 +214,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
 |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [Python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  Easy  |
+|  [705. Design HashSet](https://leetcode.com/problems/design-hashset)  | [Python](leetcode/Hash/705.DesignHashSet/705DesignHashSet.py)  |  Easy  |
+|  [706. Design HashMap](https://leetcode.com/problems/design-hashmap)  | [Python](leetcode/Hash/706.DesignHashMap/706DesignHashMap.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
 |  [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
