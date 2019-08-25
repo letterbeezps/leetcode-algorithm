@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **216**
+- Python: **219**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 217**
+**Total completed: 220**
 
 
 ## Solutions
@@ -88,6 +88,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  | [Python](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |  Medium  |
 |  [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |  Medium  |
 |  [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)  | [Python](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |  Easy  |
+|  [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)  | [Python](leetcode/array/84.LargestRectangleHis/84python3.py)  |  Hard  |
 |  [86. Partition List](https://leetcode.com/problems/partition-list)  | [Python](leetcode/List/86.PartitionList/86PartitionList.py)  |  Medium  |
 |  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)  | [Python](leetcode/array/88.MergeSortedArray/88MergeSortedArray.py)  |  Easy  |
 |  [91. Decode Ways](https://leetcode.com/problems/decode-ways)  | [Python](leetcode/STR/91.DecodeWays/91DecodeWays.py)  |  Medium  |
@@ -197,6 +198,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)  | [Python](leetcode/BitOperation/477.TotalHammingDistance/477TotalHammingDistance.py)  |  Medium  |
 |  [481. Magical String](https://leetcode.com/problems/magical-string)  | [Python](leetcode/Other/481.MagicalString/481MagicalString.py)  |  Medium  |
 |  [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner)  | [Python](leetcode/DP/486.PredictTheWinner/486python3.py)  |  Medium  |
+|  [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)  | [Python](leetcode/Stack/496.NextGreaterElement/496python3.py)  |  Easy  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [Python](leetcode/Other/504.Base7/504Base7.py)  |  Easy  |
 |  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [Python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  Easy  |
 |  [518. Coin Change 2](https://leetcode.com/problems/coin-change-2)  | [Python](leetcode/DP/518.CoinChange2/518CoinChange2.py)  |  Medium  |
@@ -227,6 +229,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
 |  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/897python3.py)  |  Easy  |
 |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
+|  [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)  | [Python](leetcode/Tree/958.CheckCompletenessBinaryTree/958python3.py)  |  Medium  |
 |  [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
 |  [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | [Python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  Easy  |
 |  [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)  | [Python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  Easy  |
