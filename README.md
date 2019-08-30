@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **219**
+- Python: **221**
 - JavaScript: **9**
 - Java: **2**
 - C(++): **3**
 
-**Total completed: 220**
+**Total completed: 222**
 
 
 ## Solutions
@@ -163,6 +163,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
+|  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
 |  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  | [Python](leetcode/BackTrack/329.LongestIncreasingPathInAMatrix/329python3.py)  |  Hard  |
@@ -212,6 +213,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
+|  [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)  | [Python](leetcode/Tree/654.MaximumBinaryTree/654python3.py)  |  Medium  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
