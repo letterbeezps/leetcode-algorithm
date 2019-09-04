@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **224**
+- Python: **227**
 - JavaScript: **9**
-- Java: **2**
+- Java: **3**
 - C(++): **3**
 
-**Total completed: 225**
+**Total completed: 228**
 
 
 ## Solutions
@@ -153,6 +153,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
 |  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
+|  [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)  | [Python](leetcode/Stack/232.ImplementQueueUsingStacks/232python3.py), [Java](leetcode/Stack/232.ImplementQueueUsingStacks/232Java.java)  |  Easy  |
 |  [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)  | [Python](leetcode/Heap/239.SlidingWindowMaximum/239python3.py)  |  Hard  |
 |  [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)  | [Python](leetcode/array/240.SearchA2DMatrixII/240SearchA2DMatrix.py)  |  Medium  |
 |  [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)  | [Python](leetcode/Tree/257.BinaryTreePaths/257BinaryTreePaths.py)  |  Easy  |
@@ -172,6 +173,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [338. Counting Bits](https://leetcode.com/problems/counting-bits)  | [Python](leetcode/DP/338.CountingBits/338CountingBits.py)  |  Medium  |
 |  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [Python](leetcode/array/341.NestedList/341NestedList.py)  |  Medium  |
 |  [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  | [Python](leetcode/Hash/347.TopKFrequentElements/347python3.py)  |  Medium  |
+|  [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)  | [Python](leetcode/Hash/349.IntersectionOfTwoArray/349python3.py)  |  Easy  |
+|  [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  | [Python](leetcode/Hash/350.IntersectionOfTwoArray/350python3.py)  |  Easy  |
 |  [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  | [Python](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |  Hard  |
 |  [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)  | [Python](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |  Easy  |
 |  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)  | [Python](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |  Medium  |
