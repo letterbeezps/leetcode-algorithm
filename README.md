@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **227**
+- Python: **230**
 - JavaScript: **9**
 - Java: **3**
 - C(++): **3**
 
-**Total completed: 228**
+**Total completed: 231**
 
 
 ## Solutions
@@ -143,6 +143,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [198. House Robber](https://leetcode.com/problems/house-robber)  | [Python](leetcode/DP/198.HouseRobber/198python3.py)  |  Easy  |
 |  [200. Number of Islands](https://leetcode.com/problems/number-of-islands)  | [Python](leetcode/matrix/200.numIsLands/200numIsLands.py)  |  Medium  |
 |  [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)  | [Python](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |  Medium  |
+|  [202. Happy Number](https://leetcode.com/problems/happy-number)  | [Python](leetcode/Hash/202.HappyNumber/202HappyNumber.py)  |  Easy  |
+|  [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)  | [Python](leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.py)  |  Easy  |
 |  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [Python](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |  Easy  |
 |  [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)  | [Python](leetcode/Design/208.ImplementTrie/208ImplementTrie.py)  |  Medium  |
 |  [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design)  | [Python](leetcode/BackTrack/211.AddAndSearch/211.python3.py)  |  Medium  |
@@ -215,6 +217,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [Python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  Easy  |
 |  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [Python](leetcode/Hash/560.subarraySum/560subarraySum.py)  |  Medium  |
 |  [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)  | [Python](leetcode/DP/576.OutOfBoundaryPaths/576python3.py)  |  Medium  |
+|  [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)  | [Python](leetcode/Hash/599.MinimumIndexSumofTwoLists/599python3.py)  |  Easy  |
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
