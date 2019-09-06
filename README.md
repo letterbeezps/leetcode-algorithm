@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **230**
+- Python: **233**
 - JavaScript: **9**
 - Java: **3**
 - C(++): **3**
 
-**Total completed: 231**
+**Total completed: 234**
 
 
 ## Solutions
@@ -152,6 +152,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [213. House Robber II](https://leetcode.com/problems/house-robber-ii)  | [Python](leetcode/DP/213.HouseRobber/213HouserRoober.py)  |  Medium  |
 |  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
+|  [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  | [Python](leetcode/array/219.ContainsDuplicate/219ContainsDuplicate.py)  |  Easy  |
+|  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate.py)  |  Medium  |
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
 |  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
@@ -221,6 +223,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
+|  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  | [Python](leetcode/Tree/652.FindDuplicateSubtrees/652python3.py)  |  Medium  |
 |  [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)  | [Python](leetcode/Tree/654.MaximumBinaryTree/654python3.py)  |  Medium  |
 |  [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)  | [Python](leetcode/Tree/655.PrintBinaryTree/655PrintBinaryTree.py)  |  Medium  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
