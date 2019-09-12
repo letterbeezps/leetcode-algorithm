@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **233**
+- Python: **235**
 - JavaScript: **9**
 - Java: **3**
 - C(++): **3**
 
-**Total completed: 234**
+**Total completed: 236**
 
 
 ## Solutions
@@ -31,6 +31,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [15. 3Sum](https://leetcode.com/problems/3sum)  | [Python](leetcode/array/15.threeSum/15threeSum.py)  |  Medium  |
 |  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)  | [Python](leetcode/array/16.ThreeSumClosest/16ThreeSumClosest.py)  |  Medium  |
 |  [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  | [Python](leetcode/STR/17.letterCombinations/17letterCombinations.py)  |  Medium  |
+|  [18. 4Sum](https://leetcode.com/problems/4sum)  | [Python](leetcode/array/18.4Sum/18fourSum.py)  |  Medium  |
 |  [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)  | [Python](leetcode/List/19.RemoveNthFromEnd/19RemoveNthFromEnd.py)  |  Medium  |
 |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | [Python](leetcode/STR/20.ValidParetheses/20ValidParetheses.py), [JavaScript](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |  Easy  |
 |  [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | [Python](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |  Easy  |
@@ -77,6 +78,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [67. Add Binary](https://leetcode.com/problems/add-binary)  | [Python](leetcode/Math/67.AddBinary/67AddBinary.py)  |  Easy  |
 |  [68. Text Justification](https://leetcode.com/problems/text-justification)  | [Python](leetcode/STR/68.TextJustification/68TextJustification.py)  |  Hard  |
 |  [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)  | [Python](leetcode/Math/69.Sqrt(x)/69Sqrt(x).py)  |  Easy  |
+|  [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  | [Python](leetcode/DP/70.ClimbingStairs/70ClimbingStairs.py)  |  Easy  |
 |  [71. Simplify Path](https://leetcode.com/problems/simplify-path)  | [Python](leetcode/STR/71.SimplifyPath/71SimplifyPath.py)  |  Medium  |
 |  [72. Edit Distance](https://leetcode.com/problems/edit-distance)  | [Python](leetcode/STR/72.EditDistance/72EditDistance.py)  |  Hard  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
