@@ -4,11 +4,11 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **203**
-- JavaScript: **12**
+- JavaScript: **13**
 - Java: **2**
 - C(++): **4**
 
-**Total completed: 205**
+**Total completed: 206**
 
 
 ## Solutions
@@ -216,6 +216,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/897python3.py), [JavaScript](leetcode/Tree/897.IncreasingOrderSearchTree/897IncreasingOrderSearchTree.js)  |  Easy  |
 |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
 |  [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
+|  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [JavaScript](leetcode/Tree/987.VerticalOrderTraversalOfBinaryTree/987VerticalOrderTraversalOfBinaryTree.js)  |  Medium  |
 |  [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | [Python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  Easy  |
 |  [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)  | [Python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  Easy  |
 |  [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)  | [Python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  Hard  |
