@@ -64,7 +64,7 @@ class Trie:
             if not child:
                 return False
 
-            if not child._next:
+            if len(child._next) > 1:
                 multiChildNode = child
                 multiChildNodeIndex = i
             
