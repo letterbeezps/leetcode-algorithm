@@ -13,10 +13,10 @@
 def Bubble_Sort(arr: list[int]):
     for i in range(len(arr)):
         isSort = True  # 冒泡排序不关心原数据是否已经有序
-        for j in range(len(arr)-i):
+        for j in range(len(arr)-i-1):
             if arr[j] < arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
-                isSort = fasle
+                isSort = False
         if isSort:  # 原数据已经有序，直接结束
             break
 
@@ -31,7 +31,7 @@ def Bubble_Sort(arr: list[int]):
 >**code**
 
 ```python
-def Select_sort(arr: List[int]):
+def Select_sort(arr: list):
     for i in range(len(arr)):
         min = i  # 最小元素的坐标
         for j in range(i+1, len(arr)):
@@ -49,7 +49,7 @@ def Select_sort(arr: List[int]):
 >**code**
 
 ```python
-def Insert_sort(arr: List[int]):
+def Insert_sort(arr: list):
     n = len(arr)
     for i in range(1, n):
         value = arr[i]
@@ -72,8 +72,8 @@ def Insert_sort(arr: List[int]):
 >**code**
 
 ```python
-def Shell_sort(arr: List[int]):
-    int length = len(arr)
+def Shell_sort(arr: list):
+    length = len(arr)
     gap = 1  # 区间，可以自己决定
     while gap < length:
         gap = gap * 3 + 1
@@ -90,14 +90,14 @@ def Shell_sort(arr: List[int]):
 
 ## 归并排序
 
->核心思想：分治法，将一个数组分成两部分，递归分，知道分成单个元素，然后重新组装和合并
+>核心思想：分治法，将一个数组分成两部分，递归分，知道分成单个元素，然后重新组装和合并。给你两个有序数组，将他们合并成一个新的有序数组，只有一个元素的数组肯定有序。
 
 ---
 
 >**code**
 
 ```python
-def merge_sort(arr: List[int]):
+def merge_sort(arr: list):
 
     def merge(arr, tempArr, start, mid, end):
         tempArr[start:end+1] = arr[start:end+1]
@@ -219,4 +219,47 @@ def quick_sort(array):
                 if j > k:
                     temp.append(j)
                     temo.append(k+1)
+```
+
+## 堆排序
+
+> 把堆看作一颗完全二叉树，首先将待排序数组构造成完全二叉树。
+接着就要将这颗没有规律的完全二叉树变成大根堆、小根堆，堆顶元素就是整棵树的最大值（最小值），对于子树也是如此。每次从堆顶取出元素后，重建整个堆（其实微调就可以了）
+
+---
+
+> **code**
+
+```python
+def Heap_sort(self, arr: list):
+
+    def sink(arr: list, index: int, length: int):
+        # 原始数据的顺序，作为初始化树的层次遍历顺序，然后再把这棵树变成大根堆。
+        leftChild = 2*index + 1
+        rightChild = 2*index + 2
+        present = index
+
+        if leftChild < length and arr[leftChild] > arr[present]:
+            present = leftChild
+
+        if rightChild < length and arr[rightChild] > arr[present]:
+            present = rightChild
+
+        if present != index:  # 下标不等，意味着需要调换元素值
+            arr[index], arr[present] = arr[present], arr[index]
+            sink(arr, present, length)
+
+    def buildHeap(arr: list, length: int):
+        # 此处构建完全二叉树，下标是以0 开始的
+        for i in range(length//2-1, -1, -1):  # 从最后一个叶子结点的父节点开始调整整棵树
+            sink(arr, i, length)
+
+    length = len(arr)
+    buildHeap(arr, length)
+    print('init_heap', arr)
+    for i in range(length-1, 0, -1):
+        arr[0],arr[i] = arr[i], arr[0]
+        length -= 1
+        sink(arr, 0, length)
+
 ```
