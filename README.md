@@ -3,21 +3,21 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **235**
+- Python: **236**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **4**
+- C(++): **6**
 
-**Total completed: 238**
+**Total completed: 239**
 
 
 ## Solutions
 |  Title  |  Solutions  |  Difficulty  |
 |  -----  |  ---------  |  ----------  |
-|  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [Python](leetcode/array/1.twoSum/1twoSum.py), [JavaScript](leetcode/array/1.twoSum/1twoSum.js)  |  Easy  |
+|  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [Python](leetcode/array/1.twoSum/1twoSum.py), [JavaScript](leetcode/array/1.twoSum/1twoSum.js), [C(++)](leetcode/array/1.twoSum/1twoSum.cpp)  |  Easy  |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [JavaScript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  Medium  |
 |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [Python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [JavaScript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  Medium  |
-|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js), [C(++)](leetcode/array/4.medianOfTwoSortedArrays/4CPP.cpp)  |  Hard  |
+|  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js), [C(++)](leetcode/array/4.medianOfTwoSortedArrays/4CPP.CPP)  |  Hard  |
 |  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [Python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [JavaScript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js)  |  Medium  |
 |  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [Python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  Medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [Python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  Easy  |
@@ -139,6 +139,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)  | [Python](leetcode/array/162.FindPeakElement/162FindPeakElement.py)  |  Medium  |
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
+|  [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)  | [Python](leetcode/Hash/187.RepeatedDNASequences/187RepeatedDNASequence.py)  |  Medium  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
 |  [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)  | [C(++)](leetcode/BitOperation/190.ReverseBits/190ReverseBits.cpp)  |  Easy  |
 |  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)  | [Python](leetcode/BitOperation/191.NumberOf1Bits/191python.py)  |  Easy  |
@@ -200,7 +201,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  | [Python](leetcode/array/442.FindAllDuplicatesInAnArray/442python3.py)  |  Medium  |
 |  [443. String Compression](https://leetcode.com/problems/string-compression)  | [Python](leetcode/STR/443.StringCompression/443StringCompression.py)  |  Easy  |
 |  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [Python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |  Medium  |
-|  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py)  |  Medium  |
+|  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py), [C(++)](leetcode/Hash/454.fourSumCount/454fourSum.cpp)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
 |  [464. Can I Win](https://leetcode.com/problems/can-i-win)  | [Python](leetcode/DP/464.CanIWin/464CanIWin.py)  |  Medium  |
 |  [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing)  | [Python](leetcode/Stack/456.132Pattern/465Pattern132.py)  |  Hard  |
