@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **238**
+- Python: **240**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **6**
+- C(++): **7**
 
-**Total completed: 241**
+**Total completed: 243**
 
 
 ## Solutions
@@ -171,6 +171,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
+|  [290. Word Pattern](https://leetcode.com/problems/word-pattern)  | [Python](leetcode/Hash/290.WordPattern/290WordPattern.py)  |  Easy  |
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
@@ -220,6 +221,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)  | [Python](leetcode/BackTrack/526.BeautofulArrangment/526python3.py)  |  Medium  |
 |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [Python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  Medium  |
 |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [Python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [C(++)](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  Medium  |
+|  [554. Brick Wall](https://leetcode.com/problems/brick-wall)  | [Python](leetcode/Hash/554.BrickWall/554BrickWall.py)  |  Medium  |
 |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [Python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  Easy  |
 |  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [Python](leetcode/Hash/560.subarraySum/560subarraySum.py)  |  Medium  |
 |  [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)  | [Python](leetcode/DP/576.OutOfBoundaryPaths/576python3.py)  |  Medium  |
@@ -227,7 +229,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
-|  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  | [Python](leetcode/Tree/652.FindDuplicateSubtrees/652python3.py)  |  Medium  |
+|  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  | [Python](leetcode/Tree/652.FindDuplicateSubtrees/652python3.py), [C(++)](leetcode/Tree/652.FindDuplicateSubtrees/652FindDuplicateSubtree.cpp)  |  Medium  |
 |  [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)  | [Python](leetcode/Tree/654.MaximumBinaryTree/654python3.py)  |  Medium  |
 |  [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)  | [Python](leetcode/Tree/655.PrintBinaryTree/655PrintBinaryTree.py)  |  Medium  |
 |  [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)  | [JavaScript](leetcode/array/665.Non-descreasing%20Array/665Non-descreasing%20Array.js)  |  Easy  |
