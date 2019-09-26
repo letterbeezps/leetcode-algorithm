@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **240**
+- Python: **242**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **7**
+- C(++): **8**
 
-**Total completed: 243**
+**Total completed: 246**
 
 
 ## Solutions
@@ -133,6 +133,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [148. Sort List](https://leetcode.com/problems/sort-list)  | [Python](leetcode/List/148.SortList/148SortList.py)  |  Medium  |
 |  [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)  | [Python](leetcode/Hash/149.MaxPointsOnALine/149python3.py)  |  Hard  |
 |  [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)  | [Python](leetcode/Stack/150.EvaluateRPN/150EvaluateRPN.py)  |  Medium  |
+|  [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)  | [C(++)](leetcode/STR/151.ReverseWords/151ReverseWords.cpp)  |  Medium  |
 |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)  | [Python](leetcode/BinarySearch/153.FindMinimumInRotatedSortedArray/153FindMinimunInRotatedSortedArray.py)  |  Medium  |
 |  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  Hard  |
 |  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [Python](leetcode/Stack/155.MinStack/155MinStack.py)  |  Easy  |
@@ -169,6 +170,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii)  | [Python](leetcode/Math/264.UglyNumber/264UglyNumber.py)  |  Medium  |
 |  [268. Missing Number](https://leetcode.com/problems/missing-number)  | [Python](leetcode/array/268.MissingNumber/268MissingNumber.py)  |  Easy  |
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
+|  [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | [Python](leetcode/array/283.MoveZeros/283MovwZeros.py)  |  Easy  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
 |  [290. Word Pattern](https://leetcode.com/problems/word-pattern)  | [Python](leetcode/Hash/290.WordPattern/290WordPattern.py)  |  Easy  |
@@ -185,6 +187,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)  | [Python](leetcode/Hash/349.IntersectionOfTwoArray/349python3.py)  |  Easy  |
 |  [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  | [Python](leetcode/Hash/350.IntersectionOfTwoArray/350python3.py)  |  Easy  |
 |  [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  | [Python](leetcode/DP/354.RussianDollEn/354RussianDollEn.py)  |  Hard  |
+|  [355. Design Twitter](https://leetcode.com/problems/design-twitter)  | [Python](leetcode/Hash/355.DesignTwitter/355DesignTwitter.py)  |  Medium  |
 |  [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)  | [Python](leetcode/BitOperation/371.SumOfTwoIntegers/371SumOfTwoIntegers.py)  |  Easy  |
 |  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)  | [Python](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |  Medium  |
 |  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  | [Python](leetcode/BinarySearch/378.KthSmallestElementInASortedMatrix/378python3.py)  |  Medium  |
