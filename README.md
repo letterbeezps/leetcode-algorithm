@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **242**
+- Python: **244**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **8**
+- C(++): **9**
 
-**Total completed: 246**
+**Total completed: 248**
 
 
 ## Solutions
@@ -18,7 +18,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [JavaScript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  Medium  |
 |  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [Python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [JavaScript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  Medium  |
 |  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js), [C(++)](leetcode/array/4.medianOfTwoSortedArrays/4CPP.CPP)  |  Hard  |
-|  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [Python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [JavaScript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js)  |  Medium  |
+|  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [Python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [JavaScript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js), [C(++)](leetcode/DP/5.longestPalindrome/5LPalindrome.cpp)  |  Medium  |
 |  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [Python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  Medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [Python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  Easy  |
 |  [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)  | [Python](leetcode/List/8.myAtoi/8myAtoi.py)  |  Medium  |
@@ -138,6 +138,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/154.FIndMInimumInRoatedSortedArrayII/154python3.py)  |  Hard  |
 |  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [Python](leetcode/Stack/155.MinStack/155MinStack.py)  |  Easy  |
 |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)  | [Python](leetcode/array/162.FindPeakElement/162FindPeakElement.py)  |  Medium  |
+|  [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)  | [Python](leetcode/STR/165.CompareVersionNumber/165CompareVersionNumber.py)  |  Medium  |
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
 |  [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)  | [Python](leetcode/Hash/187.RepeatedDNASequences/187RepeatedDNASequence.py)  |  Medium  |
@@ -169,6 +170,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [263. Ugly Number](https://leetcode.com/problems/ugly-number)  | [Python](leetcode/Math/263.UglyNumber/263UglyNumber.py)  |  Easy  |
 |  [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii)  | [Python](leetcode/Math/264.UglyNumber/264UglyNumber.py)  |  Medium  |
 |  [268. Missing Number](https://leetcode.com/problems/missing-number)  | [Python](leetcode/array/268.MissingNumber/268MissingNumber.py)  |  Easy  |
+|  [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words)  | [Python](leetcode/Math/273.IntegerToEnglishWords/273python3.py)  |  Hard  |
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
 |  [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | [Python](leetcode/array/283.MoveZeros/283MovwZeros.py)  |  Easy  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
