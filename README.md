@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **244**
+- Python: **247**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **9**
+- C(++): **11**
 
-**Total completed: 248**
+**Total completed: 251**
 
 
 ## Solutions
@@ -16,10 +16,10 @@ This repo is build to collect leetcode algorithms we write.
 |  -----  |  ---------  |  ----------  |
 |  [1. Two Sum](https://leetcode.com/problems/two-sum)  | [Python](leetcode/array/1.twoSum/1twoSum.py), [JavaScript](leetcode/array/1.twoSum/1twoSum.js), [C(++)](leetcode/array/1.twoSum/1twoSum.cpp)  |  Easy  |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  | [Python](leetcode/array/2.addTwoNumbers/2addTwoNumbers.py), [JavaScript](leetcode/array/2.addTwoNumbers/2addTwoNumbers.js)  |  Medium  |
-|  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [Python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [JavaScript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js)  |  Medium  |
+|  [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | [Python](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.py), [JavaScript](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubstringWithoutRepeat.js), [C(++)](leetcode/Hash/3.LongestSubstringWithoutRepeat/3LongestSubSTR.cpp)  |  Medium  |
 |  [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  | [JavaScript](leetcode/array/4.medianOfTwoSortedArrays/4medianOfTwoSortedArrays.js), [C(++)](leetcode/array/4.medianOfTwoSortedArrays/4CPP.CPP)  |  Hard  |
 |  [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)  | [Python](leetcode/DP/5.longestPalindrome/5longestPalindrome.py), [JavaScript](leetcode/DP/5.longestPalindrome/5longestPalindromicSubstring.js), [C(++)](leetcode/DP/5.longestPalindrome/5LPalindrome.cpp)  |  Medium  |
-|  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [Python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py)  |  Medium  |
+|  [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)  | [Python](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.py), [C(++)](leetcode/STR/6.ZigZagConversion/6ZigZagConversion.cpp)  |  Medium  |
 |  [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)  | [Python](leetcode/Math/7.ReverseInteger/7ReverseInteger.py)  |  Easy  |
 |  [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)  | [Python](leetcode/List/8.myAtoi/8myAtoi.py)  |  Medium  |
 |  [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)  | [Python](leetcode/Math/9.PalindromeNumber/9PalindromeNumber.py)  |  Easy  |
@@ -122,6 +122,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | [Python](leetcode/List/125.isPalindrome/125isPalindrome.py)  |  Easy  |
 |  [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)  | [Python](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |  Hard  |
 |  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | [Python](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |  Medium  |
+|  [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)  | [Python](leetcode/BackTrack/131.Palindrome%20Partitioning/131Palindrome%20Partitioning.py)  |  Medium  |
 |  [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  | [Python](leetcode/DP/132.PalindromePartitioning/132python3.py)  |  Hard  |
 |  [134. Gas Station](https://leetcode.com/problems/gas-station)  | [Python](leetcode/Greedy/134.GasStation/134GasStation.py)  |  Medium  |
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
@@ -139,6 +140,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [155. Min Stack](https://leetcode.com/problems/min-stack)  | [Python](leetcode/Stack/155.MinStack/155MinStack.py)  |  Easy  |
 |  [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)  | [Python](leetcode/array/162.FindPeakElement/162FindPeakElement.py)  |  Medium  |
 |  [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)  | [Python](leetcode/STR/165.CompareVersionNumber/165CompareVersionNumber.py)  |  Medium  |
+|  [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)  | [Python](leetcode/Hash/166.Fraction%20to%20Recurring%20Decimal/166Fraction%20to%20Recurring%20Decimal.py)  |  Medium  |
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
 |  [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)  | [Python](leetcode/Hash/187.RepeatedDNASequences/187RepeatedDNASequence.py)  |  Medium  |
@@ -161,6 +163,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate.py)  |  Medium  |
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
 |  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
+|  [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  | [Python](leetcode/STR/227.Basic%20Calculator/227Basic%20Calculator.py)  |  Medium  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
 |  [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)  | [Python](leetcode/Stack/232.ImplementQueueUsingStacks/232python3.py), [Java](leetcode/Stack/232.ImplementQueueUsingStacks/232Java.java)  |  Easy  |
 |  [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)  | [Python](leetcode/Heap/239.SlidingWindowMaximum/239python3.py)  |  Hard  |
