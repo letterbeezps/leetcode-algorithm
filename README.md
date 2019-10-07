@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **247**
+- Python: **249**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **11**
 
-**Total completed: 251**
+**Total completed: 253**
 
 
 ## Solutions
@@ -43,6 +43,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [27. Remove Element](https://leetcode.com/problems/remove-element)  | [Python](leetcode/array/27.RemoveElement/27RemoveElement.py)  |  Easy  |
 |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [Python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  Easy  |
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |
+|  [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)  | [Python](leetcode/Hash/30.Substring%20with%20Concatenation%20of%20All%20Words/30Substring%20with%20Concatenation%20of%20All%20Words.py)  |  Hard  |
 |  [31. Next Permutation](https://leetcode.com/problems/next-permutation)  | [Python](leetcode/array/31.NextPermutation/31NextPermutation.py)  |  Medium  |
 |  [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  | [Python](leetcode/STR/32.LongestValidParenthese/32LongestValidParentheses.py)  |  Hard  |
 |  [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)  | [Python](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.py), [JavaScript](leetcode/array/33.SearchInRotatedSortedArray/33SearchInRotatedSortedArray.js)  |  Medium  |
@@ -157,6 +158,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design)  | [Python](leetcode/BackTrack/211.AddAndSearch/211.python3.py)  |  Medium  |
 |  [212. Word Search II](https://leetcode.com/problems/word-search-ii)  | [Python](leetcode/BackTrack/212.WordSearch/212WordSearch.py)  |  Hard  |
 |  [213. House Robber II](https://leetcode.com/problems/house-robber-ii)  | [Python](leetcode/DP/213.HouseRobber/213HouserRoober.py)  |  Medium  |
+|  [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)  | [Python](leetcode/STR/214.Shortest%20Palindrome/214Shortest%20Palindrome.py)  |  Hard  |
 |  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
 |  [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  | [Python](leetcode/array/219.ContainsDuplicate/219ContainsDuplicate.py)  |  Easy  |
