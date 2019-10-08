@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **249**
+- Python: **252**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **11**
 
-**Total completed: 253**
+**Total completed: 256**
 
 
 ## Solutions
@@ -215,6 +215,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [Python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |  Medium  |
 |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py), [C(++)](leetcode/Hash/454.fourSumCount/454fourSum.cpp)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
+|  [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)  | [Python](leetcode/Math/458.Poor%20Pigs/458Poor%20Pigs.py)  |  Hard  |
+|  [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  | [Python](leetcode/Math/462.Minimum%20Moves%20to%20Equal%20Array%20Elements/462Minimum%20Moves%20to%20Equal%20Array%20Elements.py)  |  Medium  |
 |  [464. Can I Win](https://leetcode.com/problems/can-i-win)  | [Python](leetcode/DP/464.CanIWin/464CanIWin.py)  |  Medium  |
 |  [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing)  | [Python](leetcode/Stack/456.132Pattern/465Pattern132.py)  |  Hard  |
 |  [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)  | [Python](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)  |  Medium  |
@@ -226,6 +228,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)  | [Python](leetcode/Stack/496.NextGreaterElement/496python3.py)  |  Easy  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [Python](leetcode/Other/504.Base7/504Base7.py)  |  Easy  |
 |  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [Python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  Easy  |
+|  [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)  | [Python](leetcode/Tree/513.Find%20Bottom%20Left%20Tree%20Value/513Find%20Bottom%20Left%20Tree%20Value.py)  |  Medium  |
 |  [518. Coin Change 2](https://leetcode.com/problems/coin-change-2)  | [Python](leetcode/DP/518.CoinChange2/518CoinChange2.py)  |  Medium  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [Python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  Medium  |
 |  [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)  | [Python](leetcode/BackTrack/526.BeautofulArrangment/526python3.py)  |  Medium  |
