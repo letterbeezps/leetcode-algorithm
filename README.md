@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **252**
+- Python: **255**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **11**
 
-**Total completed: 256**
+**Total completed: 259**
 
 
 ## Solutions
@@ -184,12 +184,14 @@ This repo is build to collect leetcode algorithms we write.
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
+|  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher)  | [Python](leetcode/Math/319.Bulb%20Switcher/319Bulb%20Switcher.py)  |  Medium  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
 |  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  | [Python](leetcode/BackTrack/329.LongestIncreasingPathInAMatrix/329python3.py)  |  Hard  |
 |  [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)  | [Python](leetcode/Stack/331.VerifyPerOrder/331VerifyPerOrderSerialization.py)  |  Medium  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337HouseRobberIII/337python3.py)  |  Medium  |
 |  [338. Counting Bits](https://leetcode.com/problems/counting-bits)  | [Python](leetcode/DP/338.CountingBits/338CountingBits.py)  |  Medium  |
 |  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [Python](leetcode/array/341.NestedList/341NestedList.py)  |  Medium  |
+|  [343. Integer Break](https://leetcode.com/problems/integer-break)  | [Python](leetcode/Math/343.Integer%20Break/343Integer%20Break.py)  |  Medium  |
 |  [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  | [Python](leetcode/Hash/347.TopKFrequentElements/347python3.py)  |  Medium  |
 |  [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)  | [Python](leetcode/Hash/349.IntersectionOfTwoArray/349python3.py)  |  Easy  |
 |  [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)  | [Python](leetcode/Hash/350.IntersectionOfTwoArray/350python3.py)  |  Easy  |
@@ -212,6 +214,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [441. Arranging Coins](https://leetcode.com/problems/arranging-coins)  | [Python](leetcode/Math/441.ArraningCoins/441ArraningCoins.py)  |  Easy  |
 |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  | [Python](leetcode/array/442.FindAllDuplicatesInAnArray/442python3.py)  |  Medium  |
 |  [443. String Compression](https://leetcode.com/problems/string-compression)  | [Python](leetcode/STR/443.StringCompression/443StringCompression.py)  |  Easy  |
+|  [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)  | [Python](leetcode/List/445.Add%20Two%20Numbers/445Add%20Two%20Number.py)  |  Medium  |
 |  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)  | [Python](leetcode/Greedy/452.findMinArrowShots/452findMinArrowShots.py)  |  Medium  |
 |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py), [C(++)](leetcode/Hash/454.fourSumCount/454fourSum.cpp)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
