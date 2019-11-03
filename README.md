@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **255**
+- Python: **259**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **11**
 
-**Total completed: 259**
+**Total completed: 263**
 
 
 ## Solutions
@@ -164,6 +164,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  | [Python](leetcode/array/219.ContainsDuplicate/219ContainsDuplicate.py)  |  Easy  |
 |  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate.py)  |  Medium  |
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
+|  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area)  | [Python](leetcode/Math/223.Rectangle%20Area/223Rectangle%20Area.py)  |  Medium  |
 |  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
 |  [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  | [Python](leetcode/STR/227.Basic%20Calculator/227Basic%20Calculator.py)  |  Medium  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
@@ -245,6 +246,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
+|  [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)  | [Python](leetcode/DP/650.2%20Keys%20Keyboard/650Two%20Keys%20Keyboard.py)  |  Medium  |
 |  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  | [Python](leetcode/Tree/652.FindDuplicateSubtrees/652python3.py), [C(++)](leetcode/Tree/652.FindDuplicateSubtrees/652FindDuplicateSubtree.cpp)  |  Medium  |
 |  [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)  | [Python](leetcode/Tree/654.MaximumBinaryTree/654python3.py)  |  Medium  |
 |  [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)  | [Python](leetcode/Tree/655.PrintBinaryTree/655PrintBinaryTree.py)  |  Medium  |
@@ -263,8 +265,10 @@ This repo is build to collect leetcode algorithms we write.
 |  [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Easy  |
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
+|  [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)  | [Python](leetcode/Math/829.Consecutive%20Numbers%20Sum/829Consecutive%20Numbers%20Sum.py)  |  Hard  |
 |  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
+|  [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)  | [Python](leetcode/array/891.Sum%20of%20Subsequence%20Widths/891.Sum%20of%20Subsequence%20Widths.py)  |  Hard  |
 |  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/897python3.py), [JavaScript](leetcode/Tree/897.IncreasingOrderSearchTree/897IncreasingOrderSearchTree.js)  |  Easy  |
 |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
 |  [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)  | [Python](leetcode/Tree/958.CheckCompletenessBinaryTree/958python3.py)  |  Medium  |
