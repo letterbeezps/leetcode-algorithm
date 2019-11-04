@@ -6,7 +6,7 @@ This repo is build to collect leetcode algorithms we write.
 - Python: **259**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **11**
+- C(++): **13**
 
 **Total completed: 263**
 
@@ -27,7 +27,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)  | [Python](leetcode/array/11.ContainerWithMostWater/11ContainerWithMostWater.py)  |  Medium  |
 |  [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)  | [Python](leetcode/Math/12.IntegerToRoman/12IntegertoRoman.py)  |  Medium  |
 |  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)  | [Python](leetcode/STR/13.RomanToInteger/13RomanToInteger.py), [JavaScript](leetcode/STR/13.RomanToInteger/13RomanToInteger.js)  |  Easy  |
-|  [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)  | [Python](leetcode/STR/14.LongestCommonPrefix/14python3.py)  |  Easy  |
+|  [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)  | [Python](leetcode/STR/14.LongestCommonPrefix/14python3.py), [C(++)](leetcode/STR/14.LongestCommonPrefix/14CPP.cpp)  |  Easy  |
 |  [15. 3Sum](https://leetcode.com/problems/3sum)  | [Python](leetcode/array/15.threeSum/15threeSum.py)  |  Medium  |
 |  [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)  | [Python](leetcode/array/16.ThreeSumClosest/16ThreeSumClosest.py)  |  Medium  |
 |  [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)  | [Python](leetcode/STR/17.letterCombinations/17letterCombinations.py)  |  Medium  |
@@ -56,7 +56,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)  | [Python](leetcode/BackTrack/40.CombinationSumII/40CombinationSum.py)  |  Medium  |
 |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)  | [Python](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |  Hard  |
 |  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [Python](leetcode/array/42.Trapping/42Trapping.py)  |  Hard  |
-|  [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)  | [Python](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.py)  |  Medium  |
+|  [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)  | [Python](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.py), [C(++)](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.cpp)  |  Medium  |
 |  [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching)  | [Python](leetcode/DP/44.WildcardMatching/44WildcardMatching.py)  |  Hard  |
 |  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [Python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  Hard  |
 |  [46. Permutations](https://leetcode.com/problems/permutations)  | [Python](leetcode/BackTrack/46.Permutaion/46Permutaion.py)  |  Medium  |
