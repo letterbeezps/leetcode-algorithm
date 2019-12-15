@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **259**
+- Python: **261**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **15**
+- C(++): **17**
 
-**Total completed: 263**
+**Total completed: 265**
 
 
 ## Solutions
@@ -144,6 +144,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)  | [Python](leetcode/Hash/166.Fraction%20to%20Recurring%20Decimal/166Fraction%20to%20Recurring%20Decimal.py)  |  Medium  |
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
+|  [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)  | [Python](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.py), [C(++)](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.cpp)  |  Medium  |
 |  [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)  | [Python](leetcode/Hash/187.RepeatedDNASequences/187RepeatedDNASequence.py)  |  Medium  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
 |  [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)  | [C(++)](leetcode/BitOperation/190.ReverseBits/190ReverseBits.cpp)  |  Easy  |
@@ -177,6 +178,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii)  | [Python](leetcode/Math/264.UglyNumber/264UglyNumber.py)  |  Medium  |
 |  [268. Missing Number](https://leetcode.com/problems/missing-number)  | [Python](leetcode/array/268.MissingNumber/268MissingNumber.py)  |  Easy  |
 |  [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words)  | [Python](leetcode/Math/273.IntegerToEnglishWords/273python3.py)  |  Hard  |
+|  [278. First Bad Version](https://leetcode.com/problems/first-bad-version)  | [Python](leetcode/BinarySearch/278.First%20Bad%20Version/278First%20Bad%20Version.py), [C(++)](leetcode/BinarySearch/278.First%20Bad%20Version/278First%20Bad%20Version.cpp)  |  Easy  |
 |  [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)  | [Python](leetcode/Graph/279.numSquares/279numSquares.py)  |  Medium  |
 |  [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)  | [Python](leetcode/array/283.MoveZeros/283MovwZeros.py)  |  Easy  |
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
