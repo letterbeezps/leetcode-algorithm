@@ -193,15 +193,15 @@ def quick_sort(array):
         while i < j:
             while i < j and array[j] >= pivot:
                 j -= 1
-            a[i] = a[j]
+            array[i] = array[j]
 
-            while i < j and a[i] <= pivot:
+            while i < j and array[i] <= pivot:
                 i += 1
             a[j] = a[i]
-        a[i] = pivot
+        array[i] = pivot
         return i
 
-    def sort(array, left, right):
+    def Q_sort(array, left, right):
         if not array or right <= 0 or left >= right:
             return
         temp = []  # stack
@@ -218,7 +218,9 @@ def quick_sort(array):
                     temp.append(i)
                 if j > k:
                     temp.append(j)
-                    temo.append(k+1)
+                    temp.append(k+1)
+
+    Q_sort(array, 0, len(array)-1)
 ```
 
 ## 堆排序
@@ -262,4 +264,23 @@ def Heap_sort(self, arr: list):
         length -= 1
         sink(arr, 0, length)
 
+```
+
+## 计数排序
+
+```python
+def Count_sort(self, arr: list):
+        maxn = max(arr)
+
+        countArr = [0] * (maxn+1)
+
+        for index, num in enumerate(arr):
+            countArr[num] += 1
+            arr[index] = 0
+
+        index = 0
+        for i in range(len(countArr)):
+            for _ in range(countArr[i]):
+                arr[index] = i
+                index += 1
 ```
