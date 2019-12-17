@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **263**
+- Python: **269**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **18**
+- C(++): **20**
 
-**Total completed: 267**
+**Total completed: 274**
 
 
 ## Solutions
@@ -85,6 +85,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
 |  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
 |  [75. Sort Colors](https://leetcode.com/problems/sort-colors)  | [Python](leetcode/array/75.SortColors/75SortColors.py)  |  Medium  |
+|  [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)  | [Python](leetcode/Hash/76.Minimum%20Window%20Substring/76Minimum%20Window%20Substring.py), [C(++)](leetcode/Hash/76.Minimum%20Window%20Substring/76CPP.cpp)  |  Hard  |
 |  [77. Combinations](https://leetcode.com/problems/combinations)  | [Python](leetcode/STR/77.Combination/77Combination.py)  |  Medium  |
 |  [78. Subsets](https://leetcode.com/problems/subsets)  | [Python](leetcode/array/78.SubSets/78Subset.py)  |  Medium  |
 |  [79. Word Search](https://leetcode.com/problems/word-search)  | [Python](leetcode/array/79.WordSearch/79WordSearch.py)  |  Medium  |
@@ -129,6 +130,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [134. Gas Station](https://leetcode.com/problems/gas-station)  | [Python](leetcode/Greedy/134.GasStation/134GasStation.py)  |  Medium  |
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
+|  [139. Word Break](https://leetcode.com/problems/word-break)  | [Python](leetcode/DP/139.Word%20Break/139Word%20Break.py)  |  Medium  |
 |  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [Python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  Medium  |
 |  [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)  | [Python](leetcode/Stack/145.BinaryTreePostorderTraversal/145python3.py)  |  Hard  |
 |  [146. LRU Cache](https://leetcode.com/problems/lru-cache)  | [Python](leetcode/Design/146.LRUCache/146LRUCache.py)  |  Medium  |
@@ -169,6 +171,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area)  | [Python](leetcode/Math/223.Rectangle%20Area/223Rectangle%20Area.py)  |  Medium  |
 |  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
 |  [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  | [Python](leetcode/STR/227.Basic%20Calculator/227Basic%20Calculator.py)  |  Medium  |
+|  [228. Summary Ranges](https://leetcode.com/problems/summary-ranges)  | [Python](leetcode/array/228.Summary%20Ranges/228Summary%20Ranges.py)  |  Medium  |
+|  [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)  | [Python](leetcode/BinarySearch/230.Kth%20Smallest%20Element%20in%20a%20BST/230Kth%20Smallest%20Element%20in%20a%20BST.py)  |  Medium  |
 |  [231. Power of Two](https://leetcode.com/problems/power-of-two)  | [Python](leetcode/BitOperation/231.PowerOf2/231PowerOf2.py)  |  Easy  |
 |  [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)  | [Python](leetcode/Stack/232.ImplementQueueUsingStacks/232python3.py), [Java](leetcode/Stack/232.ImplementQueueUsingStacks/232Java.java)  |  Easy  |
 |  [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)  | [Python](leetcode/array/238.Product%20of%20Array%20Except%20Self/238Product%20of%20Array%20Except%20Self.py)  |  Medium  |
@@ -191,6 +195,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher)  | [Python](leetcode/Math/319.Bulb%20Switcher/319Bulb%20Switcher.py)  |  Medium  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
+|  [326. Power of Three](https://leetcode.com/problems/power-of-three)  | [C(++)](leetcode/Math/326.Power%20of%20Three/326Power%20of%20Three.cpp)  |  Easy  |
 |  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  | [Python](leetcode/BackTrack/329.LongestIncreasingPathInAMatrix/329python3.py)  |  Hard  |
 |  [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)  | [Python](leetcode/Stack/331.VerifyPerOrder/331VerifyPerOrderSerialization.py)  |  Medium  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337.HouseRobberIII/337python3.py)  |  Medium  |
@@ -272,9 +277,11 @@ This repo is build to collect leetcode algorithms we write.
 |  [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)  | [Python](leetcode/Math/829.Consecutive%20Numbers%20Sum/829Consecutive%20Numbers%20Sum.py)  |  Hard  |
 |  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
+|  [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)  | [Python](leetcode/Math/883.Projection%20Area%20of%203D%20Shapes/883Projection%20Area%20of%203D%20Shapes.py)  |  Easy  |
 |  [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)  | [Python](leetcode/array/891.Sum%20of%20Subsequence%20Widths/891.Sum%20of%20Subsequence%20Widths.py)  |  Hard  |
 |  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/897python3.py), [JavaScript](leetcode/Tree/897.IncreasingOrderSearchTree/897IncreasingOrderSearchTree.js)  |  Easy  |
 |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
+|  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)  | [Python](leetcode/Hash/930.Binary%20Subarrays%20With%20Sum/930Binary%20Subarrays%20With%20Sum.py)  |  Medium  |
 |  [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)  | [Python](leetcode/Tree/958.CheckCompletenessBinaryTree/958python3.py)  |  Medium  |
 |  [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
 |  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [JavaScript](leetcode/Tree/987.VerticalOrderTraversalOfBinaryTree/987VerticalOrderTraversalOfBinaryTree.js)  |  Medium  |
