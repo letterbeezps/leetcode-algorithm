@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **269**
+- Python: **270**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **20**
+- C(++): **23**
 
-**Total completed: 274**
+**Total completed: 276**
 
 
 ## Solutions
@@ -70,6 +70,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)  | [Python](leetcode/array/54.SpiralMatrix/54SpiralMatrix.py)  |  Medium  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [Python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  Medium  |
 |  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)  | [Python](leetcode/array/56.MergeIntervals/56MergeIntervals.py), [C(++)](leetcode/array/56.MergeIntervals/56CPP.cpp)  |  Medium  |
+|  [57. Insert Interval](https://leetcode.com/problems/insert-interval)  | [Python](leetcode/array/57.Insert%20Interval/57Insert%20Interval.py), [C(++)](leetcode/array/57.Insert%20Interval/57CPP.cpp)  |  Hard  |
 |  [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)  | [Python](leetcode/Math/60.PermutationSequence/60PermutationSequence.py)  |  Medium  |
 |  [61. Rotate List](https://leetcode.com/problems/rotate-list)  | [Python](leetcode/List/61.RotateList/61RotateList.py)  |  Medium  |
 |  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [Python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  Medium  |
@@ -169,6 +170,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate.py)  |  Medium  |
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
 |  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area)  | [Python](leetcode/Math/223.Rectangle%20Area/223Rectangle%20Area.py)  |  Medium  |
+|  [224. Basic Calculator](https://leetcode.com/problems/basic-calculator)  | [C(++)](leetcode/Math/224.Basic%20Calculator/224Basic%20Calculator.cpp)  |  Hard  |
 |  [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | [Python](leetcode/Tree/226.InvertBinaryTree/226python3.py)  |  Easy  |
 |  [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  | [Python](leetcode/STR/227.Basic%20Calculator/227Basic%20Calculator.py)  |  Medium  |
 |  [228. Summary Ranges](https://leetcode.com/problems/summary-ranges)  | [Python](leetcode/array/228.Summary%20Ranges/228Summary%20Ranges.py)  |  Medium  |
