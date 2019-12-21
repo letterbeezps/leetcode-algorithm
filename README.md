@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **270**
+- Python: **272**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **23**
+- C(++): **25**
 
-**Total completed: 276**
+**Total completed: 278**
 
 
 ## Solutions
@@ -216,7 +216,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)  | [Python](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |  Medium  |
 |  [394. Decode String](https://leetcode.com/problems/decode-string)  | [Python](leetcode/STR/394.DecodeString/394DecodeString.py)  |  Medium  |
 |  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits)  | [Python](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |  Medium  |
-|  [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)  | [Python](leetcode/Tree/404.SumofLeftLeaves/404SumOfLeftLeaves.py)  |  Easy  |
+|  [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)  | [Python](leetcode/Tree/404.SumofLeftLeaves/404SumOfLeftLeaves.py), [C(++)](leetcode/Tree/404.SumofLeftLeaves/404CPP.cpp)  |  Easy  |
 |  [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)  | [Python](leetcode/BitOperation/405.ConvertNumberToHexadecimal/405ConvertNumberTpHexadecimal.py)  |  Easy  |
 |  [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)  | [Python](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |  Medium  |
 |  [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)  | [Python](leetcode/Hash/409.LongestPalindrome/409LongestPalidrome.py)  |  Easy  |
@@ -231,6 +231,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py), [C(++)](leetcode/Hash/454.fourSumCount/454fourSum.cpp)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
 |  [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)  | [Python](leetcode/Math/458.Poor%20Pigs/458Poor%20Pigs.py)  |  Hard  |
+|  [461. Hamming Distance](https://leetcode.com/problems/hamming-distance)  | [Python](leetcode/BitOperation/461.Hamming%20Distance/461Hamming%20Distance.py)  |  Easy  |
 |  [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  | [Python](leetcode/Math/462.Minimum%20Moves%20to%20Equal%20Array%20Elements/462Minimum%20Moves%20to%20Equal%20Array%20Elements.py)  |  Medium  |
 |  [464. Can I Win](https://leetcode.com/problems/can-i-win)  | [Python](leetcode/DP/464.CanIWin/464CanIWin.py)  |  Medium  |
 |  [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing)  | [Python](leetcode/Stack/456.132Pattern/465Pattern132.py)  |  Hard  |
@@ -261,6 +262,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  | [Python](leetcode/Tree/652.FindDuplicateSubtrees/652python3.py), [C(++)](leetcode/Tree/652.FindDuplicateSubtrees/652FindDuplicateSubtree.cpp)  |  Medium  |
 |  [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)  | [Python](leetcode/Tree/654.MaximumBinaryTree/654python3.py)  |  Medium  |
 |  [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)  | [Python](leetcode/Tree/655.PrintBinaryTree/655PrintBinaryTree.py)  |  Medium  |
+|  [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)  | [Python](leetcode/STR/657.Robot%20Return%20to%20Origin/657Robot%20Return%20to%20Origin.py)  |  Easy  |
 |  [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)  | [JavaScript](leetcode/array/665.Non-descreasing%20Array/665Non-descreasing%20Array.js)  |  Easy  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)  | [Python](leetcode/Tree/687.LongestUniquePath/687LongestUniquePath.py)  |  Easy  |
