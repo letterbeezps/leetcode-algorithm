@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **272**
+- Python: **279**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **25**
+- C(++): **26**
 
-**Total completed: 278**
+**Total completed: 286**
 
 
 ## Solutions
@@ -194,6 +194,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [290. Word Pattern](https://leetcode.com/problems/word-pattern)  | [Python](leetcode/Hash/290.WordPattern/290WordPattern.py)  |  Easy  |
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
+|  [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  | [Python](leetcode/DP/303.Range%20Sum%20Query%20-%20Immutable/303Range%20Sum%20Query%20-%20Immutable.py)  |  Easy  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher)  | [Python](leetcode/Math/319.Bulb%20Switcher/319Bulb%20Switcher.py)  |  Medium  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
@@ -233,6 +234,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)  | [Python](leetcode/Math/458.Poor%20Pigs/458Poor%20Pigs.py)  |  Hard  |
 |  [461. Hamming Distance](https://leetcode.com/problems/hamming-distance)  | [Python](leetcode/BitOperation/461.Hamming%20Distance/461Hamming%20Distance.py)  |  Easy  |
 |  [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  | [Python](leetcode/Math/462.Minimum%20Moves%20to%20Equal%20Array%20Elements/462Minimum%20Moves%20to%20Equal%20Array%20Elements.py)  |  Medium  |
+|  [463. Island Perimeter](https://leetcode.com/problems/island-perimeter)  | [Python](leetcode/Hash/463.Island%20Perimeter/463Island%20Perimeter.py)  |  Easy  |
 |  [464. Can I Win](https://leetcode.com/problems/can-i-win)  | [Python](leetcode/DP/464.CanIWin/464CanIWin.py)  |  Medium  |
 |  [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing)  | [Python](leetcode/Stack/456.132Pattern/465Pattern132.py)  |  Hard  |
 |  [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)  | [Python](leetcode/BackTrack/473.MatchsticksToSquare/473MatchsticksToSquare.py)  |  Medium  |
@@ -250,13 +252,19 @@ This repo is build to collect leetcode algorithms we write.
 |  [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)  | [Python](leetcode/BackTrack/526.BeautofulArrangment/526python3.py)  |  Medium  |
 |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [Python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  Medium  |
 |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [Python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [C(++)](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  Medium  |
+|  [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)  | [Python](leetcode/STR/551.Student%20Attendance%20Record%20I/551Student%20Attendance%20Record%20I.py)  |  Easy  |
 |  [554. Brick Wall](https://leetcode.com/problems/brick-wall)  | [Python](leetcode/Hash/554.BrickWall/554BrickWall.py)  |  Medium  |
 |  [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)  | [Python](leetcode/Tree/559.maxDepth/559maxDepth.py)  |  Easy  |
 |  [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)  | [Python](leetcode/Hash/560.subarraySum/560subarraySum.py)  |  Medium  |
+|  [561. Array Partition I](https://leetcode.com/problems/array-partition-i)  | [Python](leetcode/array/561.Array%20Partition%20I/561Array%20Partition%20I.py)  |  Easy  |
+|  [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)  | [Python](leetcode/array/566.Reshape%20the%20Matrix/566Reshape%20the%20Matrix.py)  |  Easy  |
 |  [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)  | [Python](leetcode/DP/576.OutOfBoundaryPaths/576python3.py)  |  Medium  |
 |  [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)  | [Python](leetcode/Hash/599.MinimumIndexSumofTwoLists/599python3.py)  |  Easy  |
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
+|  [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)  | [Python](leetcode/array/628.Maximum%20Product%20of%20Three%20Numbers/628Maximum%20Product%20of%20Three%20Numbers.py)  |  Easy  |
+|  [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)  | [Python](leetcode/Math/633.Sum%20of%20Square%20Numbers/633Sum%20of%20Square%20Numbers.py)  |  Easy  |
+|  [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)  | [C(++)](leetcode/Tree/637.Average%20of%20Levels%20in%20Binary%20Tree/637Average%20of%20Levels%20in%20Binary%20Tree.cpp)  |  Easy  |
 |  [648. Replace Words](https://leetcode.com/problems/replace-words)  | [Python](leetcode/UnionFind/684.RedundantConnection/648RedundantConnection.py)  |  Medium  |
 |  [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)  | [Python](leetcode/DP/650.2%20Keys%20Keyboard/650Two%20Keys%20Keyboard.py)  |  Medium  |
 |  [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees)  | [Python](leetcode/Tree/652.FindDuplicateSubtrees/652python3.py), [C(++)](leetcode/Tree/652.FindDuplicateSubtrees/652FindDuplicateSubtree.cpp)  |  Medium  |
