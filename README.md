@@ -8,7 +8,7 @@ This repo is build to collect leetcode algorithms we write.
 - Java: **3**
 - C(++): **26**
 
-**Total completed: 286**
+**Total completed: 289**
 
 
 ## Solutions
@@ -192,7 +192,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
 |  [290. Word Pattern](https://leetcode.com/problems/word-pattern)  | [Python](leetcode/Hash/290.WordPattern/290WordPattern.py)  |  Easy  |
-|  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Medium  |
+|  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Easy  |
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  | [Python](leetcode/DP/303.Range%20Sum%20Query%20-%20Immutable/303Range%20Sum%20Query%20-%20Immutable.py)  |  Easy  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
@@ -214,7 +214,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)  | [Python](leetcode/Greedy/376.WiggleSubsequence/376WiggleSubsequence.py)  |  Medium  |
 |  [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)  | [Python](leetcode/BinarySearch/378.KthSmallestElementInASortedMatrix/378python3.py)  |  Medium  |
 |  [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)  | [Python](leetcode/Hash/387.FirstUniqueCharacter/387python3.py)  |  Easy  |
-|  [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)  | [Python](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |  Medium  |
+|  [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)  | [Python](leetcode/Greedy/392.IsSubsequence/392IsSubsequence.py)  |  Easy  |
 |  [394. Decode String](https://leetcode.com/problems/decode-string)  | [Python](leetcode/STR/394.DecodeString/394DecodeString.py)  |  Medium  |
 |  [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits)  | [Python](leetcode/Greedy/402.RemoveDigits/402RemoveDigits.py)  |  Medium  |
 |  [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)  | [Python](leetcode/Tree/404.SumofLeftLeaves/404SumOfLeftLeaves.py), [C(++)](leetcode/Tree/404.SumofLeftLeaves/404CPP.cpp)  |  Easy  |
@@ -299,7 +299,10 @@ This repo is build to collect leetcode algorithms we write.
 |  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [JavaScript](leetcode/Tree/987.VerticalOrderTraversalOfBinaryTree/987VerticalOrderTraversalOfBinaryTree.js)  |  Medium  |
 |  [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)  | [Python](leetcode/Greedy/1029.TwoCityScheduling/1029TwoCityScheduling.py)  |  Easy  |
 |  [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)  | [Python](leetcode/Heap/1046.LastStoneWeight/1046python3.py)  |  Easy  |
-|  [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)  | [Python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  Hard  |
+|  [1092. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence)  | [Python](leetcode/DP/1092.ShortestCommonSupersequence/1092python3.py)  |  Hard  |
+|  [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings)  | [Python](leetcode/array/1109.CorporateFlightBookings/1109python3.py)  |  Medium  |
+|  [1114. Print in Order](https://leetcode.com/problems/print-in-order)  | [C(++)](leetcode/Other/1114.Print%20in%20Order/1114Print%20in%20Order.cpp)  |  Easy  |
+|  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
 ## Contribution
 
 Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
