@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **279**
+- Python: **282**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **26**
+- C(++): **27**
 
-**Total completed: 289**
+**Total completed: 292**
 
 
 ## Solutions
@@ -101,6 +101,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)  | [Python](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |  Medium  |
 |  [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  | [Python](leetcode/Hash/94.BinaryTreeInorderTra/94python3.py)  |  Medium  |
 |  [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  | [Python](leetcode/Tree/95.UniqueBinarySearchTrees/95UniqueBinarySearchTrees.py)  |  Medium  |
+|  [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)  | [Python](leetcode/DP/96.Unique%20Binary%20Search%20Trees/96Unique%20Binary%20Search%20Trees.py)  |  Medium  |
 |  [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)  | [Python](leetcode/Tree/98.ValidateBinarySearchTree/98ValidateBinarySearchTree.py)  |  Medium  |
 |  [100. Same Tree](https://leetcode.com/problems/same-tree)  | [Python](leetcode/Tree/100.sametree/100sametree.py)  |  Easy  |
 |  [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  | [Python](leetcode/Tree/101.SymmetricTree/101SymmetricTree.py)  |  Easy  |
@@ -132,6 +133,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
 |  [139. Word Break](https://leetcode.com/problems/word-break)  | [Python](leetcode/DP/139.Word%20Break/139Word%20Break.py)  |  Medium  |
+|  [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  | [Python](leetcode/List/141.Linked%20List%20Cycle/141Linked%20List%20Cycle.py)  |  Easy  |
 |  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [Python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  Medium  |
 |  [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)  | [Python](leetcode/Stack/145.BinaryTreePostorderTraversal/145python3.py)  |  Hard  |
 |  [146. LRU Cache](https://leetcode.com/problems/lru-cache)  | [Python](leetcode/Design/146.LRUCache/146LRUCache.py)  |  Medium  |
@@ -260,7 +262,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)  | [Python](leetcode/array/566.Reshape%20the%20Matrix/566Reshape%20the%20Matrix.py)  |  Easy  |
 |  [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)  | [Python](leetcode/DP/576.OutOfBoundaryPaths/576python3.py)  |  Medium  |
 |  [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)  | [Python](leetcode/Hash/599.MinimumIndexSumofTwoLists/599python3.py)  |  Easy  |
-|  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py)  |  Easy  |
+|  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py), [C(++)](leetcode/STR/606.ConstructStringFromBT/606Construct%20String%20from%20Binary%20Tree.cpp)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
 |  [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)  | [Python](leetcode/array/628.Maximum%20Product%20of%20Three%20Numbers/628Maximum%20Product%20of%20Three%20Numbers.py)  |  Easy  |
 |  [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)  | [Python](leetcode/Math/633.Sum%20of%20Square%20Numbers/633Sum%20of%20Square%20Numbers.py)  |  Easy  |
@@ -287,6 +289,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
 |  [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)  | [Python](leetcode/Math/829.Consecutive%20Numbers%20Sum/829Consecutive%20Numbers%20Sum.py)  |  Hard  |
+|  [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)  | [Python](leetcode/Heap/857.Minimum%20Cost%20to%20Hire%20K%20Workers/857Minimum%20Cost%20to%20Hire%20K%20Workers.py)  |  Hard  |
 |  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
 |  [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)  | [Python](leetcode/Math/883.Projection%20Area%20of%203D%20Shapes/883Projection%20Area%20of%203D%20Shapes.py)  |  Easy  |
