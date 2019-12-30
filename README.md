@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **282**
+- Python: **285**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **27**
+- C(++): **29**
 
-**Total completed: 292**
+**Total completed: 296**
 
 
 ## Solutions
@@ -66,7 +66,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [50. Pow(x, n)](https://leetcode.com/problems/powx-n)  | [Python](leetcode/BinarySearch/50.Pow(x,n)/50Pow(x,n).py)  |  Medium  |
 |  [51. N-Queens](https://leetcode.com/problems/n-queens)  | [Python](leetcode/BackTrack/51.N-Queens/51N-Queens.py)  |  Hard  |
 |  [52. N-Queens II](https://leetcode.com/problems/n-queens-ii)  | [Python](leetcode/BackTrack/52.N-Queens/52N-Queens.py)  |  Hard  |
-|  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | [Python](leetcode/array/53.MaximumSubarray/53MaximumSubarray.py)  |  Easy  |
+|  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | [Python](leetcode/array/53.MaximumSubarray/53MaximumSubarray.py), [C(++)](leetcode/array/53.MaximumSubarray/53CPP.cpp)  |  Easy  |
 |  [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix)  | [Python](leetcode/array/54.SpiralMatrix/54SpiralMatrix.py)  |  Medium  |
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [Python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  Medium  |
 |  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)  | [Python](leetcode/array/56.MergeIntervals/56MergeIntervals.py), [C(++)](leetcode/array/56.MergeIntervals/56CPP.cpp)  |  Medium  |
@@ -151,6 +151,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
 |  [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)  | [Python](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.py), [C(++)](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.cpp)  |  Medium  |
+|  [179. Largest Number](https://leetcode.com/problems/largest-number)  | [Python](leetcode/Sort/179.Largest%20Number/179.%20Largest%20Number.py)  |  Medium  |
 |  [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)  | [Python](leetcode/Hash/187.RepeatedDNASequences/187RepeatedDNASequence.py)  |  Medium  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
 |  [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)  | [C(++)](leetcode/BitOperation/190.ReverseBits/190ReverseBits.cpp)  |  Easy  |
@@ -169,7 +170,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
 |  [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  | [Python](leetcode/array/219.ContainsDuplicate/219ContainsDuplicate.py)  |  Easy  |
-|  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate.py)  |  Medium  |
+|  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate/220.ContainDuplicate.py)  |  Medium  |
 |  [221. Maximal Square](https://leetcode.com/problems/maximal-square)  | [Python](leetcode/DP/221.MaximalSquare/221MaximalSquare.py)  |  Medium  |
 |  [223. Rectangle Area](https://leetcode.com/problems/rectangle-area)  | [Python](leetcode/Math/223.Rectangle%20Area/223Rectangle%20Area.py)  |  Medium  |
 |  [224. Basic Calculator](https://leetcode.com/problems/basic-calculator)  | [C(++)](leetcode/Math/224.Basic%20Calculator/224Basic%20Calculator.cpp)  |  Hard  |
@@ -226,6 +227,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)  | [Python](leetcode/DP/416.PartitionEqualSubsetSum/416.python3.py)  |  Medium  |
 |  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [Python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |  Medium  |
 |  [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)  | [Python](leetcode/Tree/437.PathSumIII/437PathSumIII.py)  |  Easy  |
+|  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)  | [C(++)](leetcode/Hash/438.Find%20All%20Anagrams%20in%20a%20String/438Find%20All%20Anagrams%20in%20a%20String.cpp)  |  Medium  |
 |  [441. Arranging Coins](https://leetcode.com/problems/arranging-coins)  | [Python](leetcode/Math/441.ArraningCoins/441ArraningCoins.py)  |  Easy  |
 |  [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  | [Python](leetcode/array/442.FindAllDuplicatesInAnArray/442python3.py)  |  Medium  |
 |  [443. String Compression](https://leetcode.com/problems/string-compression)  | [Python](leetcode/STR/443.StringCompression/443StringCompression.py)  |  Easy  |
@@ -274,8 +276,10 @@ This repo is build to collect leetcode algorithms we write.
 |  [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)  | [Python](leetcode/Tree/655.PrintBinaryTree/655PrintBinaryTree.py)  |  Medium  |
 |  [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)  | [Python](leetcode/STR/657.Robot%20Return%20to%20Origin/657Robot%20Return%20to%20Origin.py)  |  Easy  |
 |  [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)  | [JavaScript](leetcode/array/665.Non-descreasing%20Array/665Non-descreasing%20Array.js)  |  Easy  |
+|  [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)  | [Python](leetcode/Tree/671.Second%20Minimum%20Node%20In%20a%20Binary%20Tree/671Second%20Minimum%20Node%20In%20a%20Binary%20Tree.py)  |  Easy  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)  | [Python](leetcode/Tree/687.LongestUniquePath/687LongestUniquePath.py)  |  Easy  |
+|  [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array)  | [Python](leetcode/array/697.Degree%20of%20an%20Array/697Degree%20of%20an%20Array.py)  |  Easy  |
 |  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
 |  [704. Binary Search](https://leetcode.com/problems/binary-search)  | [Python](leetcode/BinarySearch/704.BinarySerch/704BinarySearch.py)  |  Easy  |
