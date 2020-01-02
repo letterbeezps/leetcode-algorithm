@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **285**
+- Python: **288**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **29**
 
-**Total completed: 296**
+**Total completed: 299**
 
 
 ## Solutions
@@ -71,6 +71,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [55. Jump Game](https://leetcode.com/problems/jump-game)  | [Python](leetcode/Greedy/55.JumpGame/55JumpGame.py)  |  Medium  |
 |  [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)  | [Python](leetcode/array/56.MergeIntervals/56MergeIntervals.py), [C(++)](leetcode/array/56.MergeIntervals/56CPP.cpp)  |  Medium  |
 |  [57. Insert Interval](https://leetcode.com/problems/insert-interval)  | [Python](leetcode/array/57.Insert%20Interval/57Insert%20Interval.py), [C(++)](leetcode/array/57.Insert%20Interval/57CPP.cpp)  |  Hard  |
+|  [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)  | [Python](leetcode/STR/58.Length%20of%20Last%20Word/58Length%20of%20Last%20Word.py)  |  Easy  |
 |  [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)  | [Python](leetcode/Math/60.PermutationSequence/60PermutationSequence.py)  |  Medium  |
 |  [61. Rotate List](https://leetcode.com/problems/rotate-list)  | [Python](leetcode/List/61.RotateList/61RotateList.py)  |  Medium  |
 |  [62. Unique Paths](https://leetcode.com/problems/unique-paths)  | [Python](leetcode/DP/62.uniquePaths/62uniquePaths.py)  |  Medium  |
@@ -276,6 +277,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)  | [Python](leetcode/Tree/655.PrintBinaryTree/655PrintBinaryTree.py)  |  Medium  |
 |  [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)  | [Python](leetcode/STR/657.Robot%20Return%20to%20Origin/657Robot%20Return%20to%20Origin.py)  |  Easy  |
 |  [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)  | [JavaScript](leetcode/array/665.Non-descreasing%20Array/665Non-descreasing%20Array.js)  |  Easy  |
+|  [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)  | [Python](leetcode/Tree/669.Trim%20a%20Binary%20Search%20Tree/669Trim%20a%20Binary%20Search%20Tree.py)  |  Easy  |
 |  [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)  | [Python](leetcode/Tree/671.Second%20Minimum%20Node%20In%20a%20Binary%20Tree/671Second%20Minimum%20Node%20In%20a%20Binary%20Tree.py)  |  Easy  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)  | [Python](leetcode/Tree/687.LongestUniquePath/687LongestUniquePath.py)  |  Easy  |
@@ -293,6 +295,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
 |  [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)  | [Python](leetcode/Math/829.Consecutive%20Numbers%20Sum/829Consecutive%20Numbers%20Sum.py)  |  Hard  |
+|  [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)  | [Python](leetcode/Math/836.Rectangle%20Overlap/836Rectangle%20Overlap.py)  |  Easy  |
 |  [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)  | [Python](leetcode/Heap/857.Minimum%20Cost%20to%20Hire%20K%20Workers/857Minimum%20Cost%20to%20Hire%20K%20Workers.py)  |  Hard  |
 |  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
