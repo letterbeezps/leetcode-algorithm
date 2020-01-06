@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **288**
+- Python: **292**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **29**
 
-**Total completed: 299**
+**Total completed: 302**
 
 
 ## Solutions
@@ -97,6 +97,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)  | [Python](leetcode/array/84.LargestRectangleHis/84python3.py)  |  Hard  |
 |  [86. Partition List](https://leetcode.com/problems/partition-list)  | [Python](leetcode/List/86.PartitionList/86PartitionList.py)  |  Medium  |
 |  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)  | [Python](leetcode/array/88.MergeSortedArray/88MergeSortedArray.py), [C(++)](leetcode/array/88.MergeSortedArray/88CPP.cpp)  |  Easy  |
+|  [89. Gray Code](https://leetcode.com/problems/gray-code)  | [Python](leetcode/BackTrack/89.Gray%20Code/89Gray%20Code.py)  |  Medium  |
 |  [91. Decode Ways](https://leetcode.com/problems/decode-ways)  | [Python](leetcode/STR/91.DecodeWays/91DecodeWays.py)  |  Medium  |
 |  [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)  | [Python](leetcode/List/92.ReverseLinkedList/92ReverseLinkedList.py)  |  Medium  |
 |  [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)  | [Python](leetcode/STR/93.RestoreIPAddress/93RestoreIPAddress.py)  |  Medium  |
@@ -293,9 +294,11 @@ This repo is build to collect leetcode algorithms we write.
 |  [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
 |  [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Easy  |
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
+|  [799. Champagne Tower](https://leetcode.com/problems/champagne-tower)  | [Python](leetcode/DP/799.Champagne%20Tower/799Champagne%20Tower.py)  |  Medium  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
 |  [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)  | [Python](leetcode/Math/829.Consecutive%20Numbers%20Sum/829Consecutive%20Numbers%20Sum.py)  |  Hard  |
 |  [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)  | [Python](leetcode/Math/836.Rectangle%20Overlap/836Rectangle%20Overlap.py)  |  Easy  |
+|  [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)  | [Python](leetcode/BackTrack/841.Keys%20and%20Rooms/841Keys%20and%20Rooms.py)  |  Medium  |
 |  [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)  | [Python](leetcode/Heap/857.Minimum%20Cost%20to%20Hire%20K%20Workers/857Minimum%20Cost%20to%20Hire%20K%20Workers.py)  |  Hard  |
 |  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
