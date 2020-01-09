@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **292**
+- Python: **296**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **29**
+- C(++): **30**
 
-**Total completed: 302**
+**Total completed: 306**
 
 
 ## Solutions
@@ -153,6 +153,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
 |  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
 |  [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)  | [Python](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.py), [C(++)](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.cpp)  |  Medium  |
+|  [174. Dungeon Game](https://leetcode.com/problems/dungeon-game)  | [Python](leetcode/DP/174.Dungeon%20Game/174Dungeon%20Game.py)  |  Hard  |
 |  [179. Largest Number](https://leetcode.com/problems/largest-number)  | [Python](leetcode/Sort/179.Largest%20Number/179.%20Largest%20Number.py)  |  Medium  |
 |  [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)  | [Python](leetcode/Hash/187.RepeatedDNASequences/187RepeatedDNASequence.py)  |  Medium  |
 |  [189. Rotate Array](https://leetcode.com/problems/rotate-array)  | [Python](leetcode/array/189.rotate/189rotate.py)  |  Easy  |
@@ -282,6 +283,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)  | [Python](leetcode/Tree/671.Second%20Minimum%20Node%20In%20a%20Binary%20Tree/671Second%20Minimum%20Node%20In%20a%20Binary%20Tree.py)  |  Easy  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)  | [Python](leetcode/Tree/687.LongestUniquePath/687LongestUniquePath.py)  |  Easy  |
+|  [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)  | [Python](leetcode/Hash/692.Top%20K%20Frequent%20Words/692Top%20K%20Frequent%20Words.py)  |  Medium  |
 |  [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array)  | [Python](leetcode/array/697.Degree%20of%20an%20Array/697Degree%20of%20an%20Array.py)  |  Easy  |
 |  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
 |  [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)  | [Python](leetcode/Heap/703.KthLargestElementInStream/703python3.py)  |  Easy  |
@@ -290,6 +292,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [706. Design HashMap](https://leetcode.com/problems/design-hashmap)  | [Python](leetcode/Hash/706.DesignHashMap/706DesignHashMap.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
+|  [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word)  | [Python](leetcode/Hash/748.Shortest%20Completing%20Word/748Shortest%20Completing%20Word.py)  |  Easy  |
 |  [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
 |  [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
 |  [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Easy  |
@@ -301,6 +304,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)  | [Python](leetcode/BackTrack/841.Keys%20and%20Rooms/841Keys%20and%20Rooms.py)  |  Medium  |
 |  [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)  | [Python](leetcode/Heap/857.Minimum%20Cost%20to%20Hire%20K%20Workers/857Minimum%20Cost%20to%20Hire%20K%20Workers.py)  |  Hard  |
 |  [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)  | [Python](leetcode/Greedy/860.LemonadeChange/860LemonadeChange.py)  |  Easy  |
+|  [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)  | [Python](leetcode/DP/871.Minimum%20Number%20of%20Refueling%20Stops/871Minimum%20Number%20of%20Refueling%20Stops.py), [C(++)](leetcode/DP/871.Minimum%20Number%20of%20Refueling%20Stops/871Minimum%20Number%20of%20Refueling%20Stops.cpp)  |  Hard  |
 |  [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)  | [Python](leetcode/Tree/872.Leaf_SimilarTrees/872Leaf_SimilarTrees.py)  |  Easy  |
 |  [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)  | [Python](leetcode/Math/883.Projection%20Area%20of%203D%20Shapes/883Projection%20Area%20of%203D%20Shapes.py)  |  Easy  |
 |  [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)  | [Python](leetcode/array/891.Sum%20of%20Subsequence%20Widths/891.Sum%20of%20Subsequence%20Widths.py)  |  Hard  |
