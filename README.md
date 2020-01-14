@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **296**
+- Python: **300**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **30**
+- C(++): **32**
 
-**Total completed: 306**
+**Total completed: 309**
 
 
 ## Solutions
@@ -135,6 +135,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [136. Single Number](https://leetcode.com/problems/single-number)  | [Python](leetcode/BitOperation/136.SingleNumber/136SingleNumber.py)  |  Easy  |
 |  [137. Single Number II](https://leetcode.com/problems/single-number-ii)  | [Python](leetcode/BitOperation/137.SingleNumber/137SingleNumber.py)  |  Medium  |
 |  [139. Word Break](https://leetcode.com/problems/word-break)  | [Python](leetcode/DP/139.Word%20Break/139Word%20Break.py)  |  Medium  |
+|  [140. Word Break II](https://leetcode.com/problems/word-break-ii)  | [Python](leetcode/DP/140.Word%20Break/140Word%20Break.py)  |  Hard  |
 |  [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  | [Python](leetcode/List/141.Linked%20List%20Cycle/141Linked%20List%20Cycle.py)  |  Easy  |
 |  [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)  | [Python](leetcode/List/142.LinkedListCycleII/142LinkedListCycleII.py)  |  Medium  |
 |  [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)  | [Python](leetcode/Stack/145.BinaryTreePostorderTraversal/145python3.py)  |  Hard  |
@@ -202,6 +203,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  | [Python](leetcode/DP/303.Range%20Sum%20Query%20-%20Immutable/303Range%20Sum%20Query%20-%20Immutable.py)  |  Easy  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
+|  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons)  | [C(++)](leetcode/DivideAndConquer/312.Burst%20Balloons/312Burst%20Balloons.cpp)  |  Hard  |
 |  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher)  | [Python](leetcode/Math/319.Bulb%20Switcher/319Bulb%20Switcher.py)  |  Medium  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
 |  [326. Power of Three](https://leetcode.com/problems/power-of-three)  | [C(++)](leetcode/Math/326.Power%20of%20Three/326Power%20of%20Three.cpp)  |  Easy  |
@@ -239,6 +241,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [454. 4Sum II](https://leetcode.com/problems/4sum-ii)  | [Python](leetcode/Hash/454.fourSumCount/454fourSumCount.py), [C(++)](leetcode/Hash/454.fourSumCount/454fourSum.cpp)  |  Medium  |
 |  [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)  | [Python](leetcode/Greedy/455.AssignCookies/455AssignCookies.py)  |  Easy  |
 |  [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)  | [Python](leetcode/Math/458.Poor%20Pigs/458Poor%20Pigs.py)  |  Hard  |
+|  [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)  | [Python](leetcode/STR/459.Repeated%20Substring%20Pattern/459Repeated%20Substring%20Pattern.py)  |  Easy  |
 |  [461. Hamming Distance](https://leetcode.com/problems/hamming-distance)  | [Python](leetcode/BitOperation/461.Hamming%20Distance/461Hamming%20Distance.py)  |  Easy  |
 |  [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)  | [Python](leetcode/Math/462.Minimum%20Moves%20to%20Equal%20Array%20Elements/462Minimum%20Moves%20to%20Equal%20Array%20Elements.py)  |  Medium  |
 |  [463. Island Perimeter](https://leetcode.com/problems/island-perimeter)  | [Python](leetcode/Hash/463.Island%20Perimeter/463Island%20Perimeter.py)  |  Easy  |
