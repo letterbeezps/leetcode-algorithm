@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **304**
+- Python: **313**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **33**
+- C(++): **34**
 
-**Total completed: 313**
+**Total completed: 320**
 
 
 ## Solutions
@@ -327,6 +327,13 @@ This repo is build to collect leetcode algorithms we write.
 |  [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings)  | [Python](leetcode/array/1109.CorporateFlightBookings/1109python3.py)  |  Medium  |
 |  [1114. Print in Order](https://leetcode.com/problems/print-in-order)  | [C(++)](leetcode/Other/1114.Print%20in%20Order/1114Print%20in%20Order.cpp)  |  Easy  |
 |  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
+|  [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)  | [Python](leetcode/List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/1290Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)  |  Easy  |
+|  [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits)  | [Python](leetcode/BackTrack/1291.Sequential%20Digits/1291Sequential%20Digits.py)  |  Medium  |
+|  [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)  | [Python](leetcode/array/1292.Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.py)  |  Medium  |
+|  [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)  | [Python](leetcode/Breadth-first%20Search/1293.Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/1293.Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.py)  |  Hard  |
+|  [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)  | [C(++)](leetcode/array/1295.Find%20Numbers%20with%20Even%20Number%20of%20Digits/1295Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)  |  Easy  |
+|  [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)  | [Python](leetcode/array/1296.Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/1296Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)  |  Medium  |
+|  [1297. Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring)  | [Python](leetcode/STR/1297.Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/1297Maximum%20Number%20of%20Occurrences%20of%20a%20Substring.py)  |  Medium  |
 ## Contribution
 
 Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
