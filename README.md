@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **313**
+- Python: **318**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **34**
 
-**Total completed: 320**
+**Total completed: 323**
 
 
 ## Solutions
@@ -205,6 +205,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  | [Python](leetcode/DP/303.Range%20Sum%20Query%20-%20Immutable/303Range%20Sum%20Query%20-%20Immutable.py)  |  Easy  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
+|  [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)  | [Python](leetcode/BinarySearch/307.Range%20Sum%20Query%20-%20Mutable/307Range%20Sum%20Query.py)  |  Medium  |
 |  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons)  | [C(++)](leetcode/DivideAndConquer/312.Burst%20Balloons/312Burst%20Balloons.cpp)  |  Hard  |
 |  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher)  | [Python](leetcode/Math/319.Bulb%20Switcher/319Bulb%20Switcher.py)  |  Medium  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
@@ -318,6 +319,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/897python3.py), [JavaScript](leetcode/Tree/897.IncreasingOrderSearchTree/897IncreasingOrderSearchTree.js)  |  Easy  |
 |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
 |  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)  | [Python](leetcode/Hash/930.Binary%20Subarrays%20With%20Sum/930Binary%20Subarrays%20With%20Sum.py)  |  Medium  |
+|  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)  | [Python](leetcode/DP/931.Minimum%20Falling%20Path%20Sum/931Minimum%20Falling%20Path%20Sum.py)  |  Medium  |
 |  [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)  | [Python](leetcode/Tree/958.CheckCompletenessBinaryTree/958python3.py)  |  Medium  |
 |  [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)  | [Python](leetcode/Tree/965.UnivaluedBinaryTree/965python3.py)  |  Easy  |
 |  [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)  | [JavaScript](leetcode/Tree/987.VerticalOrderTraversalOfBinaryTree/987VerticalOrderTraversalOfBinaryTree.js)  |  Medium  |
@@ -327,6 +329,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings)  | [Python](leetcode/array/1109.CorporateFlightBookings/1109python3.py)  |  Medium  |
 |  [1114. Print in Order](https://leetcode.com/problems/print-in-order)  | [C(++)](leetcode/Other/1114.Print%20in%20Order/1114Print%20in%20Order.cpp)  |  Easy  |
 |  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
+|  [1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii)  | [Python](leetcode/DP/1278.Palindrome%20Partitioning/1278Palindrome%20Partitioning.py)  |  Hard  |
 |  [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)  | [Python](leetcode/List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/1290Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)  |  Easy  |
 |  [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits)  | [Python](leetcode/BackTrack/1291.Sequential%20Digits/1291Sequential%20Digits.py)  |  Medium  |
 |  [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)  | [Python](leetcode/array/1292.Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.py)  |  Medium  |
