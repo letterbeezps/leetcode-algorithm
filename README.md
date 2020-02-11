@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **318**
+- Python: **323**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **34**
 
-**Total completed: 323**
+**Total completed: 328**
 
 
 ## Solutions
@@ -212,6 +212,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [326. Power of Three](https://leetcode.com/problems/power-of-three)  | [C(++)](leetcode/Math/326.Power%20of%20Three/326Power%20of%20Three.cpp)  |  Easy  |
 |  [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  | [Python](leetcode/BackTrack/329.LongestIncreasingPathInAMatrix/329python3.py)  |  Hard  |
 |  [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)  | [Python](leetcode/Stack/331.VerifyPerOrder/331VerifyPerOrderSerialization.py)  |  Medium  |
+|  [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)  | [Python](leetcode/Depth-first%20Search/332.Reconstruct%20Itinerary/332Reconstruct%20Itinerary.py)  |  Medium  |
 |  [337. House Robber III](https://leetcode.com/problems/house-robber-iii)  | [Python](leetcode/Tree/337.HouseRobberIII/337python3.py)  |  Medium  |
 |  [338. Counting Bits](https://leetcode.com/problems/counting-bits)  | [Python](leetcode/DP/338.CountingBits/338CountingBits.py)  |  Medium  |
 |  [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  | [Python](leetcode/array/341.NestedList/341NestedList.py)  |  Medium  |
@@ -300,6 +301,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [706. Design HashMap](https://leetcode.com/problems/design-hashmap)  | [Python](leetcode/Hash/706.DesignHashMap/706DesignHashMap.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
+|  [743. Network Delay Time](https://leetcode.com/problems/network-delay-time)  | [Python](leetcode/Heap/743.Network%20Delay%20Time/743Network%20Delay%20Time.py)  |  Medium  |
 |  [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word)  | [Python](leetcode/Hash/748.Shortest%20Completing%20Word/748Shortest%20Completing%20Word.py)  |  Easy  |
 |  [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
 |  [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
@@ -330,6 +332,9 @@ This repo is build to collect leetcode algorithms we write.
 |  [1114. Print in Order](https://leetcode.com/problems/print-in-order)  | [C(++)](leetcode/Other/1114.Print%20in%20Order/1114Print%20in%20Order.cpp)  |  Easy  |
 |  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
 |  [1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii)  | [Python](leetcode/DP/1278.Palindrome%20Partitioning/1278Palindrome%20Partitioning.py)  |  Hard  |
+|  [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)  | [Python](leetcode/array/1287.Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/1287Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py)  |  Easy  |
+|  [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)  | [Python](leetcode/LineSweep/1288.Remove%20Covered%20Intervals/1288Remove%20Covered%20Intervals.py)  |  Medium  |
+|  [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii)  | [Python](leetcode/DP/1289.Minimum%20Falling%20Path%20Sum/1289Minimum%20Falling%20Path%20Sum.py)  |  Hard  |
 |  [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)  | [Python](leetcode/List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/1290Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py)  |  Easy  |
 |  [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits)  | [Python](leetcode/BackTrack/1291.Sequential%20Digits/1291Sequential%20Digits.py)  |  Medium  |
 |  [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)  | [Python](leetcode/array/1292.Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.py)  |  Medium  |
