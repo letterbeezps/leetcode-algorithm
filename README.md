@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **323**
+- Python: **325**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **34**
 
-**Total completed: 328**
+**Total completed: 330**
 
 
 ## Solutions
@@ -162,7 +162,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)  | [C(++)](leetcode/BitOperation/190.ReverseBits/190ReverseBits.cpp)  |  Easy  |
 |  [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)  | [Python](leetcode/BitOperation/191.NumberOf1Bits/191python.py)  |  Easy  |
 |  [198. House Robber](https://leetcode.com/problems/house-robber)  | [Python](leetcode/DP/198.HouseRobber/198python3.py)  |  Easy  |
-|  [200. Number of Islands](https://leetcode.com/problems/number-of-islands)  | [Python](leetcode/matrix/200.numIsLands/200numIsLands.py)  |  Medium  |
+|  [200. Number of Islands](https://leetcode.com/problems/number-of-islands)  | [Python](leetcode/Depth-first%20Search/200.numIsLands/200numIsLands.py)  |  Medium  |
 |  [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)  | [Python](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |  Medium  |
 |  [202. Happy Number](https://leetcode.com/problems/happy-number)  | [Python](leetcode/Hash/202.HappyNumber/202HappyNumber.py)  |  Easy  |
 |  [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)  | [Python](leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.py)  |  Easy  |
@@ -290,8 +290,10 @@ This repo is build to collect leetcode algorithms we write.
 |  [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)  | [JavaScript](leetcode/array/665.Non-descreasing%20Array/665Non-descreasing%20Array.js)  |  Easy  |
 |  [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)  | [Python](leetcode/Tree/669.Trim%20a%20Binary%20Search%20Tree/669Trim%20a%20Binary%20Search%20Tree.py)  |  Easy  |
 |  [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)  | [Python](leetcode/Tree/671.Second%20Minimum%20Node%20In%20a%20Binary%20Tree/671Second%20Minimum%20Node%20In%20a%20Binary%20Tree.py)  |  Easy  |
+|  [675. Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event)  | [Python](leetcode/Breadth-first%20Search/675.Cut%20Off%20Trees%20for%20Golf%20Event/675Cut%20Off%20Trees%20for%20Golf%20Event.py)  |  Hard  |
 |  [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)  | [Python](leetcode/Trie/677.MapSumPairs/677MapSumPairs.py)  |  Medium  |
 |  [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)  | [Python](leetcode/Tree/687.LongestUniquePath/687LongestUniquePath.py)  |  Easy  |
+|  [690. Employee Importance](https://leetcode.com/problems/employee-importance)  | [Python](leetcode/Hash/690.Employee%20Importance/690Employee%20Importance.py)  |  Easy  |
 |  [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)  | [Python](leetcode/Hash/692.Top%20K%20Frequent%20Words/692Top%20K%20Frequent%20Words.py)  |  Medium  |
 |  [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array)  | [Python](leetcode/array/697.Degree%20of%20an%20Array/697Degree%20of%20an%20Array.py)  |  Easy  |
 |  [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)  | [Python](leetcode/Tree/701.InserIntoABinarySearchTree/701python3.py)  |  Medium  |
