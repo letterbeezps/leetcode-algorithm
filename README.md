@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **325**
+- Python: **330**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **34**
 
-**Total completed: 330**
+**Total completed: 332**
 
 
 ## Solutions
@@ -94,6 +94,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [79. Word Search](https://leetcode.com/problems/word-search)  | [Python](leetcode/array/79.WordSearch/79WordSearch.py)  |  Medium  |
 |  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  | [Python](leetcode/array/80.removeDuplicate/80removeDuplicate.py)  |  Medium  |
 |  [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)  | [Python](leetcode/BinarySearch/81.SearchRotatedSortedArrayII/81SearchRotatedSortedArray.py)  |  Medium  |
+|  [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)  | [Python](leetcode/List/82.Remove%20Duplicates%20from%20Sorted%20List/82Remove%20Duplicates%20from%20Sorted%20List.py)  |  Medium  |
 |  [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)  | [Python](leetcode/List/83.deleteDuplicate/83deleteDuplicate.py)  |  Easy  |
 |  [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)  | [Python](leetcode/array/84.LargestRectangleHis/84python3.py)  |  Hard  |
 |  [86. Partition List](https://leetcode.com/problems/partition-list)  | [Python](leetcode/List/86.PartitionList/86PartitionList.py)  |  Medium  |
@@ -120,6 +121,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)  | [Python](leetcode/Tree/111.minDepth/111minDepth.py)  |  Easy  |
 |  [112. Path Sum](https://leetcode.com/problems/path-sum)  | [Python](leetcode/Tree/112.pathSum/112pathSum.py)  |  Easy  |
 |  [113. Path Sum II](https://leetcode.com/problems/path-sum-ii)  | [Python](leetcode/Tree/113.PathSumII/113PathSumII.py)  |  Medium  |
+|  [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)  | [Python](leetcode/Tree/114.Flatten%20Binary%20Tree%20to%20Linked%20List/114Flatten%20Binary%20Tree%20to%20Linked%20List.py)  |  Medium  |
 |  [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)  | [Python](leetcode/DP/115.numDistinct/115numDistinct.py)  |  Hard  |
 |  [120. Triangle](https://leetcode.com/problems/triangle)  | [Python](leetcode/array/120.minimumTotal/120minimumTotal.py)  |  Medium  |
 |  [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | [Python](leetcode/array/121.maxProfit/121maxProfit.py)  |  Easy  |
