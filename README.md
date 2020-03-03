@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **330**
+- Python: **334**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **34**
+- C(++): **35**
 
-**Total completed: 332**
+**Total completed: 333**
 
 
 ## Solutions
@@ -130,7 +130,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)  | [Python](leetcode/Tree/124.BinaryTreeMaximumPathSum/124python3.py)  |  Hard  |
 |  [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | [Python](leetcode/List/125.isPalindrome/125isPalindrome.py)  |  Easy  |
 |  [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)  | [Python](leetcode/UnionFind/128.LongestConsecutiveSequence/128python3.py)  |  Hard  |
-|  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | [Python](leetcode/matrix/130.SurroundedRegions/130SurroundedRegions.py)  |  Medium  |
+|  [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions)  | [Python](leetcode/Depth-first%20Search/130.SurroundedRegions/130SurroundedRegions.py)  |  Medium  |
 |  [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)  | [Python](leetcode/BackTrack/131.Palindrome%20Partitioning/131Palindrome%20Partitioning.py)  |  Medium  |
 |  [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  | [Python](leetcode/DP/132.PalindromePartitioning/132python3.py)  |  Hard  |
 |  [133. Clone Graph](https://leetcode.com/problems/clone-graph)  | [Python](leetcode/BackTrack/133.Clone%20Graph/133Clone%20Graph.py)  |  Medium  |
@@ -335,6 +335,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings)  | [Python](leetcode/array/1109.CorporateFlightBookings/1109python3.py)  |  Medium  |
 |  [1114. Print in Order](https://leetcode.com/problems/print-in-order)  | [C(++)](leetcode/Other/1114.Print%20in%20Order/1114Print%20in%20Order.cpp)  |  Easy  |
 |  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
+|  [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)  | [Python](leetcode/array/1202.Smallest%20String%20With%20Swaps/1202Smallest%20String%20With%20Swaps.py)  |  Medium  |
 |  [1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii)  | [Python](leetcode/DP/1278.Palindrome%20Partitioning/1278Palindrome%20Partitioning.py)  |  Hard  |
 |  [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)  | [Python](leetcode/array/1287.Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/1287Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py)  |  Easy  |
 |  [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)  | [Python](leetcode/LineSweep/1288.Remove%20Covered%20Intervals/1288Remove%20Covered%20Intervals.py)  |  Medium  |

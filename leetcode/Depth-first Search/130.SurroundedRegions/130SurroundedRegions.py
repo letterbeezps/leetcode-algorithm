@@ -13,23 +13,23 @@ class Solution:
         """
         if not board or not board[0]:
             return
-        Solution.row = len(board)
-        Solution.col = len(board[0])
+        self.row = len(board)
+        self.col = len(board[0])
         
-        for i in range(Solution.row):
+        for i in range(self.row):
             if board[i][0] == 'O':
                 self.dfs(board, i, 0)
-            if board[i][Solution.col-1] == 'O':
-                self.dfs(board, i, Solution.col-1)
+            if board[i][self.col-1] == 'O':
+                self.dfs(board, i, self.col-1)
                 
-        for i in range(Solution.col):
+        for i in range(self.col):
             if board[0][i] == 'O':
                 self.dfs(board, 0, i)
-            if board[Solution.row-1][i] == 'O':
-                self.dfs(board, Solution.row-1, i)
+            if board[self.row-1][i] == 'O':
+                self.dfs(board, self.row-1, i)
                 
-        for i in range(Solution.row):
-            for j in range(Solution.col):
+        for i in range(self.row):
+            for j in range(self.col):
                 if board[i][j] == 'O':
                     board[i][j] = 'X'
                 if board[i][j] == 'Y':
@@ -41,6 +41,6 @@ class Solution:
         for i in range(4):
             nx = x+dir[i][0]
             ny = y+dir[i][1]
-            if 0<=nx<Solution.row and 0<=ny<Solution.col:
+            if 0<=nx<self.row and 0<=ny<self.col:
                 if board[nx][ny] == 'O':
                     self.dfs(board, nx, ny)
