@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **334**
+- Python: **342**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **35**
+- C(++): **37**
 
-**Total completed: 333**
+**Total completed: 337**
 
 
 ## Solutions
@@ -236,6 +236,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)  | [Python](leetcode/Greedy/406.rconstructQueue/406rconstructQueue.py)  |  Medium  |
 |  [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)  | [Python](leetcode/Hash/409.LongestPalindrome/409LongestPalidrome.py)  |  Easy  |
 |  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)  | [Python](leetcode/DP/416.PartitionEqualSubsetSum/416.python3.py)  |  Medium  |
+|  [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)  | [Python](leetcode/Depth-first%20Search/417.Pacific%20Atlantic%20Water%20Flow/417Pacific%20Atlantic%20Water%20Flow.py)  |  Medium  |
 |  [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  | [Python](leetcode/BitOperation/421.findMaximumXOR/421findMaximumXOR.py)  |  Medium  |
 |  [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)  | [Python](leetcode/Tree/437.PathSumIII/437PathSumIII.py)  |  Easy  |
 |  [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)  | [C(++)](leetcode/Hash/438.Find%20All%20Anagrams%20in%20a%20String/438Find%20All%20Anagrams%20in%20a%20String.cpp)  |  Medium  |
@@ -310,6 +311,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
 |  [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
 |  [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)  | [Python](leetcode/Hash/771.JewelsAndStones/771JewelsAndStones.py)  |  Easy  |
+|  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)  | [C(++)](leetcode/BinarySearch/778.Swim%20in%20Rising%20Water/778Swim%20in%20Rising%20Water.cpp)  |  Hard  |
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
 |  [799. Champagne Tower](https://leetcode.com/problems/champagne-tower)  | [Python](leetcode/DP/799.Champagne%20Tower/799Champagne%20Tower.py)  |  Medium  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
@@ -335,6 +337,8 @@ This repo is build to collect leetcode algorithms we write.
 |  [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings)  | [Python](leetcode/array/1109.CorporateFlightBookings/1109python3.py)  |  Medium  |
 |  [1114. Print in Order](https://leetcode.com/problems/print-in-order)  | [C(++)](leetcode/Other/1114.Print%20in%20Order/1114Print%20in%20Order.cpp)  |  Easy  |
 |  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
+|  [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)  | [Python](leetcode/Breadth-first%20Search/1129.Shortest%20Path%20with%20Alternating%20Colors/1129Shortest%20Path%20with%20Alternating%20Colors.py)  |  Medium  |
+|  [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game)  | [Python](leetcode/Tree/1145.Binary%20Tree%20Coloring%20Game/1145Binary%20Tree%20Coloring%20Game.py)  |  Medium  |
 |  [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)  | [Python](leetcode/array/1202.Smallest%20String%20With%20Swaps/1202Smallest%20String%20With%20Swaps.py)  |  Medium  |
 |  [1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii)  | [Python](leetcode/DP/1278.Palindrome%20Partitioning/1278Palindrome%20Partitioning.py)  |  Hard  |
 |  [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)  | [Python](leetcode/array/1287.Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/1287Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.py)  |  Easy  |
