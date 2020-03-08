@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **352**
+- Python: **362**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **37**
+- C(++): **40**
 
-**Total completed: 346**
+**Total completed: 358**
 
 
 ## Solutions
@@ -170,7 +170,9 @@ This repo is build to collect leetcode algorithms we write.
 |  [204. Count Primes](https://leetcode.com/problems/count-primes)  | [Python](leetcode/Hash/204.Count%20Primes/204Count%20Primes.py)  |  Easy  |
 |  [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)  | [Python](leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.py)  |  Easy  |
 |  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [Python](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |  Easy  |
+|  [207. Course Schedule](https://leetcode.com/problems/course-schedule)  | [Python](leetcode/Depth-first%20Search/207.Course%20Schedule/207Course%20Schedule.py)  |  Medium  |
 |  [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)  | [Python](leetcode/Design/208.ImplementTrie/208ImplementTrie.py)  |  Medium  |
+|  [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii)  | [Python](leetcode/Depth-first%20Search/210.Course%20Schedule/210Course%20Schedule.py)  |  Medium  |
 |  [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design)  | [Python](leetcode/BackTrack/211.AddAndSearch/211.python3.py)  |  Medium  |
 |  [212. Word Search II](https://leetcode.com/problems/word-search-ii)  | [Python](leetcode/BackTrack/212.WordSearch/212WordSearch.py)  |  Hard  |
 |  [213. House Robber II](https://leetcode.com/problems/house-robber-ii)  | [Python](leetcode/DP/213.HouseRobber/213HouserRoober.py)  |  Medium  |
@@ -271,7 +273,9 @@ This repo is build to collect leetcode algorithms we write.
 |  [518. Coin Change 2](https://leetcode.com/problems/coin-change-2)  | [Python](leetcode/DP/518.CoinChange2/518CoinChange2.py)  |  Medium  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [Python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  Medium  |
 |  [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)  | [Python](leetcode/BackTrack/526.BeautofulArrangment/526python3.py)  |  Medium  |
+|  [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)  | [C(++)](leetcode/Tree/530.Minimum%20Absolute%20Difference%20in%20BST/530Minimum%20Absolute%20Difference%20in%20BST.cpp)  |  Easy  |
 |  [542. 01 Matrix](https://leetcode.com/problems/01-matrix)  | [Python](leetcode/matrix/542.updateMatrix/542updateMatrix.py)  |  Medium  |
+|  [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)  | [Python](leetcode/Tree/543.Diameter%20of%20Binary%20Tree/543Diameter%20of%20Binary%20Tree.py)  |  Easy  |
 |  [547. Friend Circles](https://leetcode.com/problems/friend-circles)  | [Python](leetcode/UnionFind/547.FriendCircles/547FriendCircles.py), [C(++)](leetcode/UnionFind/547.FriendCircles/547FriendCircles.cpp)  |  Medium  |
 |  [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)  | [Python](leetcode/STR/551.Student%20Attendance%20Record%20I/551Student%20Attendance%20Record%20I.py)  |  Easy  |
 |  [554. Brick Wall](https://leetcode.com/problems/brick-wall)  | [Python](leetcode/Hash/554.BrickWall/554BrickWall.py)  |  Medium  |
@@ -285,6 +289,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)  | [Python](leetcode/Hash/599.MinimumIndexSumofTwoLists/599python3.py)  |  Easy  |
 |  [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)  | [Python](leetcode/STR/606.ConstructStringFromBT/606python3.py), [C(++)](leetcode/STR/606.ConstructStringFromBT/606Construct%20String%20from%20Binary%20Tree.cpp)  |  Easy  |
 |  [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)  | [Python](leetcode/Tree/617.MergeTwoBinaryTrees/617python3.py)  |  Easy  |
+|  [621. Task Scheduler](https://leetcode.com/problems/task-scheduler)  | [C(++)](leetcode/array/621.Task%20Scheduler/621Task%20Scheduler.cpp)  |  Medium  |
 |  [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)  | [Python](leetcode/array/628.Maximum%20Product%20of%20Three%20Numbers/628Maximum%20Product%20of%20Three%20Numbers.py)  |  Easy  |
 |  [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)  | [Python](leetcode/Math/633.Sum%20of%20Square%20Numbers/633Sum%20of%20Square%20Numbers.py)  |  Easy  |
 |  [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)  | [C(++)](leetcode/Tree/637.Average%20of%20Levels%20in%20Binary%20Tree/637Average%20of%20Levels%20in%20Binary%20Tree.cpp)  |  Easy  |
@@ -313,8 +318,13 @@ This repo is build to collect leetcode algorithms we write.
 |  [705. Design HashSet](https://leetcode.com/problems/design-hashset)  | [Python](leetcode/Hash/705.DesignHashSet/705DesignHashSet.py)  |  Easy  |
 |  [706. Design HashMap](https://leetcode.com/problems/design-hashmap)  | [Python](leetcode/Hash/706.DesignHashMap/706DesignHashMap.py)  |  Easy  |
 |  [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)  | [Python](leetcode/array/717.isOneBitCharacter/717isOneBitCharacter.py)  |  Easy  |
+|  [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)  | [Python](leetcode/Hash/720.Longest%20Word%20in%20Dictionary/720Longest%20Word%20in%20Dictionary.py)  |  Easy  |
+|  [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)  | [Python](leetcode/array/724.Find%20Pivot%20Index/724Find%20Pivot%20Index.py)  |  Easy  |
+|  [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)  | [Python](leetcode/Math/728.Self%20Dividing%20Numbers/728Self%20Dividing%20Numbers.py)  |  Easy  |
 |  [733. Flood Fill](https://leetcode.com/problems/flood-fill)  | [Python](leetcode/matrix/733.floodFill/733floodFill.py)  |  Easy  |
 |  [743. Network Delay Time](https://leetcode.com/problems/network-delay-time)  | [Python](leetcode/Heap/743.Network%20Delay%20Time/743Network%20Delay%20Time.py)  |  Medium  |
+|  [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)  | [Python](leetcode/BinarySearch/744.Find%20Smallest%20Letter%20Greater%20Than%20Target/744Find%20Smallest%20Letter%20Greater%20Than%20Target.py)  |  Easy  |
+|  [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)  | [Python](leetcode/array/746.Min%20Cost%20Climbing%20Stairs/746Min%20Cost%20Climbing%20Stairs.py)  |  Easy  |
 |  [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word)  | [Python](leetcode/Hash/748.Shortest%20Completing%20Word/748Shortest%20Completing%20Word.py)  |  Easy  |
 |  [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)  | [Python](leetcode/Greedy/756.PyramidTransition/756PyramidTransition.py)  |  Medium  |
 |  [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)  | [Python](leetcode/BitOperation/762.PrimeSetBits/762PrimeSetBits.py)  |  Easy  |
@@ -322,7 +332,9 @@ This repo is build to collect leetcode algorithms we write.
 |  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)  | [C(++)](leetcode/BinarySearch/778.Swim%20in%20Rising%20Water/778Swim%20in%20Rising%20Water.cpp)  |  Hard  |
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
 |  [799. Champagne Tower](https://leetcode.com/problems/champagne-tower)  | [Python](leetcode/DP/799.Champagne%20Tower/799Champagne%20Tower.py)  |  Medium  |
+|  [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)  | [Python](leetcode/Depth-first%20Search/802.Find%20Eventual%20Safe%20States/802Find%20Eventual%20Safe%20States.py)  |  Medium  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
+|  [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors)  | [Python](leetcode/Tree/823.Binary%20Trees%20With%20Factors/823Binary%20Trees%20With%20Factors.py)  |  Medium  |
 |  [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)  | [Python](leetcode/Math/829.Consecutive%20Numbers%20Sum/829Consecutive%20Numbers%20Sum.py)  |  Hard  |
 |  [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)  | [Python](leetcode/Math/836.Rectangle%20Overlap/836Rectangle%20Overlap.py)  |  Easy  |
 |  [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)  | [Python](leetcode/BackTrack/841.Keys%20and%20Rooms/841Keys%20and%20Rooms.py)  |  Medium  |
