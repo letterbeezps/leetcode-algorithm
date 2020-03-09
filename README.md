@@ -8,7 +8,7 @@ This repo is build to collect leetcode algorithms we write.
 - Java: **3**
 - C(++): **40**
 
-**Total completed: 358**
+**Total completed: 381**
 
 
 ## Solutions
@@ -372,6 +372,29 @@ This repo is build to collect leetcode algorithms we write.
 |  [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)  | [C(++)](leetcode/array/1295.Find%20Numbers%20with%20Even%20Number%20of%20Digits/1295Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)  |  Easy  |
 |  [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)  | [Python](leetcode/array/1296.Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/1296Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.py)  |  Medium  |
 |  [1297. Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring)  | [Python](leetcode/STR/1297.Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/1297Maximum%20Number%20of%20Occurrences%20of%20a%20Substring.py)  |  Medium  |
+|  [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)  | [Python](leetcode/array/1299.Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)  |  Easy  |
+|  [1300. Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)  | [Python](leetcode/array/1300.Sum%20of%20Mutated%20Array%20Closest%20to%20Target/1300Sum%20of%20Mutated%20Array%20Closest%20to%20Target.py)  |  Medium  |
+|  [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score)  | [Python](leetcode/DP/1301.Number%20of%20Paths%20with%20Max%20Score/1301Number%20of%20Paths%20with%20Max%20Score.py)  |  Hard  |
+|  [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)  | [Python](leetcode/array/1304.Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/1304Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)  |  Easy  |
+|  [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)  | [Python](leetcode/Sort/1305.All%20Elements%20in%20Two%20Binary%20Search%20Trees/1305All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)  |  Medium  |
+|  [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii)  | [Python](leetcode/Breadth-first%20Search/1306.Jump%20Game%20III/1306Jump%20Game.py)  |  Medium  |
+|  [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)  | [Python](leetcode/DP/1312.Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/1312Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.py), [C(++)](leetcode/DP/1312.Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/1312Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)  |  Hard  |
+|  [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)  | [Python](leetcode/Math/1317.Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/1317Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.py)  |  Easy  |
+|  [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)  | [Python](leetcode/Depth-first%20Search/1319.Number%20of%20Operations%20to%20Make%20Network%20Connected/1319Number%20of%20Operations%20to%20Make%20Network%20Connected.py)  |  Medium  |
+|  [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)  | [Python](leetcode/Math/1323.Maximum%2069%20Number/1323Maximum%2069%20Number.py)  |  Easy  |
+|  [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically)  | [Python](leetcode/STR/1324.Print%20Words%20Vertically/1324Print%20Words%20Vertically.py)  |  Medium  |
+|  [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)  | [Python](leetcode/Tree/1325.Delete%20Leaves%20With%20a%20Given%20Value/1325Delete%20Leaves%20With%20a%20Given%20Value.py)  |  Medium  |
+|  [1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)  | [Python](leetcode/DP/1326.Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden/1326Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.py)  |  Hard  |
+|  [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome)  | [C(++)](leetcode/STR/1328.Break%20a%20Palindrome/1328Break%20a%20Palindrome.cpp)  |  Medium  |
+|  [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)  | [Python](leetcode/array/1329.Sort%20the%20Matrix%20Diagonally/1329Sort%20the%20Matrix%20Diagonally.py)  |  Medium  |
+|  [1330. Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value)  | [Python](leetcode/array/1330.Reverse%20Subarray%20To%20Maximize%20Array%20Value/1330Reverse%20Subarray%20To%20Maximize%20Array%20Value.py)  |  Hard  |
+|  [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)  | [C(++)](leetcode/array/1331.Rank%20Transform%20of%20an%20Array/1331Rank%20Transform%20of%20an%20Array.cpp)  |  Easy  |
+|  [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences)  | [Python](leetcode/STR/1332.Remove%20Palindromic%20Subsequences/1332Remove%20Palindromic%20Subsequences.py)  |  Easy  |
+|  [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)  | [C(++)](leetcode/Graph/1334.Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance/1334Floyd.cpp)  |  Medium  |
+|  [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)  | [Python](leetcode/array/1337.The%20K%20Weakest%20Rows%20in%20a%20Matrix/1337The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)  |  Easy  |
+|  [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)  | [Python](leetcode/array/1338.Reduce%20Array%20Size%20to%20The%20Half/1338Reduce%20Array%20Size%20to%20The%20Half.py)  |  Medium  |
+|  [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)  | [Python](leetcode/DP/1339.Maximum%20Product%20of%20Splitted%20Binary%20Tree/1339Maximum%20Product%20of%20Splitted%20Binary%20Tree.py)  |  Medium  |
+|  [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)  | [Python](leetcode/Sort/1356Sort%20Integers%20by%20The%20Number%20of%201%20Bits/1356Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)  |  Easy  |
 ## Contribution
 
 Use [Github issues](https://github.com/letterbeezps/leetcode-algorithm/issues) for requests.
