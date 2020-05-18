@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **362**
+- Python: **370**
 - JavaScript: **13**
 - Java: **3**
-- C(++): **40**
+- C(++): **41**
 
-**Total completed: 381**
+**Total completed: 382**
 
 
 ## Solutions
@@ -359,6 +359,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [1115. Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately)  | [C(++)](leetcode/Other/1115.Print%20FooBar%20Alternately/1115Print%20FooBar%20Alternately.cpp)  |  Medium  |
 |  [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)  | [Python](leetcode/Breadth-first%20Search/1129.Shortest%20Path%20with%20Alternating%20Colors/1129Shortest%20Path%20with%20Alternating%20Colors.py)  |  Medium  |
 |  [1145. Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game)  | [Python](leetcode/Tree/1145.Binary%20Tree%20Coloring%20Game/1145Binary%20Tree%20Coloring%20Game.py)  |  Medium  |
+|  [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)  | [Python](leetcode/STR/1160.countCharacters/1160countCharacters.py)  |  Easy  |
 |  [1175. Prime Arrangements](https://leetcode.com/problems/prime-arrangements)  | [Python](leetcode/Math/1175.Prime%20Arrangements/1175Prime%20Arrangements.py)  |  Easy  |
 |  [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)  | [Python](leetcode/array/1202.Smallest%20String%20With%20Swaps/1202Smallest%20String%20With%20Swaps.py)  |  Medium  |
 |  [1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii)  | [Python](leetcode/DP/1278.Palindrome%20Partitioning/1278Palindrome%20Partitioning.py)  |  Hard  |
