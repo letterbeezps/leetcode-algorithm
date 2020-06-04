@@ -4,7 +4,7 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **362**
-- JavaScript: **13**
+- JavaScript: **15**
 - Java: **3**
 - C(++): **40**
 
@@ -86,7 +86,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [71. Simplify Path](https://leetcode.com/problems/simplify-path)  | [Python](leetcode/STR/71.SimplifyPath/71SimplifyPath.py)  |  Medium  |
 |  [72. Edit Distance](https://leetcode.com/problems/edit-distance)  | [Python](leetcode/STR/72.EditDistance/72EditDistance.py)  |  Hard  |
 |  [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)  | [Python](leetcode/array/73.setZeroes/73setZeroes.py)  |  Medium  |
-|  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py)  |  Medium  |
+|  [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)  | [Python](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.py), [JavaScript](leetcode/array/74.SearchA2DMatrix/74Searcha2DMatrix.js)  |  Medium  |
 |  [75. Sort Colors](https://leetcode.com/problems/sort-colors)  | [Python](leetcode/array/75.SortColors/75SortColors.py)  |  Medium  |
 |  [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)  | [Python](leetcode/Hash/76.Minimum%20Window%20Substring/76Minimum%20Window%20Substring.py), [C(++)](leetcode/Hash/76.Minimum%20Window%20Substring/76CPP.cpp)  |  Hard  |
 |  [77. Combinations](https://leetcode.com/problems/combinations)  | [Python](leetcode/STR/77.Combination/77Combination.py)  |  Medium  |
@@ -155,7 +155,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)  | [Python](leetcode/STR/165.CompareVersionNumber/165CompareVersionNumber.py)  |  Medium  |
 |  [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)  | [Python](leetcode/Hash/166.Fraction%20to%20Recurring%20Decimal/166Fraction%20to%20Recurring%20Decimal.py)  |  Medium  |
 |  [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)  | [Python](leetcode/array/167.TwoSum/167TwoSum.py)  |  Easy  |
-|  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py)  |  Easy  |
+|  [169. Majority Element](https://leetcode.com/problems/majority-element)  | [Python](leetcode/array/169.MajorityElement/169MajorityElement.py), [JavaScript](leetcode/array/169.MajorityElement/169MajorityElement.js)  |  Easy  |
 |  [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)  | [Python](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.py), [C(++)](leetcode/Stack/173.Binary%20Search%20Tree%20Iterator/173Binary%20Search%20Tree%20Iterator.cpp)  |  Medium  |
 |  [174. Dungeon Game](https://leetcode.com/problems/dungeon-game)  | [Python](leetcode/DP/174.Dungeon%20Game/174Dungeon%20Game.py)  |  Hard  |
 |  [179. Largest Number](https://leetcode.com/problems/largest-number)  | [Python](leetcode/Sort/179.Largest%20Number/179.%20Largest%20Number.py)  |  Medium  |
