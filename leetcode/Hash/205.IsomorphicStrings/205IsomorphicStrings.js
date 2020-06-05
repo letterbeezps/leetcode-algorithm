@@ -1,9 +1,3 @@
-/*
- * @Date: 2020-06-05 17:27:37
- * @LastEditors: 周泽泽
- * @LastEditTime: 2020-06-05 18:21:42
- * @FilePath: /leetcode-algorithm/leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.js
- */
 /**
  * @param {string} s
  * @param {string} t
