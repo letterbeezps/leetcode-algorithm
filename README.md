@@ -4,7 +4,7 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **362**
-- JavaScript: **15**
+- JavaScript: **16**
 - Java: **3**
 - C(++): **40**
 
@@ -168,7 +168,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)  | [Python](leetcode/BitOperation/201.rangeBitwiseAnd/201rangeBitwiseAnd.py)  |  Medium  |
 |  [202. Happy Number](https://leetcode.com/problems/happy-number)  | [Python](leetcode/Hash/202.HappyNumber/202HappyNumber.py)  |  Easy  |
 |  [204. Count Primes](https://leetcode.com/problems/count-primes)  | [Python](leetcode/Hash/204.Count%20Primes/204Count%20Primes.py)  |  Easy  |
-|  [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)  | [Python](leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.py)  |  Easy  |
+|  [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)  | [Python](leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.py), [JavaScript](leetcode/Hash/205.IsomorphicStrings/205IsomorphicStrings.js)  |  Easy  |
 |  [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [Python](leetcode/List/206.ReverseLinkedList/206ReverseLinkedList.py)  |  Easy  |
 |  [207. Course Schedule](https://leetcode.com/problems/course-schedule)  | [Python](leetcode/Depth-first%20Search/207.Course%20Schedule/207Course%20Schedule.py)  |  Medium  |
 |  [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)  | [Python](leetcode/Design/208.ImplementTrie/208ImplementTrie.py)  |  Medium  |
