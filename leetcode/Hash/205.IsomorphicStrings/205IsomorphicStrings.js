@@ -3,7 +3,8 @@
  * @param {string} t
  * @return {boolean}
  */
-var isIsomorphic = function (s, t) {
+
+var isIsomorphic$1 = function (s, t) {
     const s2t = {};
     const t2s = {};
     let result = true;
@@ -23,4 +24,28 @@ var isIsomorphic = function (s, t) {
     });
 
     return result;
+};
+
+var isIsomorphic$2 = function (s, t) {
+    const s2t = {};
+    const t2s = {};
+
+    for (let index in s) {
+        if (s.hasOwnProperty(index)) {
+            const sEle = s[index];
+            const tEle = t[index];
+            if (s2t[sEle] == null) {
+                s2t[sEle] = t[index];
+            } else if (s2t[sEle] && s2t[sEle] !== tEle) {
+                return false;
+            }
+            if (t2s[tEle] == null) {
+                t2s[tEle] = s[index];
+            } else if (t2s[tEle] && t2s[tEle] !== sEle) {
+                return false;
+            }
+        }
+    }
+
+    return true;
 };
