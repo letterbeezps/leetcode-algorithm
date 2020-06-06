@@ -3,12 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-- Python: **370**
+- Python: **375**
 - JavaScript: **13**
 - Java: **3**
 - C(++): **41**
 
-**Total completed: 382**
+**Total completed: 384**
 
 
 ## Solutions
@@ -212,6 +212,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Easy  |
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  | [Python](leetcode/DP/303.Range%20Sum%20Query%20-%20Immutable/303Range%20Sum%20Query%20-%20Immutable.py)  |  Easy  |
+|  [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)  | [Python](leetcode/DP/304.code/304python.py)  |  Medium  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)  | [Python](leetcode/BinarySearch/307.Range%20Sum%20Query%20-%20Mutable/307Range%20Sum%20Query.py)  |  Medium  |
 |  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons)  | [C(++)](leetcode/DivideAndConquer/312.Burst%20Balloons/312Burst%20Balloons.cpp)  |  Hard  |
@@ -332,6 +333,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)  | [C(++)](leetcode/BinarySearch/778.Swim%20in%20Rising%20Water/778Swim%20in%20Rising%20Water.cpp)  |  Hard  |
 |  [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)  | [Python](leetcode/STR/784.LetterCasePermutation/784LetterCasePermutation.py)  |  Easy  |
 |  [799. Champagne Tower](https://leetcode.com/problems/champagne-tower)  | [Python](leetcode/DP/799.Champagne%20Tower/799Champagne%20Tower.py)  |  Medium  |
+|  [801. Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)  | [Python](leetcode/DP/801.code/801.py)  |  Medium  |
 |  [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)  | [Python](leetcode/Depth-first%20Search/802.Find%20Eventual%20Safe%20States/802Find%20Eventual%20Safe%20States.py)  |  Medium  |
 |  [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)  | [Python](leetcode/Hash/811.SubdomainVisitCount/811SubdomainVisitCount.py)  |  Easy  |
 |  [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors)  | [Python](leetcode/Tree/823.Binary%20Trees%20With%20Factors/823Binary%20Trees%20With%20Factors.py)  |  Medium  |
