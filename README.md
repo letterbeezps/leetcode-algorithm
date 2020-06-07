@@ -4,11 +4,11 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **362**
-- JavaScript: **16**
+- JavaScript: **17**
 - Java: **3**
 - C(++): **40**
 
-**Total completed: 381**
+**Total completed: 382**
 
 
 ## Solutions
@@ -269,6 +269,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)  | [Python](leetcode/Stack/496.NextGreaterElement/496python3.py)  |  Easy  |
 |  [504. Base 7](https://leetcode.com/problems/base-7)  | [Python](leetcode/Other/504.Base7/504Base7.py)  |  Easy  |
 |  [507. Perfect Number](https://leetcode.com/problems/perfect-number)  | [Python](leetcode/Math/507.PerfectNumber/507Perfectnumber.py)  |  Easy  |
+|  [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number)  | [JavaScript](leetcode/array/509.%20Fibonacci%20Number/509.%20Fibonacci%20Number.js)  |  Easy  |
 |  [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)  | [Python](leetcode/Tree/513.Find%20Bottom%20Left%20Tree%20Value/513Find%20Bottom%20Left%20Tree%20Value.py)  |  Medium  |
 |  [518. Coin Change 2](https://leetcode.com/problems/coin-change-2)  | [Python](leetcode/DP/518.CoinChange2/518CoinChange2.py)  |  Medium  |
 |  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)  | [Python](leetcode/Hash/525.ContigousArray/525ContigousArray.py)  |  Medium  |
