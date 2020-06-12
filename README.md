@@ -4,7 +4,7 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **362**
-- JavaScript: **17**
+- JavaScript: **19**
 - Java: **3**
 - C(++): **40**
 
@@ -39,7 +39,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [Python](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |  Hard  |
 |  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  | [Python](leetcode/List/24.SwapPairs/24SwapPairs.py)  |  Medium  |
 |  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [Python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |  Hard  |
-|  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [Python](leetcode/array/26.removeDuplicate/26removeDuplicate.py)  |  Easy  |
+|  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [Python](leetcode/array/26.removeDuplicate/26removeDuplicate.py), [JavaScript](leetcode/array/26.removeDuplicate/26removeDuplicate.js)  |  Easy  |
 |  [27. Remove Element](https://leetcode.com/problems/remove-element)  | [Python](leetcode/array/27.RemoveElement/27RemoveElement.py)  |  Easy  |
 |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [Python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  Easy  |
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |
@@ -209,7 +209,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)  | [Python](leetcode/BinarySearch/287.FindTheDuplicateNumber/287FindTheDuplicateNumber.py)  |  Medium  |
 |  [289. Game of Life](https://leetcode.com/problems/game-of-life)  | [Python](leetcode/array/289.gameOfLife/289gameOfLife.py)  |  Medium  |
 |  [290. Word Pattern](https://leetcode.com/problems/word-pattern)  | [Python](leetcode/Hash/290.WordPattern/290WordPattern.py)  |  Easy  |
-|  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py)  |  Easy  |
+|  [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)  | [Python](leetcode/Hash/299.BullAndCows/299BullandCows.py), [JavaScript](leetcode/Hash/299.BullAndCows/299BullandCows.js)  |  Easy  |
 |  [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)  | [Python](leetcode/BinarySearch/300.LongestIncreaseSubsequence/300python3.py)  |  Medium  |
 |  [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)  | [Python](leetcode/DP/303.Range%20Sum%20Query%20-%20Immutable/303Range%20Sum%20Query%20-%20Immutable.py)  |  Easy  |
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
