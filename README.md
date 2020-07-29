@@ -4,11 +4,11 @@ This repo is build to collect leetcode algorithms we write.
 ## Completion Statistic:
 
 - Python: **362**
-- JavaScript: **19**
+- JavaScript: **20**
 - Java: **3**
 - C(++): **40**
 
-**Total completed: 382**
+**Total completed: 383**
 
 
 ## Solutions
@@ -347,6 +347,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)  | [Python](leetcode/array/891.Sum%20of%20Subsequence%20Widths/891.Sum%20of%20Subsequence%20Widths.py)  |  Hard  |
 |  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)  | [Python](leetcode/Tree/897.IncreasingOrderSearchTree/897python3.py), [JavaScript](leetcode/Tree/897.IncreasingOrderSearchTree/897IncreasingOrderSearchTree.js)  |  Easy  |
 |  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)  | [Python](leetcode/array/905.SortArrayByParity/905SortArrayByParity.py)  |  Easy  |
+|  [912. Sort an Array](https://leetcode.com/problems/sort-an-array)  | [JavaScript](leetcode/array/912.SortAnArray/912SortAnArray.js)  |  Medium  |
 |  [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)  | [Python](leetcode/Hash/930.Binary%20Subarrays%20With%20Sum/930Binary%20Subarrays%20With%20Sum.py)  |  Medium  |
 |  [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)  | [Python](leetcode/DP/931.Minimum%20Falling%20Path%20Sum/931Minimum%20Falling%20Path%20Sum.py)  |  Medium  |
 |  [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)  | [Python](leetcode/Tree/958.CheckCompletenessBinaryTree/958python3.py)  |  Medium  |
