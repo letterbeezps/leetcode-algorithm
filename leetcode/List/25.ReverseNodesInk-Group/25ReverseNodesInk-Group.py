@@ -7,6 +7,7 @@
 ###############################
 ############solution1##########
 
+
 class Solution:
     def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
         if not head:
@@ -21,17 +22,17 @@ class Solution:
                 if curr_next:
                     stack.append(curr_next)
                     curr_next = curr_next.next
-            #end_for
+            # end_for
             if len(stack) != k:
                 return dummy.next
             while len(stack):
                 current.next = stack.pop()
                 current = current.next
                 print(current.val)
-            #end
+            # end
             current.next = curr_next
-        #end_while
-        
+        # end_while
+
         return dummy.next
 
 
@@ -51,7 +52,7 @@ class Solution:
         dummy = ListNode(0)
         dummy.next = head
         pre = dummy
-        
+
         def reverse(pre: ListNode, k: int) -> ListNode:
             last = pre
             for i in range(k+1):
@@ -67,7 +68,7 @@ class Solution:
                 pre.next = curr
                 tail.next = curr_next
                 curr = curr_next
-            #end_while
+            # end_while
             return tail
         ###
         while pre:

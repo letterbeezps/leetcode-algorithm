@@ -39,10 +39,12 @@ This repo is build to collect leetcode algorithms we write.
 |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | [Python](leetcode/STR/20.ValidParetheses/20ValidParetheses.py), [JavaScript](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |  Easy  |
 |  [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | [Python](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |  Easy  |
 |  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  | [Python](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |  Medium  |
+
 |  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [Python](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |  Hard  |
 |  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  | [Python](leetcode/List/24.SwapPairs/24SwapPairs.py)  |  Medium  |
 |  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [Python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |  Hard  |
 |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [Python](leetcode/array/26.removeDuplicate/26removeDuplicate.py), [JavaScript](leetcode/array/26.removeDuplicate/26removeDuplicate.js)  |  Easy  |
+
 |  [27. Remove Element](https://leetcode.com/problems/remove-element)  | [Python](leetcode/array/27.RemoveElement/27RemoveElement.py)  |  Easy  |
 |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [Python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  Easy  |
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |

@@ -6,6 +6,7 @@
 
 from collections import Counter
 
+
 class Solution:
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
         counter = Counter()
@@ -13,11 +14,11 @@ class Solution:
             while (list):
                 counter[list.val] += 1
                 list = list.next
-        counter = sorted(counter.items(), key=lambda x:x[0])
+        counter = sorted(counter.items(), key=lambda x: x[0])
         result = ListNode("dummy")
         orig = result
         for k in counter:
-            a,b = k  # k now is a truple
+            a, b = k  # k now is a truple
             for i in range(b):
                 new_node = ListNode(a)
                 result.next = new_node
