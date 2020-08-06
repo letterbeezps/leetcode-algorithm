@@ -13,7 +13,6 @@ all.stat_status_pairs
     }))
     .forEach(item => {
         questionObj[item.frontId] = item;
-        questionObj[item.id] = item;
         
     });
 

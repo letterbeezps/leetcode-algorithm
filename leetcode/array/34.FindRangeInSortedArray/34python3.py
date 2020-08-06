@@ -14,34 +14,29 @@ class Solution:
             return res
         s_point, e_point = -1, -1
         left, right = 0, len(nums)-1
-        while left+1 < right:
+        while left < right:
             # find the s_point
-            mid = left + (right - left) // 2
+            mid = left + right >> 1
             if nums[mid] >= target:
                 right = mid
             else:
-                left = mid
+                left = mid+1
         #end_while
         if nums[left] == target:
             s_point = left
-        elif nums[right] == target:
-            s_point = right
         if s_point == -1:
             return res
         
         left, right = 0, len(nums)-1
-        while left+1 < right:
+        while left < right:
             # find the e_point
-            mid = left + (right - left) // 2
+            mid = left + right + 1 >> 1
             if nums[mid] > target:
-                right = mid
+                right = mid-1
             else:
                 left = mid
         #end_while
-        if nums[right] == target:
-            e_point = right
-        elif nums[left] == target:
-            e_point = left
+        e_point = left
         res = [s_point, e_point]
         return res
         

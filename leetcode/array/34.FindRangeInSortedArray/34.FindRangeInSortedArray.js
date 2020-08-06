@@ -6,7 +6,7 @@
   ✔ Your memory usage beats 35.88 % of javascript submissions (35.1 MB)
  */
 
-var searchRange = function(nums, target) {
+var searchRange$1 = function (nums, target) {
     var mid = Math.floor(nums.length / 2);
     if (nums[0] > target || nums[nums.length - 1] < target) return [-1, -1];
 
@@ -37,4 +37,28 @@ var searchRange = function(nums, target) {
         l = mid;
     }
     return [l, r];
+};
+
+var searchRange$2 = function (nums, target) {
+    const res1 = nums.slice(0).reduce((acc, cur, index, arr) => {
+        if (cur === target) {
+            acc.push(index);
+            arr.splice(1);
+            return acc;
+        }
+        return acc;
+    }, []);
+    const res2 = nums.slice(0).reduceRight((acc, cur, index, arr) => {
+        if (cur === target) {
+            acc.push(index);
+            arr = [];
+            return acc;
+        }
+        return acc;
+    }, []);
+    if (res1.length > 0) {
+        return res1.concat(res2[0]);
+    } else {
+        return [-1, -1];
+    }
 };

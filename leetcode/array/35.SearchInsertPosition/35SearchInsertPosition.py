@@ -10,18 +10,11 @@ class Solution:
         # binary search
         left = 0
         right = l-1
-        while left+1 < right:
-            mid = left + (right - left) // 2
-            if nums[mid] < target:
-                left = mid
-            elif nums[mid] > target:
+        while left < right:
+            mid = left + right >> 1
+            if nums[mid] >= target:
                 right = mid
             else:
-                return mid
-        #end_while
-        if nums[right] < target:
-            return right+1
-        elif nums[left] >= target:
-            return left
-        else:
-            return right
+                left = mid + 1
+        return left
+                

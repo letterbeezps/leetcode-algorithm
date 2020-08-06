@@ -38,3 +38,30 @@ public:
         return res;
     }
 };
+
+////////////////////Graph/////////
+class Solution {
+public:
+    int findCircleNum(vector<vector<int>>& M) {
+        if (M.empty()) return 0;
+        int n = M.size();
+        vector<int> visited(n, 0);
+        int ans = 0;
+        for (int i=0; i<n; i++)
+        {
+            if (visited[i]) continue;
+            dfs(M, i, n, visited);
+            ++ans;
+        }
+        return ans;
+    }
+private:
+    void dfs(const vector<vector<int>>& M, int cur, int n, vector<int>& visited)
+    {
+        if (visited[cur]) return;
+        visited[cur] = 1;
+        for (int i=0; i<n; i++)
+            if (M[cur][i] && !visited[i])
+                dfs(M, i, n, visited);
+    }
+};
