@@ -3,15 +3,12 @@ This repo is build to collect leetcode algorithms we write.
 
 ## Completion Statistic:
 
-
-- Python: **362**
-- JavaScript: **20**
+- Python: **383**
+- JavaScript: **25**
 - Java: **3**
-- C(++): **41**
+- C(++): **42**
 
-
-**Total completed: 392**
-
+**Total completed: 395**
 
 
 ## Solutions
@@ -39,12 +36,10 @@ This repo is build to collect leetcode algorithms we write.
 |  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | [Python](leetcode/STR/20.ValidParetheses/20ValidParetheses.py), [JavaScript](leetcode/STR/20.ValidParetheses/20ValidParetheses.js)  |  Easy  |
 |  [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | [Python](leetcode/List/21.mergeTwoLists/21mergeTwoLists.py)  |  Easy  |
 |  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)  | [Python](leetcode/BackTrack/22.GenerateParentheses/22GenerateParentheses.py)  |  Medium  |
-
-|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [Python](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py)  |  Hard  |
+|  [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  | [Python](leetcode/List/23.MergeSortedLists/23MergeSortedLists.py), [JavaScript](leetcode/List/23.MergeSortedLists/23MergeSortedLists.js)  |  Hard  |
 |  [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)  | [Python](leetcode/List/24.SwapPairs/24SwapPairs.py)  |  Medium  |
-|  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [Python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py)  |  Hard  |
+|  [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  | [Python](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.py), [JavaScript](leetcode/List/25.ReverseNodesInk-Group/25ReverseNodesInk-Group.js)  |  Hard  |
 |  [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | [Python](leetcode/array/26.removeDuplicate/26removeDuplicate.py), [JavaScript](leetcode/array/26.removeDuplicate/26removeDuplicate.js)  |  Easy  |
-
 |  [27. Remove Element](https://leetcode.com/problems/remove-element)  | [Python](leetcode/array/27.RemoveElement/27RemoveElement.py)  |  Easy  |
 |  [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)  | [Python](leetcode/STR/28.ImplementstrStr()/28python3.py)  |  Easy  |
 |  [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers)  | [Python](leetcode/Math/29.DivideTwoIntegers/29python3.py)  |  Medium  |
@@ -57,10 +52,10 @@ This repo is build to collect leetcode algorithms we write.
 |  [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)  | [Python](leetcode/array/36.isValidSudoku/36isValidSudoku.py)  |  Medium  |
 |  [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  | [Python](leetcode/BackTrack/37.SudokuSolver/37SudokuSovler.py), [Java](leetcode/BackTrack/37.SudokuSolver/37SudokuSolver.java)  |  Hard  |
 |  [38. Count and Say](https://leetcode.com/problems/count-and-say)  | [Python](leetcode/STR/38.CountAndSay/38CountAndSay.py)  |  Easy  |
-|  [39. Combination Sum](https://leetcode.com/problems/combination-sum)  | [Python](leetcode/array/39.ComninationSum/39CombinationSum.py)  |  Medium  |
+|  [39. Combination Sum](https://leetcode.com/problems/combination-sum)  | [Python](leetcode/array/39.ComninationSum/39CombinationSum.py), [JavaScript](leetcode/array/39.ComninationSum/39CombinationSum.js)  |  Medium  |
 |  [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)  | [Python](leetcode/BackTrack/40.CombinationSumII/40CombinationSum.py)  |  Medium  |
 |  [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)  | [Python](leetcode/array/41.FirstMissingPositive/41FirstMissingPositive.py)  |  Hard  |
-|  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [Python](leetcode/array/42.Trapping/42Trapping.py)  |  Hard  |
+|  [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  | [Python](leetcode/array/42.Trapping/42Trapping.py), [JavaScript](leetcode/array/42.Trapping/42Trapping.js)  |  Hard  |
 |  [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)  | [Python](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.py), [C(++)](leetcode/Math/43.MultiplyStrings/43MultiplyStrings.cpp)  |  Medium  |
 |  [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching)  | [Python](leetcode/DP/44.WildcardMatching/44WildcardMatching.py)  |  Hard  |
 |  [45. Jump Game II](https://leetcode.com/problems/jump-game-ii)  | [Python](leetcode/Greedy/45.JumpGame/45JumpGame.py)  |  Hard  |
@@ -186,7 +181,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [212. Word Search II](https://leetcode.com/problems/word-search-ii)  | [Python](leetcode/BackTrack/212.WordSearch/212WordSearch.py)  |  Hard  |
 |  [213. House Robber II](https://leetcode.com/problems/house-robber-ii)  | [Python](leetcode/DP/213.HouseRobber/213HouserRoober.py)  |  Medium  |
 |  [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)  | [Python](leetcode/STR/214.Shortest%20Palindrome/214Shortest%20Palindrome.py)  |  Hard  |
-|  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py)  |  Medium  |
+|  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  | [Python](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215python3.py), [JavaScript](leetcode/DivideAndConquer/215.KthLargestElementInAnArray/215KthLargestElementInAnArray.js)  |  Medium  |
 |  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  | [Python](leetcode/Hash/217.ContainsDuplicate/217ContainsDuplicate.py)  |  Easy  |
 |  [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  | [Python](leetcode/array/219.ContainsDuplicate/219ContainsDuplicate.py)  |  Easy  |
 |  [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii)  | [Python](leetcode/Sort/220.ContainDuplicate/220.ContainDuplicate.py)  |  Medium  |
@@ -228,6 +223,7 @@ This repo is build to collect leetcode algorithms we write.
 |  [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)  | [Python](leetcode/UnionFind/305.NumsOfisland/305NumsOfIsland.py)  |  Hard  |
 |  [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)  | [Python](leetcode/BinarySearch/307.Range%20Sum%20Query%20-%20Mutable/307Range%20Sum%20Query.py)  |  Medium  |
 |  [312. Burst Balloons](https://leetcode.com/problems/burst-balloons)  | [C(++)](leetcode/DivideAndConquer/312.Burst%20Balloons/312Burst%20Balloons.cpp)  |  Hard  |
+|  [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters)  | [C(++)](leetcode/Stack/316.code/316.cpp)  |  Hard  |
 |  [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher)  | [Python](leetcode/Math/319.Bulb%20Switcher/319Bulb%20Switcher.py)  |  Medium  |
 |  [322. Coin Change](https://leetcode.com/problems/coin-change)  | [Python](leetcode/DP/322.CoinChange/322CoinChange.py)  |  Medium  |
 |  [326. Power of Three](https://leetcode.com/problems/power-of-three)  | [C(++)](leetcode/Math/326.Power%20of%20Three/326Power%20of%20Three.cpp)  |  Easy  |
